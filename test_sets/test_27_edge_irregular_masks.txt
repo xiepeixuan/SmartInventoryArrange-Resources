@@ -1,0 +1,47 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:55.281
+Outcome: test-set
+TestSetId: 27
+Scenario: edge_irregular_masks
+LayoutMode: messy
+TargetDensity: 0.720
+ActualDensity: 0.725
+RandomSeed: 2026128544
+ContainerSize: 20x16
+[001] Name: printed_gun | ItemId: printed_gun | Coordinate: (0,0) | Size: 4x3 | Type: WEAPON | Orientation: 2
+[002] Name: stun_gun | ItemId: stun_gun | Coordinate: (10,0) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[003] Name: common_ore | ItemId: common_ore | Coordinate: (14,0) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[004] Name: common_ore | ItemId: common_ore | Coordinate: (7,1) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[005] Name: wire | ItemId: wire | Coordinate: (17,1) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[006] Name: flux_agent | ItemId: flux_agent | Coordinate: (6,2) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[007] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (14,2) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[008] Name: kotton_fiber | ItemId: kotton_fiber | Coordinate: (0,3) | Size: 1x2 | Type: MATERIAL | Orientation: 0
+[009] Name: water_jug | ItemId: water_jug | Coordinate: (1,3) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[010] Name: stun_gun | ItemId: stun_gun | Coordinate: (6,3) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[011] Name: raw_meat | ItemId: raw_meat | Coordinate: (10,4) | Size: 3x2 | Type: FOOD | Orientation: 0
+[012] Name: water_jug | ItemId: water_jug | Coordinate: (14,4) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[013] Name: raw_meat | ItemId: raw_meat | Coordinate: (18,5) | Size: 2x3 | Type: FOOD | Orientation: 1
+[014] Name: printed_gun | ItemId: printed_gun | Coordinate: (7,6) | Size: 4x3 | Type: WEAPON | Orientation: 2
+[015] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (1,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[016] Name: water_jug | ItemId: water_jug | Coordinate: (3,7) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[017] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (13,7) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[018] Name: raw_meat | ItemId: raw_meat | Coordinate: (14,8) | Size: 2x3 | Type: FOOD | Orientation: 1
+[019] Name: stun_gun | ItemId: stun_gun | Coordinate: (16,8) | Size: 4x3 | Type: WEAPON | Orientation: 2
+[020] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (7,9) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[021] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (11,9) | Size: 2x2 | Type: MODULE | Orientation: 0
+[022] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (1,10) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[023] Name: stun_gun | ItemId: stun_gun | Coordinate: (8,10) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[024] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (3,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[025] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (11,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[026] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (13,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[027] Name: stun_gun | ItemId: stun_gun | Coordinate: (15,11) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[028] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (5,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[029] Name: printed_gun | ItemId: printed_gun | Coordinate: (7,12) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[030] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (18,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[031] Name: raw_meat | ItemId: raw_meat | Coordinate: (0,13) | Size: 2x3 | Type: FOOD | Orientation: 1
+[032] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (12,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[033] Name: common_ore | ItemId: common_ore | Coordinate: (2,14) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[034] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (5,14) | Size: 2x2 | Type: MODULE | Orientation: 0
+[035] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (14,14) | Size: 2x2 | Type: MODULE | Orientation: 0
+[036] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (18,14) | Size: 2x2 | Type: MODULE | Orientation: 0
+========== Result End ==========

@@ -1,0 +1,66 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:32.688
+Outcome: test-set
+TestSetId: 179
+Scenario: independent_30x30_dense_38pct
+LayoutMode: dense
+TargetDensity: 0.380
+ActualDensity: 0.380
+RandomSeed: 20261193811
+ContainerSize: 30x30
+[001] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[002] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (1,0) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[003] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (2,0) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[004] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (3,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[005] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (5,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[006] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (7,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[007] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (9,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[008] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (10,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[009] Name: sign_household | ItemId: sign_household | Coordinate: (12,0) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[010] Name: common_chemical | ItemId: common_chemical | Coordinate: (14,0) | Size: 3x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[011] Name: cassette5d | ItemId: cassette5d | Coordinate: (17,0) | Size: 2x2 | Type: ART | Orientation: 0
+[012] Name: nutrifruit_seed | ItemId: nutrifruit_seed | Coordinate: (19,0) | Size: 1x1 | Type: SEED | Orientation: 0
+[013] Name: nutrifruit_seed | ItemId: nutrifruit_seed | Coordinate: (20,0) | Size: 1x1 | Type: SEED | Orientation: 0
+[014] Name: nutrifruit_seed | ItemId: nutrifruit_seed | Coordinate: (21,0) | Size: 1x1 | Type: SEED | Orientation: 0
+[015] Name: blood_bag | ItemId: blood_bag | Coordinate: (22,0) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[016] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (1,1) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[017] Name: labeler | ItemId: labeler | Coordinate: (19,1) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[018] Name: dream_dust | ItemId: dream_dust | Coordinate: (0,2) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[019] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (3,2) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[020] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (5,2) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[021] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (7,2) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (9,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[023] Name: nutrifruit_seed | ItemId: nutrifruit_seed | Coordinate: (10,2) | Size: 1x1 | Type: SEED | Orientation: 0
+[024] Name: fridge | ItemId: fridge | Coordinate: (11,2) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[025] Name: energy_credit | ItemId: energy_credit | Coordinate: (14,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[026] Name: energy_credit | ItemId: energy_credit | Coordinate: (15,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[027] Name: energy_credit | ItemId: energy_credit | Coordinate: (16,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[028] Name: energy_credit | ItemId: energy_credit | Coordinate: (17,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[029] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (18,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[030] Name: backpack_large | ItemId: backpack_large | Coordinate: (21,2) | Size: 6x4 | Type: ~unknown | Orientation: 1
+[031] Name: fridge | ItemId: fridge | Coordinate: (0,3) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[032] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (9,3) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[033] Name: energy_credit | ItemId: energy_credit | Coordinate: (3,4) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[034] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (5,4) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[035] Name: energy_credit | ItemId: energy_credit | Coordinate: (3,5) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[036] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (5,5) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[037] Name: storage_bay | ItemId: storage_bay | Coordinate: (8,5) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[038] Name: storage_bay | ItemId: storage_bay | Coordinate: (11,5) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[039] Name: storage_bay | ItemId: storage_bay | Coordinate: (14,5) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[040] Name: storage_bay | ItemId: storage_bay | Coordinate: (17,5) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[041] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,6) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[042] Name: common_electronic | ItemId: common_electronic | Coordinate: (2,6) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[043] Name: common_electronic | ItemId: common_electronic | Coordinate: (4,6) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[044] Name: common_electronic | ItemId: common_electronic | Coordinate: (6,6) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[045] Name: backpack_large | ItemId: backpack_large | Coordinate: (25,6) | Size: 4x6 | Type: ~unknown | Orientation: 0
+[046] Name: storage_bay | ItemId: storage_bay | Coordinate: (8,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[047] Name: storage_bay | ItemId: storage_bay | Coordinate: (11,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[048] Name: storage_bay | ItemId: storage_bay | Coordinate: (14,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[049] Name: machine_bay | ItemId: machine_bay | Coordinate: (17,8) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[050] Name: machine_bay | ItemId: machine_bay | Coordinate: (21,8) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[051] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,9) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[052] Name: powerblock | ItemId: powerblock | Coordinate: (3,9) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[053] Name: wine_berry | ItemId: wine_berry | Coordinate: (0,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[054] Name: backpack_large | ItemId: backpack_large | Coordinate: (23,12) | Size: 6x4 | Type: ~unknown | Orientation: 1
+[055] Name: backpack_large | ItemId: backpack_large | Coordinate: (23,16) | Size: 6x4 | Type: ~unknown | Orientation: 1
+========== Result End ==========

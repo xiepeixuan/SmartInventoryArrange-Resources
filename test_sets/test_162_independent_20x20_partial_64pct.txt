@@ -1,0 +1,77 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:24.229
+Outcome: test-set
+TestSetId: 162
+Scenario: independent_20x20_partial_64pct
+LayoutMode: partial
+TargetDensity: 0.640
+ActualDensity: 0.640
+RandomSeed: 20261176658
+ContainerSize: 20x20
+[001] Name: zerochew | ItemId: zerochew | Coordinate: (1,0) | Size: 1x1 | Type: FOOD | Orientation: 0
+[002] Name: zerochew | ItemId: zerochew | Coordinate: (2,0) | Size: 1x1 | Type: FOOD | Orientation: 0
+[003] Name: card_rev | ItemId: card_rev | Coordinate: (6,0) | Size: 1x2 | Type: DOCUMENT | Orientation: 1
+[004] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (8,0) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[005] Name: zerochew | ItemId: zerochew | Coordinate: (10,0) | Size: 1x1 | Type: FOOD | Orientation: 0
+[006] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (11,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[007] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (13,0) | Size: 3x1 | Type: TREAT | Orientation: 0
+[008] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (16,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[009] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (18,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[010] Name: zerochew | ItemId: zerochew | Coordinate: (1,1) | Size: 1x1 | Type: FOOD | Orientation: 0
+[011] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (2,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[012] Name: water_guide | ItemId: water_guide | Coordinate: (4,1) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[013] Name: zerochew | ItemId: zerochew | Coordinate: (7,1) | Size: 1x1 | Type: FOOD | Orientation: 0
+[014] Name: zerochew | ItemId: zerochew | Coordinate: (9,1) | Size: 1x1 | Type: FOOD | Orientation: 0
+[015] Name: zerochew | ItemId: zerochew | Coordinate: (10,1) | Size: 1x1 | Type: FOOD | Orientation: 0
+[016] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (8,2) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[017] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (10,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[018] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (12,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[019] Name: fridge | ItemId: fridge | Coordinate: (15,2) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[020] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (18,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[021] Name: card_rev | ItemId: card_rev | Coordinate: (1,3) | Size: 1x2 | Type: DOCUMENT | Orientation: 1
+[022] Name: card_rev | ItemId: card_rev | Coordinate: (2,3) | Size: 2x1 | Type: DOCUMENT | Orientation: 0
+[023] Name: water_guide | ItemId: water_guide | Coordinate: (6,3) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[024] Name: zerochew | ItemId: zerochew | Coordinate: (9,3) | Size: 1x1 | Type: FOOD | Orientation: 0
+[025] Name: water_guide | ItemId: water_guide | Coordinate: (2,4) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[026] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (9,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[027] Name: raw_meat | ItemId: raw_meat | Coordinate: (11,4) | Size: 3x2 | Type: FOOD | Orientation: 0
+[028] Name: zerochew | ItemId: zerochew | Coordinate: (18,4) | Size: 1x1 | Type: FOOD | Orientation: 0
+[029] Name: zerochew | ItemId: zerochew | Coordinate: (19,4) | Size: 1x1 | Type: FOOD | Orientation: 0
+[030] Name: card_rev | ItemId: card_rev | Coordinate: (1,5) | Size: 1x2 | Type: DOCUMENT | Orientation: 1
+[031] Name: water_guide | ItemId: water_guide | Coordinate: (4,5) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[032] Name: fillerweed | ItemId: fillerweed | Coordinate: (15,5) | Size: 1x2 | Type: FOOD | Orientation: 0
+[033] Name: nudka | ItemId: nudka | Coordinate: (18,5) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[034] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (8,6) | Size: 3x1 | Type: TREAT | Orientation: 0
+[035] Name: morsel | ItemId: morsel | Coordinate: (12,6) | Size: 2x1 | Type: FOOD | Orientation: 0
+[036] Name: zerochew | ItemId: zerochew | Coordinate: (14,6) | Size: 1x1 | Type: FOOD | Orientation: 0
+[037] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (16,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[038] Name: water_guide | ItemId: water_guide | Coordinate: (1,7) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[039] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (6,7) | Size: 3x1 | Type: TREAT | Orientation: 0
+[040] Name: tazer | ItemId: tazer | Coordinate: (9,7) | Size: 2x3 | Type: WEAPON | Orientation: 0
+[041] Name: wine_berry | ItemId: wine_berry | Coordinate: (11,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[042] Name: wine_berry | ItemId: wine_berry | Coordinate: (13,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[043] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (6,8) | Size: 3x1 | Type: TREAT | Orientation: 0
+[044] Name: water_guide | ItemId: water_guide | Coordinate: (1,9) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[045] Name: blood_bag | ItemId: blood_bag | Coordinate: (4,9) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[046] Name: nudka | ItemId: nudka | Coordinate: (13,9) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[047] Name: nudka | ItemId: nudka | Coordinate: (15,9) | Size: 4x2 | Type: ALCOHOL | Orientation: 1
+[048] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (7,10) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[049] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (10,11) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[050] Name: nudka | ItemId: nudka | Coordinate: (15,11) | Size: 4x2 | Type: ALCOHOL | Orientation: 1
+[051] Name: blood_bag | ItemId: blood_bag | Coordinate: (1,12) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[052] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (6,12) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[053] Name: nudka | ItemId: nudka | Coordinate: (10,13) | Size: 4x2 | Type: ALCOHOL | Orientation: 1
+[054] Name: wine_berry | ItemId: wine_berry | Coordinate: (14,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[055] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (3,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[056] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (5,14) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[057] Name: wine_berry | ItemId: wine_berry | Coordinate: (7,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[058] Name: wine_berry | ItemId: wine_berry | Coordinate: (16,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[059] Name: meal_cap | ItemId: meal_cap | Coordinate: (10,15) | Size: 1x2 | Type: FOOD | Orientation: 0
+[060] Name: wine_berry | ItemId: wine_berry | Coordinate: (11,15) | Size: 2x2 | Type: FOOD | Orientation: 0
+[061] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (13,15) | Size: 2x2 | Type: FOOD | Orientation: 0
+[062] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (18,15) | Size: 2x2 | Type: FOOD | Orientation: 0
+[063] Name: wine_berry | ItemId: wine_berry | Coordinate: (4,16) | Size: 2x2 | Type: FOOD | Orientation: 0
+[064] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (8,16) | Size: 2x2 | Type: FOOD | Orientation: 0
+[065] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (6,17) | Size: 2x2 | Type: FOOD | Orientation: 0
+[066] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (4,18) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+========== Result End ==========

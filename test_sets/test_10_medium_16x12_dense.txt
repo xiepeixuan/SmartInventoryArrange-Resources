@@ -1,0 +1,49 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.504
+Outcome: test-set
+TestSetId: 10
+Scenario: medium_16x12_dense
+LayoutMode: dense
+TargetDensity: 0.860
+ActualDensity: 0.870
+RandomSeed: 2026111391
+ContainerSize: 16x12
+[001] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (0,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[002] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (2,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[003] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (4,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[004] Name: printed_gun | ItemId: printed_gun | Coordinate: (6,0) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[005] Name: printed_gun | ItemId: printed_gun | Coordinate: (9,0) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[006] Name: printed_gun | ItemId: printed_gun | Coordinate: (12,0) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[007] Name: slip | ItemId: slip | Coordinate: (15,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[008] Name: energy_credit | ItemId: energy_credit | Coordinate: (15,1) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[009] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (0,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[010] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (2,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[011] Name: flux_agent | ItemId: flux_agent | Coordinate: (4,2) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[012] Name: flux_agent | ItemId: flux_agent | Coordinate: (5,2) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[013] Name: flux_agent | ItemId: flux_agent | Coordinate: (4,3) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[014] Name: flux_agent | ItemId: flux_agent | Coordinate: (5,3) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[015] Name: energy_credit | ItemId: energy_credit | Coordinate: (15,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[016] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,4) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[017] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (2,4) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[018] Name: scrap_metal | ItemId: scrap_metal | Coordinate: (4,4) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[019] Name: printed_gun | ItemId: printed_gun | Coordinate: (6,4) | Size: 4x3 | Type: WEAPON | Orientation: 2
+[020] Name: printed_gun | ItemId: printed_gun | Coordinate: (10,4) | Size: 4x3 | Type: WEAPON | Orientation: 2
+[021] Name: energy_credit | ItemId: energy_credit | Coordinate: (14,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[022] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (0,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[023] Name: slip | ItemId: slip | Coordinate: (2,6) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[024] Name: slip | ItemId: slip | Coordinate: (3,6) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[025] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (0,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[026] Name: slip | ItemId: slip | Coordinate: (2,7) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[027] Name: scrap_metal | ItemId: scrap_metal | Coordinate: (3,7) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[028] Name: printed_gun | ItemId: printed_gun | Coordinate: (6,7) | Size: 4x3 | Type: WEAPON | Orientation: 0
+[029] Name: slip | ItemId: slip | Coordinate: (2,8) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[030] Name: processed_meat | ItemId: processed_meat | Coordinate: (10,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[031] Name: processed_meat | ItemId: processed_meat | Coordinate: (12,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[032] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (0,9) | Size: 2x2 | Type: FOOD | Orientation: 0
+[033] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (2,9) | Size: 2x2 | Type: FOOD | Orientation: 0
+[034] Name: processed_meat | ItemId: processed_meat | Coordinate: (4,9) | Size: 2x2 | Type: FOOD | Orientation: 0
+[035] Name: processed_meat | ItemId: processed_meat | Coordinate: (6,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[036] Name: processed_meat | ItemId: processed_meat | Coordinate: (8,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[037] Name: processed_meat | ItemId: processed_meat | Coordinate: (10,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[038] Name: morsel | ItemId: morsel | Coordinate: (4,11) | Size: 2x1 | Type: FOOD | Orientation: 0
+========== Result End ==========

@@ -1,0 +1,47 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.359
+Outcome: test-set
+TestSetId: 08
+Scenario: medium_14x12_electronics
+LayoutMode: ordered
+TargetDensity: 0.680
+ActualDensity: 0.685
+RandomSeed: 2026109373
+ContainerSize: 14x12
+[001] Name: smoke_grenade | ItemId: smoke_grenade | Coordinate: (0,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 0
+[002] Name: smoke_grenade | ItemId: smoke_grenade | Coordinate: (1,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 0
+[003] Name: smoke_grenade | ItemId: smoke_grenade | Coordinate: (2,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 0
+[004] Name: smoke_grenade | ItemId: smoke_grenade | Coordinate: (3,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 0
+[005] Name: smoke_grenade | ItemId: smoke_grenade | Coordinate: (4,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 0
+[006] Name: smoke_grenade | ItemId: smoke_grenade | Coordinate: (5,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 0
+[007] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (6,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[008] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (7,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[009] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (8,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[010] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (9,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[011] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (10,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[012] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (11,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[013] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (13,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[014] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (0,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[015] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (2,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[016] Name: energy_credit | ItemId: energy_credit | Coordinate: (4,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[017] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (5,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[018] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (7,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[019] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (9,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[020] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (11,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[021] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (4,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[022] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (6,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[023] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (8,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[024] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (10,4) | Size: 4x1 | Type: MODULE | Orientation: 1
+[025] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,5) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[026] Name: energy_credit | ItemId: energy_credit | Coordinate: (1,5) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[027] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (2,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[028] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (10,5) | Size: 4x1 | Type: MODULE | Orientation: 1
+[029] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (4,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[030] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (6,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[031] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (8,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[032] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (10,6) | Size: 4x1 | Type: MODULE | Orientation: 1
+[033] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,7) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[034] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (2,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[035] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (10,7) | Size: 4x1 | Type: MODULE | Orientation: 1
+[036] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,8) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+========== Result End ==========

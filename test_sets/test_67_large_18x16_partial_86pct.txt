@@ -1,0 +1,69 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:52.683
+Outcome: test-set
+TestSetId: 67
+Scenario: large_18x16_partial_86pct
+LayoutMode: partial
+TargetDensity: 0.860
+ActualDensity: 0.865
+RandomSeed: 2026168973
+ContainerSize: 18x16
+[001] Name: morsel | ItemId: morsel | Coordinate: (0,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[002] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (1,0) | Size: 3x1 | Type: TREAT | Orientation: 0
+[003] Name: sign_household | ItemId: sign_household | Coordinate: (5,0) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[004] Name: sign_household | ItemId: sign_household | Coordinate: (8,0) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[005] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (10,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[006] Name: hidden_save_bag | ItemId: hidden_save_bag | Coordinate: (13,0) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[007] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (16,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[008] Name: raw_meat | ItemId: raw_meat | Coordinate: (2,1) | Size: 2x3 | Type: FOOD | Orientation: 1
+[009] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (0,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[010] Name: raw_meat | ItemId: raw_meat | Coordinate: (4,2) | Size: 2x3 | Type: FOOD | Orientation: 1
+[011] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (7,2) | Size: 4x1 | Type: MODULE | Orientation: 1
+[012] Name: wine_berry | ItemId: wine_berry | Coordinate: (11,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[013] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (16,2) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[014] Name: raw_meat | ItemId: raw_meat | Coordinate: (6,3) | Size: 2x3 | Type: FOOD | Orientation: 1
+[015] Name: zerochew | ItemId: zerochew | Coordinate: (8,3) | Size: 1x1 | Type: FOOD | Orientation: 0
+[016] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (9,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[017] Name: nudka | ItemId: nudka | Coordinate: (16,3) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[018] Name: nudka | ItemId: nudka | Coordinate: (0,4) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[019] Name: wine_berry | ItemId: wine_berry | Coordinate: (2,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[020] Name: morsel | ItemId: morsel | Coordinate: (11,4) | Size: 2x1 | Type: FOOD | Orientation: 0
+[021] Name: wine_berry | ItemId: wine_berry | Coordinate: (14,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[022] Name: morsel | ItemId: morsel | Coordinate: (4,5) | Size: 2x1 | Type: FOOD | Orientation: 0
+[023] Name: morsel | ItemId: morsel | Coordinate: (9,5) | Size: 2x1 | Type: FOOD | Orientation: 0
+[024] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (12,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[025] Name: wine_berry | ItemId: wine_berry | Coordinate: (2,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[026] Name: morsel | ItemId: morsel | Coordinate: (4,6) | Size: 1x2 | Type: FOOD | Orientation: 1
+[027] Name: raw_meat | ItemId: raw_meat | Coordinate: (5,6) | Size: 3x2 | Type: FOOD | Orientation: 0
+[028] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (8,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[029] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (10,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[030] Name: nudka | ItemId: nudka | Coordinate: (14,6) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[031] Name: nudka | ItemId: nudka | Coordinate: (12,7) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[032] Name: cat_bar | ItemId: cat_bar | Coordinate: (0,8) | Size: 2x2 | Type: TREAT | Orientation: 0
+[033] Name: common_electronic | ItemId: common_electronic | Coordinate: (2,8) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[034] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (5,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[035] Name: wine_berry | ItemId: wine_berry | Coordinate: (7,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[036] Name: morsel | ItemId: morsel | Coordinate: (10,8) | Size: 2x1 | Type: FOOD | Orientation: 0
+[037] Name: common_electronic | ItemId: common_electronic | Coordinate: (16,8) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[038] Name: wine_berry | ItemId: wine_berry | Coordinate: (9,9) | Size: 2x2 | Type: FOOD | Orientation: 0
+[039] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (4,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[040] Name: morsel | ItemId: morsel | Coordinate: (7,10) | Size: 2x1 | Type: FOOD | Orientation: 0
+[041] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (0,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[042] Name: zerochew | ItemId: zerochew | Coordinate: (2,11) | Size: 1x1 | Type: FOOD | Orientation: 0
+[043] Name: morsel | ItemId: morsel | Coordinate: (6,11) | Size: 2x1 | Type: FOOD | Orientation: 0
+[044] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (8,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[045] Name: wine_berry | ItemId: wine_berry | Coordinate: (10,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[046] Name: morsel | ItemId: morsel | Coordinate: (12,11) | Size: 2x1 | Type: FOOD | Orientation: 0
+[047] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (14,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[048] Name: morsel | ItemId: morsel | Coordinate: (2,12) | Size: 1x2 | Type: FOOD | Orientation: 1
+[049] Name: common_electronic | ItemId: common_electronic | Coordinate: (3,12) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[050] Name: common_electronic | ItemId: common_electronic | Coordinate: (6,12) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[051] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (12,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[052] Name: nudka | ItemId: nudka | Coordinate: (16,12) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[053] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (0,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[054] Name: common_electronic | ItemId: common_electronic | Coordinate: (8,13) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[055] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (3,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[056] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (12,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[057] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (14,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[058] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (5,15) | Size: 4x1 | Type: MODULE | Orientation: 1
+========== Result End ==========

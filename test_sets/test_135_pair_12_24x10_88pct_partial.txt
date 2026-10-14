@@ -1,0 +1,66 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:20.795
+Outcome: test-set
+TestSetId: 135
+PairGroup: pair_12_24x10_88pct
+Scenario: paired_partial
+LayoutMode: partial
+TargetDensity: 0.880
+RandomSeed: 20261018108
+ContainerSize: 24x10
+[001] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[002] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (1,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[003] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (2,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[004] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (3,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[005] Name: morsel | ItemId: morsel | Coordinate: (4,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[006] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (5,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[007] Name: wine_berry | ItemId: wine_berry | Coordinate: (6,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[008] Name: nuts_metal | ItemId: nuts_metal | Coordinate: (8,0) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[009] Name: nuts_metal | ItemId: nuts_metal | Coordinate: (10,0) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[010] Name: nuts_metal | ItemId: nuts_metal | Coordinate: (12,0) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[011] Name: nuts_metal | ItemId: nuts_metal | Coordinate: (14,0) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[012] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (16,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[013] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (17,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[014] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (18,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[015] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (19,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[016] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (20,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[017] Name: common_chemical | ItemId: common_chemical | Coordinate: (21,0) | Size: 2x3 | Type: CHEMICAL_SUPPLIES | Orientation: 1
+[018] Name: smelling_salt | ItemId: smelling_salt | Coordinate: (23,0) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[019] Name: gene_scanner | ItemId: gene_scanner | Coordinate: (16,1) | Size: 2x3 | Type: TOOL | Orientation: 0
+[020] Name: common_chemical | ItemId: common_chemical | Coordinate: (18,1) | Size: 3x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[021] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (23,1) | Size: 1x1 | Type: POISON | Orientation: 0
+[022] Name: nuts_metal | ItemId: nuts_metal | Coordinate: (0,2) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[023] Name: labeler | ItemId: labeler | Coordinate: (2,2) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[024] Name: wine_book | ItemId: wine_book | Coordinate: (4,2) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[025] Name: dream_dust | ItemId: dream_dust | Coordinate: (6,2) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[026] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (7,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[027] Name: common_electronic | ItemId: common_electronic | Coordinate: (8,2) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[028] Name: common_electronic | ItemId: common_electronic | Coordinate: (11,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[029] Name: common_electronic | ItemId: common_electronic | Coordinate: (13,2) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[030] Name: smelling_salt | ItemId: smelling_salt | Coordinate: (23,2) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[031] Name: common_electronic | ItemId: common_electronic | Coordinate: (6,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[032] Name: gene_scanner | ItemId: gene_scanner | Coordinate: (18,3) | Size: 2x3 | Type: TOOL | Orientation: 0
+[033] Name: wine_book | ItemId: wine_book | Coordinate: (20,3) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[034] Name: labeler | ItemId: labeler | Coordinate: (22,3) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[035] Name: morsel | ItemId: morsel | Coordinate: (0,4) | Size: 2x1 | Type: FOOD | Orientation: 0
+[036] Name: labeler | ItemId: labeler | Coordinate: (8,4) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[037] Name: labeler | ItemId: labeler | Coordinate: (13,4) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[038] Name: wine_book | ItemId: wine_book | Coordinate: (16,4) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[039] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (0,5) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[040] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (3,5) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[041] Name: morsel | ItemId: morsel | Coordinate: (11,5) | Size: 2x1 | Type: FOOD | Orientation: 0
+[042] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (6,6) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[043] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (9,6) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[044] Name: powerblock | ItemId: powerblock | Coordinate: (12,6) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[045] Name: red_beer | ItemId: red_beer | Coordinate: (14,6) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[046] Name: red_beer | ItemId: red_beer | Coordinate: (15,6) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[047] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (18,6) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[048] Name: smelling_salt | ItemId: smelling_salt | Coordinate: (21,6) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[049] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[050] Name: morsel | ItemId: morsel | Coordinate: (1,8) | Size: 1x2 | Type: FOOD | Orientation: 1
+[051] Name: morsel | ItemId: morsel | Coordinate: (2,8) | Size: 1x2 | Type: FOOD | Orientation: 1
+[052] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (3,8) | Size: 1x1 | Type: POISON | Orientation: 0
+[053] Name: dream_dust | ItemId: dream_dust | Coordinate: (4,8) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[054] Name: morsel | ItemId: morsel | Coordinate: (12,8) | Size: 2x1 | Type: FOOD | Orientation: 0
+[055] Name: red_beer | ItemId: red_beer | Coordinate: (10,9) | Size: 4x1 | Type: SUBSTANCE | Orientation: 1
+========== Result End ==========

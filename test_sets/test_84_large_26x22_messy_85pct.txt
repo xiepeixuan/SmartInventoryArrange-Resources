@@ -1,0 +1,110 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:18:00.198
+Outcome: test-set
+TestSetId: 84
+Scenario: large_26x22_messy_85pct
+LayoutMode: messy
+TargetDensity: 0.850
+ActualDensity: 0.851
+RandomSeed: 2026186126
+ContainerSize: 26x22
+[001] Name: black_lamp | ItemId: black_lamp | Coordinate: (0,0) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[002] Name: cat_bar | ItemId: cat_bar | Coordinate: (2,0) | Size: 2x2 | Type: TREAT | Orientation: 0
+[003] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (4,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[004] Name: machine_bay | ItemId: machine_bay | Coordinate: (8,0) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[005] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (14,0) | Size: 4x1 | Type: MODULE | Orientation: 1
+[006] Name: pink_injector | ItemId: pink_injector | Coordinate: (19,0) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[007] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (23,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[008] Name: smoke_grenade | ItemId: smoke_grenade | Coordinate: (25,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 0
+[009] Name: water_ration | ItemId: water_ration | Coordinate: (4,1) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[010] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (7,1) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[011] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (13,1) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[012] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (15,1) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[013] Name: pink_injector | ItemId: pink_injector | Coordinate: (17,1) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[014] Name: raw_meat | ItemId: raw_meat | Coordinate: (21,1) | Size: 2x3 | Type: FOOD | Orientation: 1
+[015] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (2,2) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[016] Name: cat_bar | ItemId: cat_bar | Coordinate: (6,2) | Size: 2x2 | Type: TREAT | Orientation: 0
+[017] Name: machine_bay | ItemId: machine_bay | Coordinate: (17,2) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[018] Name: cat_bar | ItemId: cat_bar | Coordinate: (23,2) | Size: 2x2 | Type: TREAT | Orientation: 0
+[019] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (0,3) | Size: 2x2 | Type: MODULE | Orientation: 0
+[020] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (4,3) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[021] Name: powerblock | ItemId: powerblock | Coordinate: (12,3) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[022] Name: cat_bar | ItemId: cat_bar | Coordinate: (14,3) | Size: 2x2 | Type: TREAT | Orientation: 0
+[023] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (3,4) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[024] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (5,4) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[025] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (7,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[026] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (9,4) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[027] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (22,4) | Size: 4x1 | Type: MODULE | Orientation: 1
+[028] Name: cat_bar | ItemId: cat_bar | Coordinate: (0,5) | Size: 2x2 | Type: TREAT | Orientation: 0
+[029] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (2,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[030] Name: cat_bar | ItemId: cat_bar | Coordinate: (11,5) | Size: 2x2 | Type: TREAT | Orientation: 0
+[031] Name: energy_credit | ItemId: energy_credit | Coordinate: (13,5) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[032] Name: powerblock | ItemId: powerblock | Coordinate: (14,5) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[033] Name: pink_injector | ItemId: pink_injector | Coordinate: (21,5) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[034] Name: pink_injector | ItemId: pink_injector | Coordinate: (4,6) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[035] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (5,6) | Size: 4x1 | Type: MODULE | Orientation: 1
+[036] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (9,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[037] Name: fridge | ItemId: fridge | Coordinate: (16,6) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[038] Name: recharger | ItemId: recharger | Coordinate: (19,6) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[039] Name: water_ration | ItemId: water_ration | Coordinate: (21,6) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[040] Name: security_alarm | ItemId: security_alarm | Coordinate: (1,7) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[041] Name: cat_bar | ItemId: cat_bar | Coordinate: (5,7) | Size: 2x2 | Type: TREAT | Orientation: 0
+[042] Name: powerblock | ItemId: powerblock | Coordinate: (7,7) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[043] Name: machine_bay | ItemId: machine_bay | Coordinate: (12,7) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[044] Name: energy_credit | ItemId: energy_credit | Coordinate: (24,7) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[045] Name: water_ration | ItemId: water_ration | Coordinate: (10,8) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[046] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (21,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[047] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (23,8) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[048] Name: magnifier | ItemId: magnifier | Coordinate: (6,9) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[049] Name: fridge | ItemId: fridge | Coordinate: (16,9) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[050] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (23,9) | Size: 3x1 | Type: TREAT | Orientation: 0
+[051] Name: powerblock | ItemId: powerblock | Coordinate: (0,10) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[052] Name: powerblock | ItemId: powerblock | Coordinate: (2,10) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[053] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (4,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[054] Name: box_tampon | ItemId: box_tampon | Coordinate: (9,10) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[055] Name: black_lamp | ItemId: black_lamp | Coordinate: (19,10) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[056] Name: magnifier | ItemId: magnifier | Coordinate: (22,10) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[057] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (12,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[058] Name: cat_bar | ItemId: cat_bar | Coordinate: (14,11) | Size: 2x2 | Type: TREAT | Orientation: 0
+[059] Name: machine_bay | ItemId: machine_bay | Coordinate: (3,12) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[060] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (7,12) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[061] Name: box_tampon | ItemId: box_tampon | Coordinate: (19,12) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[062] Name: morsel | ItemId: morsel | Coordinate: (0,13) | Size: 1x2 | Type: FOOD | Orientation: 1
+[063] Name: water_ration | ItemId: water_ration | Coordinate: (1,13) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[064] Name: cat_bar | ItemId: cat_bar | Coordinate: (8,13) | Size: 2x2 | Type: TREAT | Orientation: 0
+[065] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (10,13) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[066] Name: water_ration | ItemId: water_ration | Coordinate: (12,13) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[067] Name: pink_injector | ItemId: pink_injector | Coordinate: (15,13) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[068] Name: powerblock | ItemId: powerblock | Coordinate: (22,13) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[069] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (24,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[070] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (7,14) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[071] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (14,14) | Size: 2x2 | Type: MODULE | Orientation: 0
+[072] Name: box_tampon | ItemId: box_tampon | Coordinate: (0,15) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[073] Name: fridge | ItemId: fridge | Coordinate: (9,15) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[074] Name: pink_injector | ItemId: pink_injector | Coordinate: (16,15) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[075] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (17,15) | Size: 2x2 | Type: MODULE | Orientation: 0
+[076] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (19,15) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[077] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (20,15) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[078] Name: fridge | ItemId: fridge | Coordinate: (22,15) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[079] Name: pink_injector | ItemId: pink_injector | Coordinate: (4,16) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[080] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (12,16) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[081] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (13,16) | Size: 2x2 | Type: MODULE | Orientation: 0
+[082] Name: energy_credit | ItemId: energy_credit | Coordinate: (15,16) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[083] Name: machine_bay | ItemId: machine_bay | Coordinate: (4,17) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[084] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (17,17) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[085] Name: smoke_grenade | ItemId: smoke_grenade | Coordinate: (20,17) | Size: 1x2 | Type: CONTRABAND | Orientation: 0
+[086] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (21,17) | Size: 1x4 | Type: MODULE | Orientation: 0
+[087] Name: water_ration | ItemId: water_ration | Coordinate: (2,18) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[088] Name: box_tampon | ItemId: box_tampon | Coordinate: (8,18) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[089] Name: makeshift_storage_bay | ItemId: makeshift_storage_bay | Coordinate: (11,18) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[090] Name: cat_bar | ItemId: cat_bar | Coordinate: (14,18) | Size: 2x2 | Type: TREAT | Orientation: 0
+[091] Name: morsel | ItemId: morsel | Coordinate: (19,18) | Size: 1x2 | Type: FOOD | Orientation: 1
+[092] Name: machine_bay | ItemId: machine_bay | Coordinate: (22,18) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[093] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (0,19) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[094] Name: morsel | ItemId: morsel | Coordinate: (3,20) | Size: 1x2 | Type: FOOD | Orientation: 1
+[095] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (14,20) | Size: 2x2 | Type: MODULE | Orientation: 0
+[096] Name: cat_bar | ItemId: cat_bar | Coordinate: (19,20) | Size: 2x2 | Type: TREAT | Orientation: 0
+[097] Name: pink_injector | ItemId: pink_injector | Coordinate: (6,21) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[098] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (10,21) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[099] Name: node_small | ItemId: node_small | Coordinate: (18,21) | Size: 1x1 | Type: NODE | Orientation: 0
+========== Result End ==========

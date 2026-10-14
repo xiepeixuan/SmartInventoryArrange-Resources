@@ -1,0 +1,30 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.247
+Outcome: test-set
+TestSetId: 05
+Scenario: small_12x8_backpack_messy
+LayoutMode: messy
+TargetDensity: 0.780
+ActualDensity: 0.792
+RandomSeed: 2026106346
+ContainerSize: 12x8
+[001] Name: storage_bay | ItemId: storage_bay | Coordinate: (0,0) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[002] Name: common_electronic | ItemId: common_electronic | Coordinate: (7,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[003] Name: sign_water | ItemId: sign_water | Coordinate: (9,0) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[004] Name: nutrifruit_seed_packet | ItemId: nutrifruit_seed_packet | Coordinate: (3,1) | Size: 2x2 | Type: SEED | Orientation: 0
+[005] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (5,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[006] Name: common_ore | ItemId: common_ore | Coordinate: (9,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[007] Name: morsel | ItemId: morsel | Coordinate: (11,2) | Size: 1x2 | Type: FOOD | Orientation: 1
+[008] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (2,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[009] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (7,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[010] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (0,4) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[011] Name: water_test_container | ItemId: water_test_container | Coordinate: (5,4) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[012] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (4,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[013] Name: water_test_container | ItemId: water_test_container | Coordinate: (6,5) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[014] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (0,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[015] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (2,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[016] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (7,6) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[017] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (10,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[018] Name: morsel | ItemId: morsel | Coordinate: (4,7) | Size: 2x1 | Type: FOOD | Orientation: 0
+[019] Name: morsel | ItemId: morsel | Coordinate: (8,7) | Size: 2x1 | Type: FOOD | Orientation: 0
+========== Result End ==========

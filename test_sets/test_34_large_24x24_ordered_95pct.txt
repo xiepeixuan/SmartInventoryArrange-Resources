@@ -1,0 +1,124 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:33.856
+Outcome: test-set
+TestSetId: 34
+Scenario: large_24x24_ordered_95pct
+LayoutMode: ordered
+TargetDensity: 0.950
+ActualDensity: 0.953
+RandomSeed: 2026135676
+ContainerSize: 24x24
+[001] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (0,0) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[002] Name: box_tampon | ItemId: box_tampon | Coordinate: (2,0) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[003] Name: blood_bag | ItemId: blood_bag | Coordinate: (5,0) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[004] Name: blood_bag | ItemId: blood_bag | Coordinate: (7,0) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[005] Name: blood_bag | ItemId: blood_bag | Coordinate: (9,0) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[006] Name: blood_bag | ItemId: blood_bag | Coordinate: (11,0) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[007] Name: dream_dust | ItemId: dream_dust | Coordinate: (13,0) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[008] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (14,0) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[009] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (18,0) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[010] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (22,0) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[011] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (23,0) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[012] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (13,1) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[013] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (15,1) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[014] Name: aquascan | ItemId: aquascan | Coordinate: (17,1) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[015] Name: aquascan | ItemId: aquascan | Coordinate: (19,1) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[016] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (21,1) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[017] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (23,2) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[018] Name: bottled_water | ItemId: bottled_water | Coordinate: (2,3) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[019] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (6,3) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[020] Name: box_tampon | ItemId: box_tampon | Coordinate: (7,3) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[021] Name: box_tampon | ItemId: box_tampon | Coordinate: (10,3) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: box_tampon | ItemId: box_tampon | Coordinate: (13,3) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[023] Name: bottled_water | ItemId: bottled_water | Coordinate: (16,3) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[024] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (21,3) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[025] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (0,4) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[026] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (4,4) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[027] Name: aquascan | ItemId: aquascan | Coordinate: (17,4) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[028] Name: aquascan | ItemId: aquascan | Coordinate: (20,4) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[029] Name: aquascan | ItemId: aquascan | Coordinate: (22,4) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[030] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (0,6) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[031] Name: box_tampon | ItemId: box_tampon | Coordinate: (7,6) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[032] Name: box_tampon | ItemId: box_tampon | Coordinate: (10,6) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[033] Name: box_tampon | ItemId: box_tampon | Coordinate: (13,6) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[034] Name: aquascan | ItemId: aquascan | Coordinate: (17,6) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[035] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (6,7) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[036] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (16,7) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[037] Name: aquascan | ItemId: aquascan | Coordinate: (20,7) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[038] Name: bottled_water | ItemId: bottled_water | Coordinate: (23,7) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[039] Name: sign_household | ItemId: sign_household | Coordinate: (0,8) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[040] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (2,8) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[041] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (3,8) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[042] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (4,8) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[043] Name: aquascan | ItemId: aquascan | Coordinate: (17,8) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[044] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (2,9) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[045] Name: morsel | ItemId: morsel | Coordinate: (3,9) | Size: 1x2 | Type: FOOD | Orientation: 1
+[046] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (4,9) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[047] Name: fanta_pill | ItemId: fanta_pill | Coordinate: (6,9) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[048] Name: fanta_pill | ItemId: fanta_pill | Coordinate: (7,9) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[049] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (8,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[050] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (10,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[051] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (12,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[052] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (14,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[053] Name: aquascan | ItemId: aquascan | Coordinate: (20,9) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[054] Name: morsel | ItemId: morsel | Coordinate: (0,10) | Size: 1x2 | Type: FOOD | Orientation: 1
+[055] Name: morsel | ItemId: morsel | Coordinate: (1,10) | Size: 2x1 | Type: FOOD | Orientation: 0
+[056] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (4,10) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[057] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (5,10) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[058] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (6,10) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[059] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (7,10) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[060] Name: aquascan | ItemId: aquascan | Coordinate: (17,10) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[061] Name: morsel | ItemId: morsel | Coordinate: (1,11) | Size: 2x1 | Type: FOOD | Orientation: 0
+[062] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (3,11) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[063] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (5,11) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[064] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (9,11) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[065] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (10,11) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[066] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (11,11) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[067] Name: box_tampon | ItemId: box_tampon | Coordinate: (14,11) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[068] Name: aquascan | ItemId: aquascan | Coordinate: (20,11) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[069] Name: bottled_water | ItemId: bottled_water | Coordinate: (23,11) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[070] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (0,12) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[071] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (1,12) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[072] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (2,12) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[073] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (3,12) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[074] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (4,12) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[075] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (11,12) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[076] Name: aquascan | ItemId: aquascan | Coordinate: (17,12) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[077] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (11,13) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[078] Name: aquascan | ItemId: aquascan | Coordinate: (20,13) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[079] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (1,14) | Size: 3x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[080] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (4,14) | Size: 3x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[081] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (7,14) | Size: 3x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[082] Name: bottled_water | ItemId: bottled_water | Coordinate: (10,14) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[083] Name: box_tampon | ItemId: box_tampon | Coordinate: (14,14) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[084] Name: aquascan | ItemId: aquascan | Coordinate: (17,14) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[085] Name: bottled_water | ItemId: bottled_water | Coordinate: (10,15) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[086] Name: aquascan | ItemId: aquascan | Coordinate: (20,15) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[087] Name: bottled_water | ItemId: bottled_water | Coordinate: (10,16) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[088] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (17,16) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[089] Name: bottled_water | ItemId: bottled_water | Coordinate: (10,17) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[090] Name: blood_bag | ItemId: blood_bag | Coordinate: (14,17) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[091] Name: blood_bag | ItemId: blood_bag | Coordinate: (16,17) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[092] Name: blood_bag | ItemId: blood_bag | Coordinate: (18,17) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[093] Name: blood_bag | ItemId: blood_bag | Coordinate: (20,17) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[094] Name: wine_berry | ItemId: wine_berry | Coordinate: (22,17) | Size: 2x2 | Type: FOOD | Orientation: 0
+[095] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (1,18) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[096] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (5,18) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[097] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (9,18) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[098] Name: bottled_water | ItemId: bottled_water | Coordinate: (13,18) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[099] Name: wine_berry | ItemId: wine_berry | Coordinate: (22,19) | Size: 2x2 | Type: FOOD | Orientation: 0
+[100] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (9,20) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[101] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (11,20) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[102] Name: dream_dust | ItemId: dream_dust | Coordinate: (14,20) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[103] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (15,20) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[104] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (17,20) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[105] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (18,20) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[106] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (19,20) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[107] Name: wine_berry | ItemId: wine_berry | Coordinate: (20,20) | Size: 2x2 | Type: FOOD | Orientation: 0
+[108] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,21) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[109] Name: common_electronic | ItemId: common_electronic | Coordinate: (2,21) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[110] Name: common_electronic | ItemId: common_electronic | Coordinate: (4,21) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[111] Name: common_electronic | ItemId: common_electronic | Coordinate: (6,21) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[112] Name: wine_berry | ItemId: wine_berry | Coordinate: (22,21) | Size: 2x2 | Type: FOOD | Orientation: 0
+[113] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (11,22) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+========== Result End ==========

@@ -1,0 +1,102 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:46.105
+Outcome: test-set
+TestSetId: 58
+Scenario: large_24x24_partial_79pct_fixed
+LayoutMode: partial
+TargetDensity: 0.790
+ActualDensity: 0.792
+RandomSeed: 2026159892
+ContainerSize: 24x24
+[001] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (3,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[002] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (7,0) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[003] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (9,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[004] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (12,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[005] Name: slip | ItemId: slip | Coordinate: (14,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[006] Name: sec_slip | ItemId: sec_slip | Coordinate: (16,0) | Size: 2x1 | Type: DOCUMENT | Orientation: 0
+[007] Name: wine_book | ItemId: wine_book | Coordinate: (18,0) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[008] Name: water_test_container | ItemId: water_test_container | Coordinate: (23,0) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[009] Name: slip | ItemId: slip | Coordinate: (1,1) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[010] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (6,1) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[011] Name: wine_book | ItemId: wine_book | Coordinate: (7,1) | Size: 2x3 | Type: DOCUMENT | Orientation: 0 | Status: fixed
+[012] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (13,1) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[013] Name: water_guide | ItemId: water_guide | Coordinate: (15,1) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[014] Name: wine_book | ItemId: wine_book | Coordinate: (20,1) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[015] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (0,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[016] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (2,2) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[017] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (4,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[018] Name: slip | ItemId: slip | Coordinate: (9,2) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[019] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (10,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[020] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (12,2) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[021] Name: wire | ItemId: wire | Coordinate: (22,2) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[022] Name: wire | ItemId: wire | Coordinate: (2,3) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[023] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (13,3) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[024] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (14,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[025] Name: common_ore | ItemId: common_ore | Coordinate: (16,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1 | Status: fixed
+[026] Name: water_guide | ItemId: water_guide | Coordinate: (4,4) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[027] Name: wine_book | ItemId: wine_book | Coordinate: (6,4) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[028] Name: wine_book | ItemId: wine_book | Coordinate: (8,4) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[029] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (12,4) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[030] Name: water_guide | ItemId: water_guide | Coordinate: (20,4) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[031] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (0,5) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[032] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (1,5) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[033] Name: water_test_container | ItemId: water_test_container | Coordinate: (11,5) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[034] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (12,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[035] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (14,5) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[036] Name: card_pharma | ItemId: card_pharma | Coordinate: (9,6) | Size: 1x2 | Type: DOCUMENT | Orientation: 1
+[037] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (14,6) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[038] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (15,6) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[039] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (16,6) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[040] Name: water_guide | ItemId: water_guide | Coordinate: (21,6) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[041] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (2,7) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[042] Name: water_guide | ItemId: water_guide | Coordinate: (4,7) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[043] Name: wine_book | ItemId: wine_book | Coordinate: (6,7) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[044] Name: wire | ItemId: wire | Coordinate: (10,7) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[045] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (12,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[046] Name: wire | ItemId: wire | Coordinate: (18,7) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[047] Name: water_guide | ItemId: water_guide | Coordinate: (0,8) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[048] Name: water_ration | ItemId: water_ration | Coordinate: (14,8) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[049] Name: wire | ItemId: wire | Coordinate: (16,8) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[050] Name: crypto_module_ser | ItemId: crypto_module_ser | Coordinate: (6,9) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[051] Name: water_guide | ItemId: water_guide | Coordinate: (9,9) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[052] Name: cassette_player | ItemId: cassette_player | Coordinate: (18,9) | Size: 5x5 | Type: ~unknown | Orientation: 0
+[053] Name: wire | ItemId: wire | Coordinate: (2,10) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[054] Name: water_guide | ItemId: water_guide | Coordinate: (4,10) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[055] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (7,10) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[056] Name: cassette_player | ItemId: cassette_player | Coordinate: (13,10) | Size: 5x5 | Type: ~unknown | Orientation: 0
+[057] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (11,11) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[058] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (0,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[059] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (2,12) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[060] Name: hidden_save_bag | ItemId: hidden_save_bag | Coordinate: (8,12) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[061] Name: water_guide | ItemId: water_guide | Coordinate: (1,14) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[062] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (5,14) | Size: 3x2 | Type: ~unknown | Orientation: 0
+[063] Name: sign_household | ItemId: sign_household | Coordinate: (11,14) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[064] Name: sign_household | ItemId: sign_household | Coordinate: (18,14) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[065] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (13,15) | Size: 2x2 | Type: MODULE | Orientation: 0
+[066] Name: sign_household | ItemId: sign_household | Coordinate: (20,15) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[067] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (22,15) | Size: 2x2 | Type: MODULE | Orientation: 0
+[068] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (0,16) | Size: 2x2 | Type: MODULE | Orientation: 0
+[069] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (4,16) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[070] Name: labeler | ItemId: labeler | Coordinate: (6,16) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[071] Name: satchel | ItemId: satchel | Coordinate: (8,16) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[072] Name: ribwich_guide | ItemId: ribwich_guide | Coordinate: (15,16) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[073] Name: labeler | ItemId: labeler | Coordinate: (17,16) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[074] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (2,17) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[075] Name: labeler | ItemId: labeler | Coordinate: (11,17) | Size: 3x2 | Type: ~unknown | Orientation: 1 | Status: fixed
+[076] Name: sign_household | ItemId: sign_household | Coordinate: (21,17) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[077] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (0,18) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[078] Name: nudka | ItemId: nudka | Coordinate: (18,18) | Size: 2x4 | Type: ALCOHOL | Orientation: 0 | Status: fixed
+[079] Name: bottle_printer | ItemId: bottle_printer | Coordinate: (9,19) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[080] Name: magnifier | ItemId: magnifier | Coordinate: (12,19) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[081] Name: ribwich_guide | ItemId: ribwich_guide | Coordinate: (15,19) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[082] Name: ribwich_guide | ItemId: ribwich_guide | Coordinate: (21,19) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[083] Name: water_guide | ItemId: water_guide | Coordinate: (2,20) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[084] Name: water_guide | ItemId: water_guide | Coordinate: (6,20) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[085] Name: water_guide | ItemId: water_guide | Coordinate: (4,21) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[086] Name: ribwich_guide | ItemId: ribwich_guide | Coordinate: (9,21) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[087] Name: magnifier | ItemId: magnifier | Coordinate: (15,21) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[088] Name: ribwich_guide | ItemId: ribwich_guide | Coordinate: (22,21) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[089] Name: postit | ItemId: postit | Coordinate: (6,22) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[090] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (11,22) | Size: 2x2 | Type: MODULE | Orientation: 0
+[091] Name: black_lamp | ItemId: black_lamp | Coordinate: (19,22) | Size: 3x2 | Type: ~unknown | Orientation: 1
+========== Result End ==========

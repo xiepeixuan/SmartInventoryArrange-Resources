@@ -1,0 +1,52 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:37.672
+Outcome: test-set
+TestSetId: 192
+Scenario: independent_24x10_dense_87pct
+LayoutMode: dense
+TargetDensity: 0.870
+ActualDensity: 0.871
+RandomSeed: 20261206928
+ContainerSize: 24x10
+[001] Name: raw_meat | ItemId: raw_meat | Coordinate: (0,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[002] Name: raw_meat | ItemId: raw_meat | Coordinate: (2,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[003] Name: raw_meat | ItemId: raw_meat | Coordinate: (4,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[004] Name: raw_meat | ItemId: raw_meat | Coordinate: (6,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[005] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (8,0) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[006] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (9,0) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[007] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (11,0) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[008] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (15,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[009] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (16,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[010] Name: aquascan | ItemId: aquascan | Coordinate: (17,0) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[011] Name: aquascan | ItemId: aquascan | Coordinate: (19,0) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[012] Name: aquascan | ItemId: aquascan | Coordinate: (21,0) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[013] Name: bottled_water | ItemId: bottled_water | Coordinate: (9,1) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[014] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (13,1) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[015] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (8,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[016] Name: bottled_water | ItemId: bottled_water | Coordinate: (9,2) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[017] Name: raw_meat | ItemId: raw_meat | Coordinate: (0,3) | Size: 3x2 | Type: FOOD | Orientation: 0
+[018] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (3,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[019] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (5,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[020] Name: bottled_water | ItemId: bottled_water | Coordinate: (9,3) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[021] Name: box_tampon | ItemId: box_tampon | Coordinate: (13,3) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: box_tampon | ItemId: box_tampon | Coordinate: (16,3) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[023] Name: water_jug | ItemId: water_jug | Coordinate: (19,3) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[024] Name: red_beer | ItemId: red_beer | Coordinate: (7,4) | Size: 4x1 | Type: SUBSTANCE | Orientation: 1
+[025] Name: module_bay_expansion_kit | ItemId: module_bay_expansion_kit | Coordinate: (11,4) | Size: 2x2 | Type: TOOL | Orientation: 0
+[026] Name: blood_bag | ItemId: blood_bag | Coordinate: (0,5) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[027] Name: blood_bag | ItemId: blood_bag | Coordinate: (2,5) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[028] Name: blood_bag | ItemId: blood_bag | Coordinate: (4,5) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[029] Name: blood_bag | ItemId: blood_bag | Coordinate: (6,5) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[030] Name: serum_red | ItemId: serum_red | Coordinate: (8,5) | Size: 2x1 | Type: ~unknown | Orientation: 1
+[031] Name: expedition_box | ItemId: expedition_box | Coordinate: (8,6) | Size: 6x4 | Type: ~unknown | Orientation: 0
+[032] Name: water_test_container | ItemId: water_test_container | Coordinate: (14,6) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[033] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (16,6) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[034] Name: water_test_container | ItemId: water_test_container | Coordinate: (14,7) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[035] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (16,7) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[036] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (19,7) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[037] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (0,8) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[038] Name: water_test_container | ItemId: water_test_container | Coordinate: (14,8) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[039] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (16,8) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[040] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (19,8) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[041] Name: water_test_container | ItemId: water_test_container | Coordinate: (14,9) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+========== Result End ==========

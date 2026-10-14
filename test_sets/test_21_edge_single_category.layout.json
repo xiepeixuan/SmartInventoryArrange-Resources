@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_21_edge_single_category.txt",
+  "output": "D:\\resources\\test_sets\\test_21_edge_single_category.layout.png",
+  "containerSize": "12x12",
+  "outcome": "test-set",
+  "itemCount": 23,
+  "missingSprites": [],
+  "cellPixels": 32
+}

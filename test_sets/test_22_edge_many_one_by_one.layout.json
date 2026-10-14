@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_22_edge_many_one_by_one.txt",
+  "output": "D:\\resources\\test_sets\\test_22_edge_many_one_by_one.layout.png",
+  "containerSize": "16x12",
+  "outcome": "test-set",
+  "itemCount": 45,
+  "missingSprites": [],
+  "cellPixels": 32
+}

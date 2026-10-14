@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_171_independent_24x20_messy_94pct_fixed.txt",
+  "output": "D:\\resources\\test_sets\\test_171_independent_24x20_messy_94pct_fixed.layout.png",
+  "containerSize": "24x20",
+  "outcome": "test-set",
+  "itemCount": 148,
+  "missingSprites": [],
+  "cellPixels": 32
+}

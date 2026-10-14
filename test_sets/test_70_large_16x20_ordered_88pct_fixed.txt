@@ -1,0 +1,63 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:53.467
+Outcome: test-set
+TestSetId: 70
+Scenario: large_16x20_ordered_88pct_fixed
+LayoutMode: ordered
+TargetDensity: 0.880
+ActualDensity: 0.881
+RandomSeed: 2026172000
+ContainerSize: 16x20
+[001] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[002] Name: mirage_projector | ItemId: mirage_projector | Coordinate: (2,0) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[003] Name: mirage_projector | ItemId: mirage_projector | Coordinate: (5,0) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[004] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (8,0) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[005] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (9,0) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0 | Status: fixed
+[006] Name: blood_bag | ItemId: blood_bag | Coordinate: (11,0) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[007] Name: wire | ItemId: wire | Coordinate: (14,0) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[008] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (8,1) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[009] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (0,2) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[010] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (1,2) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[011] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (8,2) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[012] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (11,2) | Size: 2x2 | Type: MODULE | Orientation: 0 | Status: fixed
+[013] Name: common_electronic | ItemId: common_electronic | Coordinate: (13,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1 | Status: fixed
+[014] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[015] Name: mirage_projector | ItemId: mirage_projector | Coordinate: (2,3) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[016] Name: mirage_projector | ItemId: mirage_projector | Coordinate: (5,3) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[017] Name: storage_bay_gun | ItemId: storage_bay_gun | Coordinate: (8,3) | Size: 3x3 | Type: STORAGE | Orientation: 0 | Status: fixed
+[018] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (11,4) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[019] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (11,5) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[020] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (12,5) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[021] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (13,5) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0 | Status: fixed
+[022] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,6) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[023] Name: mirage_projector | ItemId: mirage_projector | Coordinate: (2,6) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[024] Name: powerblock | ItemId: powerblock | Coordinate: (5,6) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[025] Name: storage_bay_large | ItemId: storage_bay_large | Coordinate: (8,6) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[026] Name: powerblock | ItemId: powerblock | Coordinate: (5,8) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[027] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,9) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[028] Name: powerblock | ItemId: powerblock | Coordinate: (3,9) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[029] Name: processed_meat | ItemId: processed_meat | Coordinate: (7,9) | Size: 2x2 | Type: FOOD | Orientation: 0
+[030] Name: processed_meat | ItemId: processed_meat | Coordinate: (9,9) | Size: 2x2 | Type: FOOD | Orientation: 0
+[031] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (11,9) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[032] Name: powerblock | ItemId: powerblock | Coordinate: (5,10) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[033] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (11,10) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[034] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (13,10) | Size: 2x2 | Type: CONTRABAND | Orientation: 0 | Status: fixed
+[035] Name: common_electronic | ItemId: common_electronic | Coordinate: (1,11) | Size: 3x2 | Type: MATERIAL | Orientation: 0 | Status: fixed
+[036] Name: labeler | ItemId: labeler | Coordinate: (8,11) | Size: 3x2 | Type: ~unknown | Orientation: 1 | Status: fixed
+[037] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (5,12) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[038] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (6,12) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[039] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (7,12) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[040] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (11,12) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[041] Name: processed_meat | ItemId: processed_meat | Coordinate: (14,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[042] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,13) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[043] Name: storage_bay | ItemId: storage_bay | Coordinate: (8,13) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[044] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (3,14) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0 | Status: fixed
+[045] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,15) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[046] Name: processed_meat | ItemId: processed_meat | Coordinate: (11,15) | Size: 2x2 | Type: FOOD | Orientation: 0
+[047] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (14,15) | Size: 2x2 | Type: MODULE | Orientation: 0 | Status: fixed
+[048] Name: furnace | ItemId: furnace | Coordinate: (3,16) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[049] Name: machine_bay | ItemId: machine_bay | Coordinate: (7,16) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[050] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,17) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[051] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (11,17) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0 | Status: fixed
+[052] Name: furnace | ItemId: furnace | Coordinate: (13,17) | Size: 3x3 | Type: MACHINE | Orientation: 0
+========== Result End ==========

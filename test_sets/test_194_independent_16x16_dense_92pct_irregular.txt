@@ -1,0 +1,60 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:37.845
+Outcome: test-set
+TestSetId: 194
+Scenario: independent_16x16_dense_92pct_irregular
+LayoutMode: dense
+TargetDensity: 0.920
+ActualDensity: 0.926
+RandomSeed: 20261208946
+ContainerSize: 16x16
+[001] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (0,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[002] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (1,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[003] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (2,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[004] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (3,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[005] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (5,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[006] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (6,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[007] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (7,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[008] Name: furnace | ItemId: furnace | Coordinate: (8,0) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[009] Name: furnace | ItemId: furnace | Coordinate: (11,0) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[010] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (14,0) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[011] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (0,1) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[012] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (1,1) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[013] Name: shotgun | ItemId: shotgun | Coordinate: (1,1) | Size: 7x3 | Type: WEAPON | Orientation: 2
+[014] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (2,1) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[015] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (0,2) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[016] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (14,2) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[017] Name: red_beer | ItemId: red_beer | Coordinate: (0,3) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[018] Name: furnace | ItemId: furnace | Coordinate: (8,3) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[019] Name: furnace | ItemId: furnace | Coordinate: (11,3) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[020] Name: stun_gun | ItemId: stun_gun | Coordinate: (1,4) | Size: 4x3 | Type: WEAPON | Orientation: 0
+[021] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (5,4) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (7,4) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[023] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (14,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[024] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (7,5) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[025] Name: paper_towel | ItemId: paper_towel | Coordinate: (3,6) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[026] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (7,6) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[027] Name: furnace | ItemId: furnace | Coordinate: (8,6) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[028] Name: furnace | ItemId: furnace | Coordinate: (11,6) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[029] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (14,6) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[030] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (15,6) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[031] Name: paper_towel | ItemId: paper_towel | Coordinate: (0,7) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[032] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (7,7) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[033] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (14,7) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[034] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (15,7) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[035] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (5,8) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[036] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (6,8) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[037] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (7,8) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[038] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (14,8) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[039] Name: c4_set | ItemId: c4_set | Coordinate: (0,9) | Size: 3x3 | Type: WEAPON | Orientation: 0
+[040] Name: handmade_pistol | ItemId: handmade_pistol | Coordinate: (3,9) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[041] Name: printed_gun | ItemId: printed_gun | Coordinate: (5,9) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[042] Name: printed_gun | ItemId: printed_gun | Coordinate: (8,9) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[043] Name: printed_gun | ItemId: printed_gun | Coordinate: (10,9) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[044] Name: printed_gun | ItemId: printed_gun | Coordinate: (13,9) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[045] Name: stun_gun | ItemId: stun_gun | Coordinate: (0,12) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[046] Name: tazer | ItemId: tazer | Coordinate: (3,13) | Size: 2x3 | Type: WEAPON | Orientation: 0
+[047] Name: tazer | ItemId: tazer | Coordinate: (5,13) | Size: 2x3 | Type: WEAPON | Orientation: 0
+[048] Name: stun_gun | ItemId: stun_gun | Coordinate: (7,13) | Size: 4x3 | Type: WEAPON | Orientation: 0
+[049] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (0,14) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+========== Result End ==========

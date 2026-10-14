@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_02_small_8x6_household.txt",
+  "output": "D:\\resources\\test_sets\\test_02_small_8x6_household.layout.png",
+  "containerSize": "8x6",
+  "outcome": "test-set",
+  "itemCount": 3,
+  "missingSprites": [],
+  "cellPixels": 32
+}

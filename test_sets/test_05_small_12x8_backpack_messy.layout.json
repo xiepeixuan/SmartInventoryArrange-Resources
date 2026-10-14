@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_05_small_12x8_backpack_messy.txt",
+  "output": "D:\\resources\\test_sets\\test_05_small_12x8_backpack_messy.layout.png",
+  "containerSize": "12x8",
+  "outcome": "test-set",
+  "itemCount": 19,
+  "missingSprites": [],
+  "cellPixels": 32
+}

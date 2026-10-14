@@ -1,0 +1,66 @@
+{
+  "verified": true,
+  "newTestSets": 100,
+  "allTestSets": 200,
+  "pairedTests": 60,
+  "pairGroups": 20,
+  "independentTests": 40,
+  "modeCounts": {
+    "messy": 35,
+    "partial": 25,
+    "ordered": 20,
+    "dense": 20
+  },
+  "targetDensityBuckets": {
+    "30-49": 5,
+    "50-69": 10,
+    "70-79": 20,
+    "80-89": 30,
+    "90-95": 30,
+    "96-98": 5
+  },
+  "containerCounts": {
+    "30x30": 20,
+    "24x20": 15,
+    "24x24": 10,
+    "32x20": 3,
+    "24x10": 20,
+    "20x20": 15,
+    "30x20": 10,
+    "18x18": 3,
+    "18x24": 1,
+    "32x18": 1,
+    "16x16": 1,
+    "20x16": 1
+  },
+  "actualDensityMin": 0.38,
+  "actualDensityMax": 0.98,
+  "irregularCases": 8,
+  "fixedCases": 10,
+  "missingSprites": 0,
+  "newCoverage": {
+    "itemInstances": 9908,
+    "uniqueItemIds": 237,
+    "types": 30,
+    "sizes": 28,
+    "orientations": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  "allCoverage": {
+    "itemInstances": 20020,
+    "uniqueItemIds": 304,
+    "types": 34,
+    "sizes": 32,
+    "orientations": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  "manifestSha256": "5438B3933B60FB68559B173155D2729206B6CDDFBAB3FC8A6BFF8CF44E8B5674"
+}

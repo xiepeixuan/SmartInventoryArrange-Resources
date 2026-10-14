@@ -1,0 +1,110 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:34.169
+Outcome: test-set
+TestSetId: 35
+Scenario: large_30x20_messy_88pct
+LayoutMode: messy
+TargetDensity: 0.880
+ActualDensity: 0.880
+RandomSeed: 2026136685
+ContainerSize: 30x20
+[001] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[002] Name: water_test_container | ItemId: water_test_container | Coordinate: (4,0) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[003] Name: toothpaste | ItemId: toothpaste | Coordinate: (7,0) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[004] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (10,0) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[005] Name: nudka | ItemId: nudka | Coordinate: (15,0) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[006] Name: machine_bay | ItemId: machine_bay | Coordinate: (17,0) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[007] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (23,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[008] Name: machine_bay | ItemId: machine_bay | Coordinate: (25,0) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[009] Name: dream_dust | ItemId: dream_dust | Coordinate: (0,1) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[010] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (4,1) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[011] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (6,1) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[012] Name: processed_meat | ItemId: processed_meat | Coordinate: (8,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[013] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (13,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[014] Name: wine_berry | ItemId: wine_berry | Coordinate: (21,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[015] Name: fridge | ItemId: fridge | Coordinate: (0,2) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[016] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (3,2) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[017] Name: powerblock | ItemId: powerblock | Coordinate: (23,2) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[018] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (7,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[019] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (9,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[020] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (11,3) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[021] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (13,3) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: recharger | ItemId: recharger | Coordinate: (21,3) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[023] Name: logo_checker | ItemId: logo_checker | Coordinate: (12,4) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[024] Name: toothpaste | ItemId: toothpaste | Coordinate: (16,4) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[025] Name: morsel | ItemId: morsel | Coordinate: (19,4) | Size: 2x1 | Type: FOOD | Orientation: 0
+[026] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (23,4) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[027] Name: postit | ItemId: postit | Coordinate: (26,4) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[028] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (28,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[029] Name: machine_bay | ItemId: machine_bay | Coordinate: (0,5) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[030] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (4,5) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[031] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (9,5) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[032] Name: bottled_water | ItemId: bottled_water | Coordinate: (11,5) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[033] Name: recharger | ItemId: recharger | Coordinate: (15,5) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[034] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (19,5) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[035] Name: recharger | ItemId: recharger | Coordinate: (4,6) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[036] Name: raw_meat | ItemId: raw_meat | Coordinate: (12,6) | Size: 3x2 | Type: FOOD | Orientation: 0
+[037] Name: energy_credit | ItemId: energy_credit | Coordinate: (27,6) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[038] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (17,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[039] Name: storage_bay | ItemId: storage_bay | Coordinate: (20,7) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[040] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (23,7) | Size: 1x4 | Type: MODULE | Orientation: 0
+[041] Name: recharger | ItemId: recharger | Coordinate: (24,7) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[042] Name: energy_credit | ItemId: energy_credit | Coordinate: (29,7) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[043] Name: screwdriver | ItemId: screwdriver | Coordinate: (6,8) | Size: 3x1 | Type: TOOL | Orientation: 1
+[044] Name: machine_bay | ItemId: machine_bay | Coordinate: (9,8) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[045] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (14,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[046] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (19,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[047] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (28,8) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[048] Name: card_pharma | ItemId: card_pharma | Coordinate: (0,9) | Size: 2x1 | Type: DOCUMENT | Orientation: 0
+[049] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (2,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[050] Name: machine_bay | ItemId: machine_bay | Coordinate: (4,9) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[051] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (13,9) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[052] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (17,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[053] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (25,9) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[054] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (27,9) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[055] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (0,10) | Size: 1x3 | Type: TREAT | Orientation: 1
+[056] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (1,10) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[057] Name: dream_cap | ItemId: dream_cap | Coordinate: (8,10) | Size: 1x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[058] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (19,10) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[059] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (20,10) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[060] Name: dream_dust | ItemId: dream_dust | Coordinate: (22,10) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[061] Name: machine_bay | ItemId: machine_bay | Coordinate: (25,10) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[062] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (29,10) | Size: 1x3 | Type: TREAT | Orientation: 1
+[063] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[064] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (14,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[065] Name: recharger | ItemId: recharger | Coordinate: (17,11) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[066] Name: machine_bay | ItemId: machine_bay | Coordinate: (21,11) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[067] Name: dream_cap | ItemId: dream_cap | Coordinate: (1,12) | Size: 1x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[068] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (8,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[069] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (10,12) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[070] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (3,13) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[071] Name: processed_meat | ItemId: processed_meat | Coordinate: (4,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[072] Name: raw_meat | ItemId: raw_meat | Coordinate: (6,13) | Size: 2x3 | Type: FOOD | Orientation: 1
+[073] Name: bottled_water | ItemId: bottled_water | Coordinate: (17,13) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[074] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[075] Name: dream_cap | ItemId: dream_cap | Coordinate: (3,14) | Size: 1x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[076] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (8,14) | Size: 1x3 | Type: TREAT | Orientation: 1
+[077] Name: dream_dust | ItemId: dream_dust | Coordinate: (13,14) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[078] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (14,14) | Size: 3x1 | Type: TREAT | Orientation: 0
+[079] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (17,14) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[080] Name: dream_dust | ItemId: dream_dust | Coordinate: (25,14) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[081] Name: machine_bay | ItemId: machine_bay | Coordinate: (26,14) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[082] Name: toothpaste | ItemId: toothpaste | Coordinate: (9,15) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[083] Name: machine_bay | ItemId: machine_bay | Coordinate: (12,15) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[084] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (20,15) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[085] Name: water_test_container | ItemId: water_test_container | Coordinate: (23,15) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[086] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (0,16) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[087] Name: machine_bay | ItemId: machine_bay | Coordinate: (2,16) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[088] Name: nudka | ItemId: nudka | Coordinate: (10,16) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[089] Name: dream_dust | ItemId: dream_dust | Coordinate: (16,16) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[090] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (24,16) | Size: 2x2 | Type: FOOD | Orientation: 0
+[091] Name: recharger | ItemId: recharger | Coordinate: (6,17) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[092] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (17,17) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[093] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (19,17) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[094] Name: powerblock | ItemId: powerblock | Coordinate: (22,17) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[095] Name: dream_cap | ItemId: dream_cap | Coordinate: (25,18) | Size: 2x1 | Type: CHEMICAL_SUPPLIES | Orientation: 1
+[096] Name: water_guide | ItemId: water_guide | Coordinate: (27,18) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[097] Name: dream_dust | ItemId: dream_dust | Coordinate: (13,19) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[098] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (16,19) | Size: 3x1 | Type: TREAT | Orientation: 0
+[099] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (23,19) | Size: 3x1 | Type: TREAT | Orientation: 0
+========== Result End ==========

@@ -1,0 +1,59 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:28.606
+Outcome: test-set
+TestSetId: 172
+Scenario: independent_24x10_messy_83pct_fixed
+LayoutMode: messy
+TargetDensity: 0.830
+ActualDensity: 0.842
+RandomSeed: 20261186748
+ContainerSize: 24x10
+[001] Name: screwdriver | ItemId: screwdriver | Coordinate: (1,0) | Size: 1x3 | Type: TOOL | Orientation: 0
+[002] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (2,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[003] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (3,0) | Size: 3x3 | Type: STORAGE | Orientation: 0 | Status: fixed
+[004] Name: common_chemical | ItemId: common_chemical | Coordinate: (7,0) | Size: 2x3 | Type: CHEMICAL_SUPPLIES | Orientation: 1 | Status: fixed
+[005] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (9,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[006] Name: morsel | ItemId: morsel | Coordinate: (10,0) | Size: 2x1 | Type: FOOD | Orientation: 0
+[007] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (12,0) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[008] Name: common_electronic | ItemId: common_electronic | Coordinate: (15,0) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[009] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (18,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[010] Name: morsel | ItemId: morsel | Coordinate: (23,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[011] Name: morsel | ItemId: morsel | Coordinate: (0,1) | Size: 1x2 | Type: FOOD | Orientation: 1
+[012] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (10,1) | Size: 3x3 | Type: STORAGE | Orientation: 0 | Status: fixed
+[013] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (13,1) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[014] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (20,1) | Size: 3x4 | Type: HOUSEHOLD_GOOD | Orientation: 0 | Status: fixed
+[015] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (6,2) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[016] Name: labeler | ItemId: labeler | Coordinate: (17,2) | Size: 2x3 | Type: ~unknown | Orientation: 0 | Status: fixed
+[017] Name: morsel | ItemId: morsel | Coordinate: (23,2) | Size: 1x2 | Type: FOOD | Orientation: 1
+[018] Name: morsel | ItemId: morsel | Coordinate: (0,3) | Size: 1x2 | Type: FOOD | Orientation: 1
+[019] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (1,3) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[020] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (4,3) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0 | Status: fixed
+[021] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (7,3) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[022] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (15,3) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[023] Name: morsel | ItemId: morsel | Coordinate: (19,3) | Size: 1x2 | Type: FOOD | Orientation: 1
+[024] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (1,4) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[025] Name: wine_book | ItemId: wine_book | Coordinate: (9,4) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[026] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (11,4) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[027] Name: box_tampon | ItemId: box_tampon | Coordinate: (12,4) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0 | Status: fixed
+[028] Name: morsel | ItemId: morsel | Coordinate: (1,5) | Size: 2x1 | Type: FOOD | Orientation: 0
+[029] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (6,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[030] Name: powerblock | ItemId: powerblock | Coordinate: (16,5) | Size: 2x2 | Type: MACHINE | Orientation: 0 | Status: fixed
+[031] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (20,5) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[032] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (21,5) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[033] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (0,6) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[034] Name: black_lamp | ItemId: black_lamp | Coordinate: (1,6) | Size: 2x3 | Type: ~unknown | Orientation: 0 | Status: fixed
+[035] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (18,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[036] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (21,6) | Size: 2x3 | Type: TOOL | Orientation: 1 | Status: fixed
+[037] Name: fridge | ItemId: fridge | Coordinate: (3,7) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[038] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (10,7) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[039] Name: magnifier | ItemId: magnifier | Coordinate: (13,7) | Size: 3x3 | Type: ~unknown | Orientation: 0 | Status: fixed
+[040] Name: card_mining | ItemId: card_mining | Coordinate: (23,7) | Size: 1x2 | Type: DOCUMENT | Orientation: 1
+[041] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (0,8) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[042] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (6,8) | Size: 2x2 | Type: CONTRABAND | Orientation: 0 | Status: fixed
+[043] Name: powerblock | ItemId: powerblock | Coordinate: (8,8) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[044] Name: morsel | ItemId: morsel | Coordinate: (12,8) | Size: 1x2 | Type: FOOD | Orientation: 1
+[045] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (16,8) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[046] Name: powerblock | ItemId: powerblock | Coordinate: (18,8) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[047] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (0,9) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[048] Name: morsel | ItemId: morsel | Coordinate: (21,9) | Size: 2x1 | Type: FOOD | Orientation: 0
+========== Result End ==========

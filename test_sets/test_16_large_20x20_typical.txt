@@ -1,0 +1,59 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:51.225
+Outcome: test-set
+TestSetId: 16
+Scenario: large_20x20_typical
+LayoutMode: partial
+TargetDensity: 0.480
+ActualDensity: 0.482
+RandomSeed: 2026117445
+ContainerSize: 20x20
+[001] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (0,0) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[002] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (5,0) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[003] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (7,0) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[004] Name: bottled_water | ItemId: bottled_water | Coordinate: (11,0) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[005] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (15,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[006] Name: aquascan | ItemId: aquascan | Coordinate: (0,1) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[007] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (3,1) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[008] Name: common_ore | ItemId: common_ore | Coordinate: (5,1) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[009] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (8,1) | Size: 1x4 | Type: MODULE | Orientation: 0
+[010] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (9,1) | Size: 2x2 | Type: MODULE | Orientation: 1
+[011] Name: blood_bag | ItemId: blood_bag | Coordinate: (11,1) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[012] Name: powerblock | ItemId: powerblock | Coordinate: (13,1) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[013] Name: cassette2d | ItemId: cassette2d | Coordinate: (17,1) | Size: 2x2 | Type: ART | Orientation: 0
+[014] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (1,3) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[015] Name: common_electronic | ItemId: common_electronic | Coordinate: (6,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[016] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (9,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[017] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (15,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[018] Name: water_guide | ItemId: water_guide | Coordinate: (16,3) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[019] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (1,4) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[020] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (2,4) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[021] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (11,4) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[022] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (13,4) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[023] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (0,5) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[024] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (4,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[025] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (8,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[026] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (15,5) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[027] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (17,5) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[028] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (2,6) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[029] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (11,6) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[030] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (0,7) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[031] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (4,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[032] Name: cassette2d | ItemId: cassette2d | Coordinate: (8,7) | Size: 2x2 | Type: ART | Orientation: 0
+[033] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (14,7) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[034] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (2,8) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[035] Name: wine_berry | ItemId: wine_berry | Coordinate: (6,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[036] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (10,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[037] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (11,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[038] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (12,8) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[039] Name: cat_bar | ItemId: cat_bar | Coordinate: (8,9) | Size: 2x2 | Type: TREAT | Orientation: 0
+[040] Name: cassette2d | ItemId: cassette2d | Coordinate: (0,10) | Size: 2x2 | Type: ART | Orientation: 0
+[041] Name: cassette2d | ItemId: cassette2d | Coordinate: (5,10) | Size: 2x2 | Type: ART | Orientation: 0
+[042] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (12,10) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[043] Name: pink_injector | ItemId: pink_injector | Coordinate: (15,10) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[044] Name: smuggler_bay_mod | ItemId: smuggler_bay_mod | Coordinate: (17,10) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[045] Name: wine_superyeast | ItemId: wine_superyeast | Coordinate: (13,11) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[046] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (10,12) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[047] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (7,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[048] Name: blood_bag | ItemId: blood_bag | Coordinate: (3,15) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+========== Result End ==========

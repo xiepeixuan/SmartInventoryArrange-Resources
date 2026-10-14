@@ -1,0 +1,83 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:14.827
+Outcome: test-set
+TestSetId: 104
+PairGroup: pair_02_24x20_60pct
+Scenario: paired_messy
+LayoutMode: messy
+TargetDensity: 0.600
+RandomSeed: 20261014018
+ContainerSize: 24x20
+[001] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[002] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (2,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[003] Name: water_test_container | ItemId: water_test_container | Coordinate: (4,0) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[004] Name: morsel | ItemId: morsel | Coordinate: (5,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[005] Name: water_test_container | ItemId: water_test_container | Coordinate: (6,0) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[006] Name: morsel | ItemId: morsel | Coordinate: (7,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[007] Name: morsel | ItemId: morsel | Coordinate: (8,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[008] Name: morsel | ItemId: morsel | Coordinate: (9,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[009] Name: wine_berry | ItemId: wine_berry | Coordinate: (10,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[010] Name: water_guide | ItemId: water_guide | Coordinate: (12,0) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[011] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (14,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[012] Name: magnifier | ItemId: magnifier | Coordinate: (16,0) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[013] Name: magnifier | ItemId: magnifier | Coordinate: (19,0) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[014] Name: nudka | ItemId: nudka | Coordinate: (22,0) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[015] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[016] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (2,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[017] Name: morsel | ItemId: morsel | Coordinate: (4,2) | Size: 2x1 | Type: FOOD | Orientation: 0
+[018] Name: morsel | ItemId: morsel | Coordinate: (6,2) | Size: 2x1 | Type: FOOD | Orientation: 0
+[019] Name: water_test_container | ItemId: water_test_container | Coordinate: (8,2) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[020] Name: morsel | ItemId: morsel | Coordinate: (10,2) | Size: 1x2 | Type: FOOD | Orientation: 1
+[021] Name: morsel | ItemId: morsel | Coordinate: (11,2) | Size: 1x2 | Type: FOOD | Orientation: 1
+[022] Name: morsel | ItemId: morsel | Coordinate: (14,2) | Size: 1x2 | Type: FOOD | Orientation: 1
+[023] Name: morsel | ItemId: morsel | Coordinate: (15,2) | Size: 1x2 | Type: FOOD | Orientation: 1
+[024] Name: bottle_hot_sauce | ItemId: bottle_hot_sauce | Coordinate: (4,3) | Size: 3x1 | Type: FOOD | Orientation: 1
+[025] Name: morsel | ItemId: morsel | Coordinate: (7,3) | Size: 2x1 | Type: FOOD | Orientation: 0
+[026] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (9,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[027] Name: morsel | ItemId: morsel | Coordinate: (12,3) | Size: 1x2 | Type: FOOD | Orientation: 1
+[028] Name: morsel | ItemId: morsel | Coordinate: (13,3) | Size: 1x2 | Type: FOOD | Orientation: 1
+[029] Name: magnifier | ItemId: magnifier | Coordinate: (16,3) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[030] Name: morsel | ItemId: morsel | Coordinate: (19,3) | Size: 1x2 | Type: FOOD | Orientation: 1
+[031] Name: wine_berry | ItemId: wine_berry | Coordinate: (0,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[032] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[033] Name: water_test_container | ItemId: water_test_container | Coordinate: (4,4) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[034] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (5,4) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[035] Name: morsel | ItemId: morsel | Coordinate: (7,4) | Size: 2x1 | Type: FOOD | Orientation: 0
+[036] Name: morsel | ItemId: morsel | Coordinate: (10,4) | Size: 2x1 | Type: FOOD | Orientation: 0
+[037] Name: morsel | ItemId: morsel | Coordinate: (14,4) | Size: 2x1 | Type: FOOD | Orientation: 0
+[038] Name: nudka | ItemId: nudka | Coordinate: (20,4) | Size: 4x2 | Type: ALCOHOL | Orientation: 1
+[039] Name: water_test_container | ItemId: water_test_container | Coordinate: (7,5) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[040] Name: morsel | ItemId: morsel | Coordinate: (9,5) | Size: 2x1 | Type: FOOD | Orientation: 0
+[041] Name: morsel | ItemId: morsel | Coordinate: (11,5) | Size: 2x1 | Type: FOOD | Orientation: 0
+[042] Name: morsel | ItemId: morsel | Coordinate: (14,5) | Size: 2x1 | Type: FOOD | Orientation: 0
+[043] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (0,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[044] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (2,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[045] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (4,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[046] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (6,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[047] Name: processed_meat | ItemId: processed_meat | Coordinate: (8,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[048] Name: processed_meat | ItemId: processed_meat | Coordinate: (10,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[049] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (12,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[050] Name: nudka | ItemId: nudka | Coordinate: (14,6) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[051] Name: nudka | ItemId: nudka | Coordinate: (16,6) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[052] Name: nudka | ItemId: nudka | Coordinate: (18,6) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[053] Name: nudka | ItemId: nudka | Coordinate: (20,6) | Size: 4x2 | Type: ALCOHOL | Orientation: 1
+[054] Name: water_guide | ItemId: water_guide | Coordinate: (0,8) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[055] Name: water_guide | ItemId: water_guide | Coordinate: (2,8) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[056] Name: water_guide | ItemId: water_guide | Coordinate: (4,8) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[057] Name: wine_berry | ItemId: wine_berry | Coordinate: (6,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[058] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (8,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[059] Name: fat_meat | ItemId: fat_meat | Coordinate: (10,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[060] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (12,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[061] Name: nudka | ItemId: nudka | Coordinate: (20,8) | Size: 4x2 | Type: ALCOHOL | Orientation: 1
+[062] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (6,10) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[063] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (7,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[064] Name: wine_berry | ItemId: wine_berry | Coordinate: (9,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[065] Name: processed_meat | ItemId: processed_meat | Coordinate: (11,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[066] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (13,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[067] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (15,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[068] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (17,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[069] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (19,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[070] Name: wine_berry | ItemId: wine_berry | Coordinate: (21,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[071] Name: water_guide | ItemId: water_guide | Coordinate: (0,11) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[072] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (3,11) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+========== Result End ==========

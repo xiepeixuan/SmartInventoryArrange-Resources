@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_29_edge_fragmented_dense.txt",
+  "output": "D:\\resources\\test_sets\\test_29_edge_fragmented_dense.layout.png",
+  "containerSize": "30x20",
+  "outcome": "test-set",
+  "itemCount": 142,
+  "missingSprites": [],
+  "cellPixels": 32
+}

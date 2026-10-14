@@ -1,0 +1,98 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:59.921
+Outcome: test-set
+TestSetId: 83
+Scenario: large_30x20_ordered_82pct
+LayoutMode: ordered
+TargetDensity: 0.820
+ActualDensity: 0.825
+RandomSeed: 2026185117
+ContainerSize: 30x20
+[001] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (0,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[002] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (2,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[003] Name: phagimycin_pill | ItemId: phagimycin_pill | Coordinate: (4,0) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[004] Name: phagimycin_pill | ItemId: phagimycin_pill | Coordinate: (5,0) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[005] Name: water_test_container | ItemId: water_test_container | Coordinate: (6,0) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[006] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (7,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[007] Name: bottled_water | ItemId: bottled_water | Coordinate: (8,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[008] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (9,0) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[009] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (11,0) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[010] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (13,0) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[011] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (15,0) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[012] Name: machine_bay | ItemId: machine_bay | Coordinate: (17,0) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[013] Name: screwdriver | ItemId: screwdriver | Coordinate: (21,0) | Size: 1x3 | Type: TOOL | Orientation: 0
+[014] Name: screwdriver | ItemId: screwdriver | Coordinate: (22,0) | Size: 1x3 | Type: TOOL | Orientation: 0
+[015] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (23,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[016] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (24,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[017] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (25,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[018] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (26,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[019] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (27,0) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[020] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (29,0) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[021] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (4,1) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[022] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (5,1) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[023] Name: soda_red | ItemId: soda_red | Coordinate: (0,2) | Size: 2x1 | Type: FOOD | Orientation: 1
+[024] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (2,2) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[025] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (3,2) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[026] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (6,2) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[027] Name: procurement_slip | ItemId: procurement_slip | Coordinate: (23,2) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[028] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (28,2) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[029] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (0,3) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[030] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (1,3) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[031] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (7,3) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[032] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (24,3) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[033] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (8,4) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[034] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (12,4) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[035] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (16,4) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[036] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (18,4) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[037] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (20,4) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[038] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (21,4) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[039] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (22,4) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[040] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (23,4) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[041] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (24,4) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[042] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (29,4) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[043] Name: dream_dust | ItemId: dream_dust | Coordinate: (4,5) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[044] Name: dream_dust | ItemId: dream_dust | Coordinate: (5,5) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[045] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (24,5) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[046] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (25,5) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[047] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (26,5) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[048] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (27,5) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[049] Name: dream_dust | ItemId: dream_dust | Coordinate: (2,6) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[050] Name: dream_dust | ItemId: dream_dust | Coordinate: (3,6) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[051] Name: dream_dust | ItemId: dream_dust | Coordinate: (4,6) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[052] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (5,6) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[053] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (6,6) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[054] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (7,6) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[055] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (16,6) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[056] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (18,6) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[057] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (19,6) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[058] Name: dream_dust | ItemId: dream_dust | Coordinate: (2,7) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[059] Name: powerblock | ItemId: powerblock | Coordinate: (3,7) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[060] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (8,7) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[061] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (12,7) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[062] Name: hidden_save_bag | ItemId: hidden_save_bag | Coordinate: (0,8) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[063] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (16,8) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[064] Name: bottled_water | ItemId: bottled_water | Coordinate: (18,8) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[065] Name: bottled_water | ItemId: bottled_water | Coordinate: (22,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[066] Name: bottled_water | ItemId: bottled_water | Coordinate: (23,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[067] Name: bottled_water | ItemId: bottled_water | Coordinate: (24,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[068] Name: bottled_water | ItemId: bottled_water | Coordinate: (25,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[069] Name: bottled_water | ItemId: bottled_water | Coordinate: (26,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[070] Name: bottled_water | ItemId: bottled_water | Coordinate: (27,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[071] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (5,9) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[072] Name: bottled_water | ItemId: bottled_water | Coordinate: (18,9) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[073] Name: hidden_save_bag | ItemId: hidden_save_bag | Coordinate: (3,10) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[074] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (8,10) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[075] Name: water_jug | ItemId: water_jug | Coordinate: (12,10) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[076] Name: bottled_water | ItemId: bottled_water | Coordinate: (18,10) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[077] Name: bottled_water | ItemId: bottled_water | Coordinate: (18,11) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[078] Name: hidden_save_bag | ItemId: hidden_save_bag | Coordinate: (0,12) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[079] Name: water_jug | ItemId: water_jug | Coordinate: (16,12) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[080] Name: water_jug | ItemId: water_jug | Coordinate: (20,12) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[081] Name: water_jug | ItemId: water_jug | Coordinate: (24,12) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[082] Name: water_jug | ItemId: water_jug | Coordinate: (8,13) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[083] Name: hidden_save_bag | ItemId: hidden_save_bag | Coordinate: (3,14) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[084] Name: water_jug | ItemId: water_jug | Coordinate: (12,14) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[085] Name: hidden_save_bag | ItemId: hidden_save_bag | Coordinate: (0,16) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[086] Name: water_jug | ItemId: water_jug | Coordinate: (16,16) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[087] Name: water_jug | ItemId: water_jug | Coordinate: (20,16) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+========== Result End ==========

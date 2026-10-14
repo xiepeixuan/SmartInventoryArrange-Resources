@@ -1,0 +1,63 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.967
+Outcome: test-set
+TestSetId: 15
+Scenario: warehouse_24x10_near_full
+LayoutMode: dense
+TargetDensity: 0.960
+ActualDensity: 0.967
+RandomSeed: 2026116436
+ContainerSize: 24x10
+[001] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (0,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[002] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (1,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[003] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (2,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[004] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (3,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[005] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (4,0) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[006] Name: morsel | ItemId: morsel | Coordinate: (5,0) | Size: 2x1 | Type: FOOD | Orientation: 0
+[007] Name: morsel | ItemId: morsel | Coordinate: (7,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[008] Name: morsel | ItemId: morsel | Coordinate: (8,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[009] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (9,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[010] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (10,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[011] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (11,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[012] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (12,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[013] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (13,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[014] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (14,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[015] Name: processed_juice | ItemId: processed_juice | Coordinate: (15,0) | Size: 3x2 | Type: PROCESSED_FOOD | Orientation: 1
+[016] Name: processed_juice | ItemId: processed_juice | Coordinate: (18,0) | Size: 2x3 | Type: PROCESSED_FOOD | Orientation: 0
+[017] Name: processed_juice | ItemId: processed_juice | Coordinate: (20,0) | Size: 2x3 | Type: PROCESSED_FOOD | Orientation: 0
+[018] Name: common_ore | ItemId: common_ore | Coordinate: (22,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[019] Name: morsel | ItemId: morsel | Coordinate: (5,1) | Size: 2x1 | Type: FOOD | Orientation: 0
+[020] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (5,2) | Size: 4x1 | Type: ALARM_MODULE | Orientation: 1
+[021] Name: processed_juice | ItemId: processed_juice | Coordinate: (15,2) | Size: 3x2 | Type: PROCESSED_FOOD | Orientation: 1
+[022] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (5,3) | Size: 4x1 | Type: ALARM_MODULE | Orientation: 1
+[023] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (9,3) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[024] Name: stun_gun | ItemId: stun_gun | Coordinate: (10,3) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[025] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (13,3) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[026] Name: processed_juice | ItemId: processed_juice | Coordinate: (18,3) | Size: 3x2 | Type: PROCESSED_FOOD | Orientation: 1
+[027] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (21,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[028] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (23,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[029] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (0,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[030] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (2,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[031] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (4,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[032] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (6,4) | Size: 4x1 | Type: ALARM_MODULE | Orientation: 1
+[033] Name: stun_gun | ItemId: stun_gun | Coordinate: (13,4) | Size: 4x3 | Type: WEAPON | Orientation: 0
+[034] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (6,5) | Size: 4x1 | Type: ALARM_MODULE | Orientation: 1
+[035] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (17,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[036] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (19,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[037] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (21,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[038] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (0,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[039] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (2,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[040] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (4,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[041] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (6,6) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[042] Name: stun_gun | ItemId: stun_gun | Coordinate: (7,6) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[043] Name: stun_gun | ItemId: stun_gun | Coordinate: (10,7) | Size: 4x3 | Type: WEAPON | Orientation: 0
+[044] Name: stun_gun | ItemId: stun_gun | Coordinate: (14,7) | Size: 4x3 | Type: WEAPON | Orientation: 2
+[045] Name: tazer | ItemId: tazer | Coordinate: (18,7) | Size: 2x3 | Type: WEAPON | Orientation: 0
+[046] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (20,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[047] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (22,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[048] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[049] Name: dream_dust | ItemId: dream_dust | Coordinate: (2,8) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[050] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (3,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[051] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (5,8) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[052] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (5,9) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+========== Result End ==========

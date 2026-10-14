@@ -1,0 +1,55 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:51.401
+Outcome: test-set
+TestSetId: 17
+Scenario: large_24x16_messy
+LayoutMode: messy
+TargetDensity: 0.620
+ActualDensity: 0.625
+RandomSeed: 2026118454
+ContainerSize: 24x16
+[001] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (5,0) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[002] Name: wire | ItemId: wire | Coordinate: (10,0) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[003] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (12,0) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[004] Name: zerochew | ItemId: zerochew | Coordinate: (20,0) | Size: 1x1 | Type: FOOD | Orientation: 0
+[005] Name: water_test_container | ItemId: water_test_container | Coordinate: (21,0) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[006] Name: cat_bar | ItemId: cat_bar | Coordinate: (8,1) | Size: 2x2 | Type: TREAT | Orientation: 0
+[007] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (17,1) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[008] Name: common_electronic | ItemId: common_electronic | Coordinate: (19,1) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[009] Name: furnace | ItemId: furnace | Coordinate: (21,1) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[010] Name: water_guide | ItemId: water_guide | Coordinate: (3,2) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[011] Name: water_purifier | ItemId: water_purifier | Coordinate: (10,2) | Size: 4x3 | Type: MACHINE | Orientation: 1
+[012] Name: furnace | ItemId: furnace | Coordinate: (14,2) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[013] Name: cat_bar | ItemId: cat_bar | Coordinate: (0,3) | Size: 2x2 | Type: TREAT | Orientation: 0
+[014] Name: cat_bar | ItemId: cat_bar | Coordinate: (5,4) | Size: 2x2 | Type: TREAT | Orientation: 0
+[015] Name: common_electronic | ItemId: common_electronic | Coordinate: (7,4) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[016] Name: cat_bar | ItemId: cat_bar | Coordinate: (18,4) | Size: 2x2 | Type: TREAT | Orientation: 0
+[017] Name: furnace | ItemId: furnace | Coordinate: (9,5) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[018] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (14,5) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[019] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (12,6) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[020] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (16,6) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[021] Name: water_purifier | ItemId: water_purifier | Coordinate: (20,6) | Size: 3x4 | Type: MACHINE | Orientation: 0
+[022] Name: newspaper | ItemId: newspaper | Coordinate: (1,7) | Size: 2x3 | Type: DOCUMENT | Orientation: 1
+[023] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (5,7) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[024] Name: cat_bar | ItemId: cat_bar | Coordinate: (14,7) | Size: 2x2 | Type: TREAT | Orientation: 0
+[025] Name: combat_knife | ItemId: combat_knife | Coordinate: (18,7) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[026] Name: zerochew | ItemId: zerochew | Coordinate: (23,7) | Size: 1x1 | Type: FOOD | Orientation: 0
+[027] Name: cat_bar | ItemId: cat_bar | Coordinate: (3,8) | Size: 2x2 | Type: TREAT | Orientation: 0
+[028] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (9,8) | Size: 4x1 | Type: MODULE | Orientation: 1
+[029] Name: water_purifier | ItemId: water_purifier | Coordinate: (11,9) | Size: 3x4 | Type: MACHINE | Orientation: 0
+[030] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (16,9) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[031] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (1,10) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[032] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (4,10) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[033] Name: water_purifier | ItemId: water_purifier | Coordinate: (8,10) | Size: 3x4 | Type: MACHINE | Orientation: 0
+[034] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (19,11) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[035] Name: water_purifier | ItemId: water_purifier | Coordinate: (21,11) | Size: 3x4 | Type: MACHINE | Orientation: 0
+[036] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (0,12) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[037] Name: cat_bar | ItemId: cat_bar | Coordinate: (6,12) | Size: 2x2 | Type: TREAT | Orientation: 0
+[038] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (2,13) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[039] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (11,13) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[040] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (16,13) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[041] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (17,13) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[042] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (5,14) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[043] Name: zerochew | ItemId: zerochew | Coordinate: (16,15) | Size: 1x1 | Type: FOOD | Orientation: 0
+[044] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (21,15) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+========== Result End ==========

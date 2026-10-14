@@ -1,0 +1,73 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:54.978
+Outcome: test-set
+TestSetId: 25
+Scenario: edge_duplicate_cohorts
+LayoutMode: ordered
+TargetDensity: 0.800
+ActualDensity: 0.806
+RandomSeed: 2026126526
+ContainerSize: 24x12
+[001] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (0,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[002] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (2,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[003] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (4,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[004] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (6,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[005] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (7,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[006] Name: magnifier | ItemId: magnifier | Coordinate: (9,0) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[007] Name: stun_gun | ItemId: stun_gun | Coordinate: (12,0) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[008] Name: slip | ItemId: slip | Coordinate: (15,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[009] Name: slip | ItemId: slip | Coordinate: (16,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[010] Name: red_beer | ItemId: red_beer | Coordinate: (17,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[011] Name: red_beer | ItemId: red_beer | Coordinate: (18,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[012] Name: red_beer | ItemId: red_beer | Coordinate: (19,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[013] Name: red_beer | ItemId: red_beer | Coordinate: (20,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[014] Name: red_beer | ItemId: red_beer | Coordinate: (21,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[015] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (22,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[016] Name: flux_agent | ItemId: flux_agent | Coordinate: (15,1) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[017] Name: flux_agent | ItemId: flux_agent | Coordinate: (16,1) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[018] Name: morsel | ItemId: morsel | Coordinate: (0,2) | Size: 2x1 | Type: FOOD | Orientation: 0
+[019] Name: morsel | ItemId: morsel | Coordinate: (2,2) | Size: 1x2 | Type: FOOD | Orientation: 1
+[020] Name: morsel | ItemId: morsel | Coordinate: (3,2) | Size: 1x2 | Type: FOOD | Orientation: 1
+[021] Name: wine_berry | ItemId: wine_berry | Coordinate: (4,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[022] Name: system_module_streamlining | ItemId: system_module_streamlining | Coordinate: (7,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[023] Name: flux_agent | ItemId: flux_agent | Coordinate: (15,2) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[024] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (22,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[025] Name: morsel | ItemId: morsel | Coordinate: (0,3) | Size: 2x1 | Type: FOOD | Orientation: 0
+[026] Name: system_module_streamlining | ItemId: system_module_streamlining | Coordinate: (9,3) | Size: 2x2 | Type: MODULE | Orientation: 0
+[027] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (11,3) | Size: 1x4 | Type: MODULE | Orientation: 0
+[028] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[029] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[030] Name: morsel | ItemId: morsel | Coordinate: (4,4) | Size: 1x2 | Type: FOOD | Orientation: 1
+[031] Name: system_module_streamlining | ItemId: system_module_streamlining | Coordinate: (5,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[032] Name: system_module_streamlining | ItemId: system_module_streamlining | Coordinate: (7,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[033] Name: wine_berry | ItemId: wine_berry | Coordinate: (12,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[034] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (14,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[035] Name: raw_meat | ItemId: raw_meat | Coordinate: (16,4) | Size: 2x3 | Type: FOOD | Orientation: 1
+[036] Name: raw_meat | ItemId: raw_meat | Coordinate: (18,4) | Size: 2x3 | Type: FOOD | Orientation: 1
+[037] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (20,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[038] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (22,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[039] Name: system_module_streamlining | ItemId: system_module_streamlining | Coordinate: (9,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[040] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[041] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[042] Name: morsel | ItemId: morsel | Coordinate: (4,6) | Size: 1x2 | Type: FOOD | Orientation: 1
+[043] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (5,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[044] Name: system_module_streamlining | ItemId: system_module_streamlining | Coordinate: (7,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[045] Name: wine_berry | ItemId: wine_berry | Coordinate: (12,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[046] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (14,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[047] Name: bottled_water | ItemId: bottled_water | Coordinate: (20,6) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[048] Name: bottled_water | ItemId: bottled_water | Coordinate: (21,6) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[049] Name: bottled_water | ItemId: bottled_water | Coordinate: (22,6) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[050] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (23,6) | Size: 1x4 | Type: MODULE | Orientation: 0
+[051] Name: morsel | ItemId: morsel | Coordinate: (10,7) | Size: 2x1 | Type: FOOD | Orientation: 0
+[052] Name: raw_meat | ItemId: raw_meat | Coordinate: (16,7) | Size: 3x2 | Type: FOOD | Orientation: 0
+[053] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[054] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[055] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (4,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[056] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (6,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[057] Name: wine_berry | ItemId: wine_berry | Coordinate: (8,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[058] Name: wine_berry | ItemId: wine_berry | Coordinate: (10,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[059] Name: wine_berry | ItemId: wine_berry | Coordinate: (12,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[060] Name: morsel | ItemId: morsel | Coordinate: (14,8) | Size: 1x2 | Type: FOOD | Orientation: 1
+[061] Name: morsel | ItemId: morsel | Coordinate: (15,8) | Size: 1x2 | Type: FOOD | Orientation: 1
+[062] Name: morsel | ItemId: morsel | Coordinate: (14,10) | Size: 2x1 | Type: FOOD | Orientation: 0
+========== Result End ==========

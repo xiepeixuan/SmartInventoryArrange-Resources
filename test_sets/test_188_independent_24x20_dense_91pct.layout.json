@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_188_independent_24x20_dense_91pct.txt",
+  "output": "D:\\resources\\test_sets\\test_188_independent_24x20_dense_91pct.layout.png",
+  "containerSize": "24x20",
+  "outcome": "test-set",
+  "itemCount": 85,
+  "missingSprites": [],
+  "cellPixels": 32
+}

@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_26_edge_unknown_mixed.txt",
+  "output": "D:\\resources\\test_sets\\test_26_edge_unknown_mixed.layout.png",
+  "containerSize": "24x14",
+  "outcome": "test-set",
+  "itemCount": 56,
+  "missingSprites": [],
+  "cellPixels": 32
+}

@@ -1,0 +1,76 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:21.681
+Outcome: test-set
+TestSetId: 142
+PairGroup: pair_14_20x20_90pct
+Scenario: paired_ordered
+LayoutMode: ordered
+TargetDensity: 0.900
+RandomSeed: 20261018926
+ContainerSize: 20x20
+[001] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (0,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[002] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (1,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[003] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (2,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[004] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (3,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[005] Name: smoke_grenade | ItemId: smoke_grenade | Coordinate: (4,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 0
+[006] Name: rat | ItemId: rat | Coordinate: (5,0) | Size: 1x2 | Type: ~unknown | Orientation: 1
+[007] Name: rat | ItemId: rat | Coordinate: (6,0) | Size: 1x2 | Type: ~unknown | Orientation: 1
+[008] Name: rat | ItemId: rat | Coordinate: (7,0) | Size: 1x2 | Type: ~unknown | Orientation: 1
+[009] Name: rat | ItemId: rat | Coordinate: (8,0) | Size: 1x2 | Type: ~unknown | Orientation: 1
+[010] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (9,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[011] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (11,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[012] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (13,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[013] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (15,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[014] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (17,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[015] Name: rat | ItemId: rat | Coordinate: (19,0) | Size: 1x2 | Type: ~unknown | Orientation: 1
+[016] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (0,1) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[017] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (2,1) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[018] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (2,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[019] Name: water_guide | ItemId: water_guide | Coordinate: (3,2) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[020] Name: water_guide | ItemId: water_guide | Coordinate: (6,2) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[021] Name: water_guide | ItemId: water_guide | Coordinate: (9,2) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[022] Name: water_guide | ItemId: water_guide | Coordinate: (11,2) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[023] Name: water_guide | ItemId: water_guide | Coordinate: (13,2) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[024] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (15,2) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[025] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (17,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[026] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (18,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[027] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (19,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[028] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (0,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[029] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (2,3) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[030] Name: water_guide | ItemId: water_guide | Coordinate: (17,3) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[031] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (19,3) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[032] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (2,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[033] Name: black_lamp | ItemId: black_lamp | Coordinate: (4,4) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[034] Name: wine_book | ItemId: wine_book | Coordinate: (6,4) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[035] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (15,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[036] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (0,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[037] Name: black_lamp | ItemId: black_lamp | Coordinate: (9,5) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[038] Name: labeler | ItemId: labeler | Coordinate: (12,5) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[039] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (2,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[040] Name: labeler | ItemId: labeler | Coordinate: (6,6) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[041] Name: backpack_medium | ItemId: backpack_medium | Coordinate: (15,6) | Size: 5x4 | Type: ~unknown | Orientation: 1
+[042] Name: labeler | ItemId: labeler | Coordinate: (4,7) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[043] Name: magnifier | ItemId: magnifier | Coordinate: (9,7) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[044] Name: magnifier | ItemId: magnifier | Coordinate: (12,7) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[045] Name: labeler | ItemId: labeler | Coordinate: (1,8) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[046] Name: magnifier | ItemId: magnifier | Coordinate: (6,8) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[047] Name: labeler | ItemId: labeler | Coordinate: (0,10) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[048] Name: labeler | ItemId: labeler | Coordinate: (3,10) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[049] Name: magnifier | ItemId: magnifier | Coordinate: (9,10) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[050] Name: backpack_medium | ItemId: backpack_medium | Coordinate: (12,10) | Size: 4x5 | Type: ~unknown | Orientation: 0
+[051] Name: backpack_medium | ItemId: backpack_medium | Coordinate: (16,10) | Size: 4x5 | Type: ~unknown | Orientation: 0
+[052] Name: labeler | ItemId: labeler | Coordinate: (6,11) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[053] Name: labeler | ItemId: labeler | Coordinate: (0,12) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[054] Name: sign_water | ItemId: sign_water | Coordinate: (3,12) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[055] Name: backpack_medium | ItemId: backpack_medium | Coordinate: (8,13) | Size: 4x5 | Type: ~unknown | Orientation: 0
+[056] Name: sign_water | ItemId: sign_water | Coordinate: (1,14) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[057] Name: sign_water | ItemId: sign_water | Coordinate: (3,14) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[058] Name: sign_water | ItemId: sign_water | Coordinate: (5,14) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[059] Name: backpack_medium | ItemId: backpack_medium | Coordinate: (12,15) | Size: 5x4 | Type: ~unknown | Orientation: 1
+[060] Name: satchel | ItemId: satchel | Coordinate: (17,15) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[061] Name: sign_water | ItemId: sign_water | Coordinate: (5,16) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[062] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (0,17) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[063] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (2,17) | Size: 2x2 | Type: MODULE | Orientation: 0
+[064] Name: rat | ItemId: rat | Coordinate: (4,17) | Size: 1x2 | Type: ~unknown | Orientation: 1
+[065] Name: sign_water | ItemId: sign_water | Coordinate: (5,18) | Size: 3x2 | Type: ~unknown | Orientation: 1
+========== Result End ==========

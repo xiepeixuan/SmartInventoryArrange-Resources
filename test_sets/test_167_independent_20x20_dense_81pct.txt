@@ -1,0 +1,95 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:26.144
+Outcome: test-set
+TestSetId: 167
+Scenario: independent_20x20_dense_81pct
+LayoutMode: dense
+TargetDensity: 0.810
+ActualDensity: 0.812
+RandomSeed: 20261181703
+ContainerSize: 20x20
+[001] Name: ribwich | ItemId: ribwich | Coordinate: (0,0) | Size: 3x2 | Type: ~unknown | Orientation: 0
+[002] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (3,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[003] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (4,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[004] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (5,0) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[005] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (7,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[006] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (9,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[007] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (11,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[008] Name: water_ration | ItemId: water_ration | Coordinate: (13,0) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[009] Name: water_ration | ItemId: water_ration | Coordinate: (15,0) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[010] Name: water_ration | ItemId: water_ration | Coordinate: (17,0) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[011] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (19,0) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[012] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (3,1) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[013] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (5,1) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[014] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (19,1) | Size: 1x4 | Type: MODULE | Orientation: 0
+[015] Name: save_bag | ItemId: save_bag | Coordinate: (0,2) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[016] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (7,2) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[017] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (9,2) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[018] Name: sign_household | ItemId: sign_household | Coordinate: (11,2) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[019] Name: water_ration | ItemId: water_ration | Coordinate: (13,2) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[020] Name: water_ration | ItemId: water_ration | Coordinate: (15,2) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[021] Name: water_ration | ItemId: water_ration | Coordinate: (17,2) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[022] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (9,3) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[023] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (10,3) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[024] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (3,4) | Size: 3x2 | Type: ~unknown | Orientation: 0
+[025] Name: scratcher_stack | ItemId: scratcher_stack | Coordinate: (6,4) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[026] Name: scratcher_stack | ItemId: scratcher_stack | Coordinate: (8,4) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[027] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (10,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[028] Name: sign_household | ItemId: sign_household | Coordinate: (11,4) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[029] Name: sign_household | ItemId: sign_household | Coordinate: (13,4) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[030] Name: sign_household | ItemId: sign_household | Coordinate: (15,4) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[031] Name: sign_food | ItemId: sign_food | Coordinate: (17,4) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[032] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (10,5) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[033] Name: water_guide | ItemId: water_guide | Coordinate: (0,6) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[034] Name: scratcher_stack | ItemId: scratcher_stack | Coordinate: (3,6) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[035] Name: scratcher_stack | ItemId: scratcher_stack | Coordinate: (5,6) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[036] Name: scratcher_stack | ItemId: scratcher_stack | Coordinate: (7,6) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[037] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (9,6) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[038] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (11,6) | Size: 3x2 | Type: ~unknown | Orientation: 0
+[039] Name: sign_food | ItemId: sign_food | Coordinate: (14,6) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[040] Name: sign_food | ItemId: sign_food | Coordinate: (16,6) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[041] Name: sign_food | ItemId: sign_food | Coordinate: (18,6) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[042] Name: water_guide | ItemId: water_guide | Coordinate: (0,8) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[043] Name: water_guide | ItemId: water_guide | Coordinate: (3,8) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[044] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (6,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[045] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (7,8) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[046] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (9,8) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[047] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (11,8) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[048] Name: sign_food | ItemId: sign_food | Coordinate: (14,8) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[049] Name: sign_food | ItemId: sign_food | Coordinate: (16,8) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[050] Name: sign_water | ItemId: sign_water | Coordinate: (18,8) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[051] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (0,10) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[052] Name: raw_meat | ItemId: raw_meat | Coordinate: (3,10) | Size: 3x2 | Type: FOOD | Orientation: 0
+[053] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (6,10) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[054] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (7,10) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[055] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (9,10) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[056] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (10,10) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[057] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (11,10) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[058] Name: sup_keycard | ItemId: sup_keycard | Coordinate: (12,10) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[059] Name: sign_water | ItemId: sign_water | Coordinate: (15,10) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[060] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (0,11) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[061] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (9,11) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[062] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (10,11) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[063] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (11,11) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[064] Name: hand | ItemId: hand | Coordinate: (18,11) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[065] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (0,12) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[066] Name: raw_meat | ItemId: raw_meat | Coordinate: (3,12) | Size: 3x2 | Type: FOOD | Orientation: 0
+[067] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (7,12) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[068] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (8,12) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[069] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (9,12) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[070] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (10,12) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[071] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (11,12) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[072] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (12,12) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[073] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (14,12) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[074] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (16,12) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[075] Name: cat_bar | ItemId: cat_bar | Coordinate: (0,13) | Size: 2x2 | Type: TREAT | Orientation: 0
+[076] Name: box_tampon | ItemId: box_tampon | Coordinate: (6,13) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[077] Name: cat_bar | ItemId: cat_bar | Coordinate: (2,14) | Size: 2x2 | Type: TREAT | Orientation: 0
+[078] Name: black_lamp | ItemId: black_lamp | Coordinate: (9,14) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[079] Name: cat_bar | ItemId: cat_bar | Coordinate: (0,15) | Size: 2x2 | Type: TREAT | Orientation: 0
+[080] Name: magnifier | ItemId: magnifier | Coordinate: (2,16) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[081] Name: black_lamp | ItemId: black_lamp | Coordinate: (5,16) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[082] Name: black_lamp | ItemId: black_lamp | Coordinate: (7,16) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[083] Name: black_lamp | ItemId: black_lamp | Coordinate: (9,16) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[084] Name: black_lamp | ItemId: black_lamp | Coordinate: (11,16) | Size: 2x3 | Type: ~unknown | Orientation: 0
+========== Result End ==========

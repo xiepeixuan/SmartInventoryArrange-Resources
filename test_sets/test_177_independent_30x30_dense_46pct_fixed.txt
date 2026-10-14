@@ -1,0 +1,128 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:31.668
+Outcome: test-set
+TestSetId: 177
+Scenario: independent_30x30_dense_46pct_fixed
+LayoutMode: dense
+TargetDensity: 0.460
+ActualDensity: 0.461
+RandomSeed: 20261191793
+ContainerSize: 30x30
+[001] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (0,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[002] Name: energy_credit | ItemId: energy_credit | Coordinate: (2,0) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[003] Name: energy_credit | ItemId: energy_credit | Coordinate: (4,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[004] Name: energy_credit | ItemId: energy_credit | Coordinate: (5,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[005] Name: energy_credit | ItemId: energy_credit | Coordinate: (6,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[006] Name: cassette2d | ItemId: cassette2d | Coordinate: (7,0) | Size: 2x2 | Type: ART | Orientation: 0
+[007] Name: cassette2d | ItemId: cassette2d | Coordinate: (9,0) | Size: 2x2 | Type: ART | Orientation: 0
+[008] Name: cassette2d | ItemId: cassette2d | Coordinate: (11,0) | Size: 2x2 | Type: ART | Orientation: 0
+[009] Name: black_lamp | ItemId: black_lamp | Coordinate: (13,0) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[010] Name: aquascan | ItemId: aquascan | Coordinate: (15,0) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[011] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (17,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[012] Name: energy_credit | ItemId: energy_credit | Coordinate: (19,0) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[013] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (21,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[014] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (22,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[015] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (23,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[016] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (24,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[017] Name: energy_credit | ItemId: energy_credit | Coordinate: (2,1) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[018] Name: energy_credit | ItemId: energy_credit | Coordinate: (19,1) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[019] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (0,2) | Size: 1x4 | Type: MODULE | Orientation: 0
+[020] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (1,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[021] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (3,2) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: common_ore | ItemId: common_ore | Coordinate: (4,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[023] Name: energy_credit | ItemId: energy_credit | Coordinate: (6,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[024] Name: cassette2d | ItemId: cassette2d | Coordinate: (7,2) | Size: 2x2 | Type: ART | Orientation: 0
+[025] Name: cassette2d | ItemId: cassette2d | Coordinate: (9,2) | Size: 2x2 | Type: ART | Orientation: 0
+[026] Name: cassette2d | ItemId: cassette2d | Coordinate: (11,2) | Size: 2x2 | Type: ART | Orientation: 0
+[027] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (17,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[028] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (19,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[029] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (21,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[030] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (13,3) | Size: 3x2 | Type: ~unknown | Orientation: 0
+[031] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (1,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[032] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (3,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[033] Name: flux_agent | ItemId: flux_agent | Coordinate: (6,4) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[034] Name: flux_agent | ItemId: flux_agent | Coordinate: (7,4) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[035] Name: flux_agent | ItemId: flux_agent | Coordinate: (8,4) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[036] Name: flux_agent | ItemId: flux_agent | Coordinate: (9,4) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[037] Name: flux_agent | ItemId: flux_agent | Coordinate: (10,4) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[038] Name: flux_agent | ItemId: flux_agent | Coordinate: (11,4) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[039] Name: flux_agent | ItemId: flux_agent | Coordinate: (12,4) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[040] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (4,5) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[041] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (6,5) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[042] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (8,5) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[043] Name: common_ore | ItemId: common_ore | Coordinate: (10,5) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[044] Name: common_ore | ItemId: common_ore | Coordinate: (13,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[045] Name: common_electronic | ItemId: common_electronic | Coordinate: (15,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[046] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (17,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[047] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (19,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[048] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (0,6) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[049] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (1,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[050] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (3,6) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[051] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (4,7) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[052] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (6,7) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[053] Name: common_ore | ItemId: common_ore | Coordinate: (9,7) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[054] Name: common_ore | ItemId: common_ore | Coordinate: (11,7) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[055] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (0,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[056] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (1,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[057] Name: common_ore | ItemId: common_ore | Coordinate: (13,8) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[058] Name: wire | ItemId: wire | Coordinate: (16,8) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[059] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (3,9) | Size: 2x2 | Type: MODULE | Orientation: 0
+[060] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (5,9) | Size: 1x4 | Type: MODULE | Orientation: 0
+[061] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (6,9) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[062] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (28,9) | Size: 2x2 | Type: CONTRABAND | Orientation: 0 | Status: fixed
+[063] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (0,10) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[064] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (1,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[065] Name: common_ore | ItemId: common_ore | Coordinate: (9,10) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[066] Name: common_ore | ItemId: common_ore | Coordinate: (12,10) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[067] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (3,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[068] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (6,11) | Size: 1x4 | Type: MODULE | Orientation: 0
+[069] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (7,11) | Size: 1x4 | Type: MODULE | Orientation: 0
+[070] Name: flux_agent | ItemId: flux_agent | Coordinate: (8,11) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[071] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (0,12) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[072] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (1,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[073] Name: fridge | ItemId: fridge | Coordinate: (24,12) | Size: 3x3 | Type: MACHINE | Orientation: 0 | Status: fixed
+[074] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (3,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[075] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (5,13) | Size: 1x4 | Type: MODULE | Orientation: 0
+[076] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (0,14) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[077] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (1,14) | Size: 2x2 | Type: MODULE | Orientation: 0
+[078] Name: tazer | ItemId: tazer | Coordinate: (8,14) | Size: 2x3 | Type: WEAPON | Orientation: 0 | Status: fixed
+[079] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (3,15) | Size: 2x2 | Type: MODULE | Orientation: 0
+[080] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (6,15) | Size: 1x4 | Type: MODULE | Orientation: 0
+[081] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (7,15) | Size: 1x4 | Type: MODULE | Orientation: 0
+[082] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,16) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[083] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (1,16) | Size: 2x2 | Type: MODULE | Orientation: 0
+[084] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (3,17) | Size: 2x2 | Type: MODULE | Orientation: 0
+[085] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (5,17) | Size: 1x4 | Type: MODULE | Orientation: 0
+[086] Name: red_beer | ItemId: red_beer | Coordinate: (19,17) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0 | Status: fixed
+[087] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,18) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[088] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (1,18) | Size: 2x2 | Type: MODULE | Orientation: 0
+[089] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (4,19) | Size: 1x4 | Type: MODULE | Orientation: 0
+[090] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (6,19) | Size: 1x4 | Type: MODULE | Orientation: 0
+[091] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (7,19) | Size: 1x4 | Type: MODULE | Orientation: 0
+[092] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (8,19) | Size: 4x1 | Type: LUXURY_ITEM | Orientation: 1 | Status: fixed
+[093] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,20) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[094] Name: energy_credit | ItemId: energy_credit | Coordinate: (2,20) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[095] Name: energy_credit | ItemId: energy_credit | Coordinate: (3,20) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[096] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (8,20) | Size: 1x4 | Type: MODULE | Orientation: 0
+[097] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (9,20) | Size: 1x4 | Type: MODULE | Orientation: 0
+[098] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (10,20) | Size: 1x4 | Type: MODULE | Orientation: 0
+[099] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (11,20) | Size: 1x4 | Type: MODULE | Orientation: 0
+[100] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,21) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[101] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (5,21) | Size: 1x4 | Type: MODULE | Orientation: 0
+[102] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,22) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[103] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (2,22) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[104] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (3,22) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[105] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,23) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[106] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (6,23) | Size: 2x2 | Type: MODULE | Orientation: 0
+[107] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,24) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[108] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (2,24) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[109] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (4,24) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[110] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (8,24) | Size: 2x2 | Type: MODULE | Orientation: 0
+[111] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (10,24) | Size: 2x2 | Type: MODULE | Orientation: 0
+[112] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (0,25) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[113] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (2,25) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[114] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (6,25) | Size: 2x2 | Type: MODULE | Orientation: 0
+[115] Name: wine_book | ItemId: wine_book | Coordinate: (20,25) | Size: 2x3 | Type: DOCUMENT | Orientation: 0 | Status: fixed
+[116] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (0,26) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[117] Name: water_guide | ItemId: water_guide | Coordinate: (1,26) | Size: 3x2 | Type: DOCUMENT | Orientation: 1 | Status: fixed
+========== Result End ==========

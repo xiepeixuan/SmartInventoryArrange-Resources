@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_28_edge_fixed_obstacles.txt",
+  "output": "D:\\resources\\test_sets\\test_28_edge_fixed_obstacles.layout.png",
+  "containerSize": "24x16",
+  "outcome": "test-set",
+  "itemCount": 57,
+  "missingSprites": [],
+  "cellPixels": 32
+}

@@ -1,0 +1,34 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:16.088
+Outcome: test-set
+TestSetId: 113
+PairGroup: pair_05_24x10_75pct
+Scenario: paired_messy
+LayoutMode: messy
+TargetDensity: 0.750
+RandomSeed: 20261015245
+ContainerSize: 24x10
+[001] Name: wine_rack | ItemId: wine_rack | Coordinate: (0,0) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[002] Name: fridge | ItemId: fridge | Coordinate: (3,0) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[003] Name: wine_rack | ItemId: wine_rack | Coordinate: (6,0) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[004] Name: fridge | ItemId: fridge | Coordinate: (9,0) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[005] Name: fridge | ItemId: fridge | Coordinate: (12,0) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[006] Name: storage_bay | ItemId: storage_bay | Coordinate: (15,0) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[007] Name: water_guide | ItemId: water_guide | Coordinate: (18,0) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[008] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (20,0) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[009] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (21,0) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[010] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (22,0) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[011] Name: recharger | ItemId: recharger | Coordinate: (0,3) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[012] Name: recharger | ItemId: recharger | Coordinate: (4,3) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[013] Name: recharger | ItemId: recharger | Coordinate: (6,3) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[014] Name: recharger | ItemId: recharger | Coordinate: (8,3) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[015] Name: recharger | ItemId: recharger | Coordinate: (10,3) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[016] Name: wine_rack | ItemId: wine_rack | Coordinate: (12,3) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[017] Name: fridge | ItemId: fridge | Coordinate: (15,3) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[018] Name: fridge | ItemId: fridge | Coordinate: (18,4) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[019] Name: wine_rack | ItemId: wine_rack | Coordinate: (21,4) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[020] Name: recharger | ItemId: recharger | Coordinate: (0,5) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[021] Name: wine_rack | ItemId: wine_rack | Coordinate: (12,6) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[022] Name: wine_rack | ItemId: wine_rack | Coordinate: (15,6) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[023] Name: fridge | ItemId: fridge | Coordinate: (18,7) | Size: 3x3 | Type: MACHINE | Orientation: 0
+========== Result End ==========

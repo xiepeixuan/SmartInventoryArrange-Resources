@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_133_pair_11_30x30_87pct_ordered.txt",
+  "output": "D:\\resources\\test_sets\\test_133_pair_11_30x30_87pct_ordered.layout.png",
+  "containerSize": "30x30",
+  "outcome": "test-set",
+  "itemCount": 152,
+  "missingSprites": [],
+  "cellPixels": 32
+}

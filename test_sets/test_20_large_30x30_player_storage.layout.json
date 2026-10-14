@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_20_large_30x30_player_storage.txt",
+  "output": "D:\\resources\\test_sets\\test_20_large_30x30_player_storage.layout.png",
+  "containerSize": "30x30",
+  "outcome": "test-set",
+  "itemCount": 169,
+  "missingSprites": [],
+  "cellPixels": 32
+}

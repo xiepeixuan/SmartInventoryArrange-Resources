@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_07_medium_14x10_food_drink.txt",
+  "output": "D:\\resources\\test_sets\\test_07_medium_14x10_food_drink.layout.png",
+  "containerSize": "14x10",
+  "outcome": "test-set",
+  "itemCount": 21,
+  "missingSprites": [],
+  "cellPixels": 32
+}

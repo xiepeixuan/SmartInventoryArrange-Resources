@@ -1,0 +1,92 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:59.311
+Outcome: test-set
+TestSetId: 82
+Scenario: large_20x20_ordered_80pct
+LayoutMode: ordered
+TargetDensity: 0.800
+ActualDensity: 0.800
+RandomSeed: 2026184108
+ContainerSize: 20x20
+[001] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[002] Name: energy_credit | ItemId: energy_credit | Coordinate: (1,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[003] Name: energy_credit | ItemId: energy_credit | Coordinate: (2,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[004] Name: energy_credit | ItemId: energy_credit | Coordinate: (3,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[005] Name: energy_credit | ItemId: energy_credit | Coordinate: (4,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[006] Name: energy_credit | ItemId: energy_credit | Coordinate: (5,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[007] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (6,0) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[008] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (8,0) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[009] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (10,0) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[010] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (12,0) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[011] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (14,0) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[012] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (16,0) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[013] Name: flux_agent | ItemId: flux_agent | Coordinate: (18,0) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[014] Name: flux_agent | ItemId: flux_agent | Coordinate: (19,0) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[015] Name: flux_agent | ItemId: flux_agent | Coordinate: (18,1) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[016] Name: pink_injector | ItemId: pink_injector | Coordinate: (19,1) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[017] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (0,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[018] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (2,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[019] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (4,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[020] Name: pink_injector | ItemId: pink_injector | Coordinate: (18,2) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[021] Name: common_electronic | ItemId: common_electronic | Coordinate: (6,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[022] Name: common_electronic | ItemId: common_electronic | Coordinate: (8,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[023] Name: common_electronic | ItemId: common_electronic | Coordinate: (10,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[024] Name: common_electronic | ItemId: common_electronic | Coordinate: (12,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[025] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (14,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[026] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (15,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[027] Name: pink_injector | ItemId: pink_injector | Coordinate: (16,3) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[028] Name: pink_injector | ItemId: pink_injector | Coordinate: (17,3) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[029] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (0,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[030] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (2,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[031] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (4,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[032] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (14,5) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[033] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (19,5) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[034] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (0,6) | Size: 4x1 | Type: MODULE | Orientation: 1
+[035] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (4,6) | Size: 1x4 | Type: MODULE | Orientation: 0
+[036] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (5,6) | Size: 1x4 | Type: MODULE | Orientation: 0
+[037] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (6,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[038] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (8,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[039] Name: common_ore | ItemId: common_ore | Coordinate: (10,6) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[040] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (13,6) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[041] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (14,6) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[042] Name: cert1 | ItemId: cert1 | Coordinate: (18,6) | Size: 2x3 | Type: DOCUMENT | Orientation: 1
+[043] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (0,7) | Size: 4x1 | Type: MODULE | Orientation: 1
+[044] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (13,7) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[045] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (14,7) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[046] Name: cert1 | ItemId: cert1 | Coordinate: (15,7) | Size: 3x2 | Type: DOCUMENT | Orientation: 0
+[047] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (0,8) | Size: 4x1 | Type: MODULE | Orientation: 1
+[048] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (6,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[049] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (8,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[050] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (10,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[051] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (11,8) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[052] Name: energy_credit | ItemId: energy_credit | Coordinate: (13,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[053] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (0,9) | Size: 4x1 | Type: MODULE | Orientation: 1
+[054] Name: cert1 | ItemId: cert1 | Coordinate: (15,9) | Size: 3x2 | Type: DOCUMENT | Orientation: 0
+[055] Name: energy_credit | ItemId: energy_credit | Coordinate: (18,9) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[056] Name: energy_credit | ItemId: energy_credit | Coordinate: (19,9) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[057] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (0,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[058] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (2,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[059] Name: energy_credit | ItemId: energy_credit | Coordinate: (5,10) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[060] Name: energy_credit | ItemId: energy_credit | Coordinate: (7,10) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[061] Name: energy_credit | ItemId: energy_credit | Coordinate: (9,10) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[062] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (4,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[063] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (6,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[064] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (8,11) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[065] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (10,11) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[066] Name: common_electronic | ItemId: common_electronic | Coordinate: (13,11) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[067] Name: scrap_metal | ItemId: scrap_metal | Coordinate: (15,11) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[068] Name: scrap_metal | ItemId: scrap_metal | Coordinate: (17,11) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[069] Name: energy_credit | ItemId: energy_credit | Coordinate: (19,11) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[070] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (0,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[071] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (2,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[072] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (4,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[073] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (6,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[074] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (10,13) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[075] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (2,14) | Size: 2x2 | Type: MODULE | Orientation: 0
+[076] Name: scrap_metal | ItemId: scrap_metal | Coordinate: (13,14) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[077] Name: scrap_metal | ItemId: scrap_metal | Coordinate: (15,14) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[078] Name: scrap_metal | ItemId: scrap_metal | Coordinate: (18,14) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[079] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (4,15) | Size: 2x2 | Type: MODULE | Orientation: 0
+[080] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (6,15) | Size: 2x2 | Type: MODULE | Orientation: 0
+[081] Name: scrap_metal | ItemId: scrap_metal | Coordinate: (15,16) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+========== Result End ==========

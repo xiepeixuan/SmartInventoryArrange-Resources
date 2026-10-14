@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_06_medium_12x10_low_fill.txt",
+  "output": "D:\\resources\\test_sets\\test_06_medium_12x10_low_fill.layout.png",
+  "containerSize": "12x10",
+  "outcome": "test-set",
+  "itemCount": 11,
+  "missingSprites": [],
+  "cellPixels": 32
+}

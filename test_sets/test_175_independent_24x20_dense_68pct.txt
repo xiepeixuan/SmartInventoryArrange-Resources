@@ -1,0 +1,70 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:30.334
+Outcome: test-set
+TestSetId: 175
+Scenario: independent_24x20_dense_68pct
+LayoutMode: dense
+TargetDensity: 0.680
+ActualDensity: 0.688
+RandomSeed: 20261189775
+ContainerSize: 24x20
+[001] Name: tazer | ItemId: tazer | Coordinate: (0,0) | Size: 3x2 | Type: WEAPON | Orientation: 1
+[002] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (3,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[003] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (4,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[004] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (5,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[005] Name: cat_bar | ItemId: cat_bar | Coordinate: (6,0) | Size: 2x2 | Type: TREAT | Orientation: 0
+[006] Name: cat_bar | ItemId: cat_bar | Coordinate: (8,0) | Size: 2x2 | Type: TREAT | Orientation: 0
+[007] Name: cat_bar | ItemId: cat_bar | Coordinate: (10,0) | Size: 2x2 | Type: TREAT | Orientation: 0
+[008] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (12,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[009] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (14,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[010] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (16,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[011] Name: wine_book | ItemId: wine_book | Coordinate: (18,0) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[012] Name: wine_book | ItemId: wine_book | Coordinate: (21,0) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[013] Name: pure_white_injector | ItemId: pure_white_injector | Coordinate: (23,0) | Size: 1x3 | Type: NARCOTIC | Orientation: 1
+[014] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[015] Name: storage_bay | ItemId: storage_bay | Coordinate: (2,2) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[016] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (5,2) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[017] Name: cat_bar | ItemId: cat_bar | Coordinate: (6,2) | Size: 2x2 | Type: TREAT | Orientation: 0
+[018] Name: cat_bar | ItemId: cat_bar | Coordinate: (8,2) | Size: 2x2 | Type: TREAT | Orientation: 0
+[019] Name: cat_bar | ItemId: cat_bar | Coordinate: (10,2) | Size: 2x2 | Type: TREAT | Orientation: 0
+[020] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (12,2) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[021] Name: smelling_salt | ItemId: smelling_salt | Coordinate: (13,2) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[022] Name: dream_dust | ItemId: dream_dust | Coordinate: (14,2) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[023] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (15,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[024] Name: pure_white_injector | ItemId: pure_white_injector | Coordinate: (17,2) | Size: 1x3 | Type: NARCOTIC | Orientation: 1
+[025] Name: wine_book | ItemId: wine_book | Coordinate: (18,2) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[026] Name: blood_bag | ItemId: blood_bag | Coordinate: (13,3) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[027] Name: pure_white_injector | ItemId: pure_white_injector | Coordinate: (21,3) | Size: 3x1 | Type: NARCOTIC | Orientation: 0
+[028] Name: storage_bay | ItemId: storage_bay | Coordinate: (5,4) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[029] Name: cat_bar | ItemId: cat_bar | Coordinate: (8,4) | Size: 2x2 | Type: TREAT | Orientation: 0
+[030] Name: black_lamp | ItemId: black_lamp | Coordinate: (10,4) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[031] Name: wine_berry | ItemId: wine_berry | Coordinate: (15,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[032] Name: wine_book | ItemId: wine_book | Coordinate: (18,4) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[033] Name: pure_white_injector | ItemId: pure_white_injector | Coordinate: (21,4) | Size: 3x1 | Type: NARCOTIC | Orientation: 0
+[034] Name: water_ration | ItemId: water_ration | Coordinate: (0,5) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[035] Name: storage_bay | ItemId: storage_bay | Coordinate: (2,5) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[036] Name: pure_white_injector | ItemId: pure_white_injector | Coordinate: (21,5) | Size: 3x1 | Type: NARCOTIC | Orientation: 0
+[037] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (8,6) | Size: 2x3 | Type: TOOL | Orientation: 1
+[038] Name: bottled_water | ItemId: bottled_water | Coordinate: (14,6) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[039] Name: wine_berry | ItemId: wine_berry | Coordinate: (15,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[040] Name: wine_berry | ItemId: wine_berry | Coordinate: (17,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[041] Name: wine_berry | ItemId: wine_berry | Coordinate: (19,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[042] Name: common_ore | ItemId: common_ore | Coordinate: (21,6) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[043] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (0,7) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[044] Name: storage_bay | ItemId: storage_bay | Coordinate: (5,7) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[045] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (10,7) | Size: 2x3 | Type: TOOL | Orientation: 1
+[046] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (12,7) | Size: 2x3 | Type: TOOL | Orientation: 1
+[047] Name: storage_bay_gun | ItemId: storage_bay_gun | Coordinate: (2,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[048] Name: bottled_water | ItemId: bottled_water | Coordinate: (15,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[049] Name: bottled_water | ItemId: bottled_water | Coordinate: (16,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[050] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (0,9) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[051] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (8,9) | Size: 2x3 | Type: TOOL | Orientation: 1
+[052] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (6,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[053] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (10,10) | Size: 3x2 | Type: TOOL | Orientation: 0
+[054] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (0,11) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[055] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (2,11) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[056] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (4,11) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[057] Name: sec_box | ItemId: sec_box | Coordinate: (0,13) | Size: 4x6 | Type: CONTRABAND | Orientation: 1
+[058] Name: sec_box | ItemId: sec_box | Coordinate: (4,13) | Size: 4x6 | Type: CONTRABAND | Orientation: 1
+[059] Name: sec_box | ItemId: sec_box | Coordinate: (8,13) | Size: 4x6 | Type: CONTRABAND | Orientation: 1
+========== Result End ==========

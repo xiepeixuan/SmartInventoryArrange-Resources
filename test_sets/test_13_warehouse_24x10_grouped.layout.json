@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_13_warehouse_24x10_grouped.txt",
+  "output": "D:\\resources\\test_sets\\test_13_warehouse_24x10_grouped.layout.png",
+  "containerSize": "24x10",
+  "outcome": "test-set",
+  "itemCount": 45,
+  "missingSprites": [],
+  "cellPixels": 32
+}

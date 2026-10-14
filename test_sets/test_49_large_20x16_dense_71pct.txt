@@ -1,0 +1,55 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:40.741
+Outcome: test-set
+TestSetId: 49
+Scenario: large_20x16_dense_71pct
+LayoutMode: dense
+TargetDensity: 0.710
+ActualDensity: 0.713
+RandomSeed: 2026150811
+ContainerSize: 20x16
+[001] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (0,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[002] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[003] Name: processed_meat | ItemId: processed_meat | Coordinate: (4,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[004] Name: processed_meat | ItemId: processed_meat | Coordinate: (6,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[005] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (8,0) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[006] Name: smuggler_bay_mini | ItemId: smuggler_bay_mini | Coordinate: (11,0) | Size: 2x2 | Type: STORAGE | Orientation: 0
+[007] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (13,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[008] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (15,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[009] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (17,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[010] Name: screwdriver | ItemId: screwdriver | Coordinate: (19,0) | Size: 1x3 | Type: TOOL | Orientation: 0
+[011] Name: water_guide | ItemId: water_guide | Coordinate: (0,2) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[012] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[013] Name: powerblock | ItemId: powerblock | Coordinate: (4,2) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[014] Name: powerblock | ItemId: powerblock | Coordinate: (6,2) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[015] Name: machine_bay | ItemId: machine_bay | Coordinate: (11,2) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[016] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (15,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[017] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (17,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[018] Name: powerblock | ItemId: powerblock | Coordinate: (8,3) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[019] Name: energy_credit | ItemId: energy_credit | Coordinate: (10,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[020] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (2,4) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[021] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (3,4) | Size: 1x1 | Type: POISON | Orientation: 0
+[022] Name: powerblock | ItemId: powerblock | Coordinate: (4,4) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[023] Name: powerblock | ItemId: powerblock | Coordinate: (6,4) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[024] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (15,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[025] Name: wine_berry | ItemId: wine_berry | Coordinate: (17,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[026] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,5) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[027] Name: flux_agent | ItemId: flux_agent | Coordinate: (3,5) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[028] Name: powerblock | ItemId: powerblock | Coordinate: (8,5) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[029] Name: energy_credit | ItemId: energy_credit | Coordinate: (10,5) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[030] Name: recharger | ItemId: recharger | Coordinate: (0,6) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[031] Name: recharger | ItemId: recharger | Coordinate: (2,6) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[032] Name: recharger | ItemId: recharger | Coordinate: (4,6) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[033] Name: storage_bay_chem | ItemId: storage_bay_chem | Coordinate: (11,6) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[034] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (14,6) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[035] Name: powerblock | ItemId: powerblock | Coordinate: (8,7) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[036] Name: recharger | ItemId: recharger | Coordinate: (4,8) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[037] Name: powerblock | ItemId: powerblock | Coordinate: (8,9) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[038] Name: water_guide | ItemId: water_guide | Coordinate: (0,10) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[039] Name: recharger | ItemId: recharger | Coordinate: (2,10) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[040] Name: water_purifier | ItemId: water_purifier | Coordinate: (4,10) | Size: 4x3 | Type: MACHINE | Orientation: 1
+[041] Name: recharger | ItemId: recharger | Coordinate: (8,11) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[042] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (0,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[043] Name: recharger | ItemId: recharger | Coordinate: (4,13) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[044] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (2,14) | Size: 2x2 | Type: MODULE | Orientation: 0
+========== Result End ==========

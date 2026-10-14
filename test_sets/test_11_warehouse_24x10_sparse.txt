@@ -1,0 +1,30 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.568
+Outcome: test-set
+TestSetId: 11
+Scenario: warehouse_24x10_sparse
+LayoutMode: messy
+TargetDensity: 0.350
+ActualDensity: 0.350
+RandomSeed: 2026112400
+ContainerSize: 24x10
+[001] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (2,0) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[002] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (6,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[003] Name: cert1 | ItemId: cert1 | Coordinate: (14,1) | Size: 3x2 | Type: DOCUMENT | Orientation: 0
+[004] Name: blood_bag | ItemId: blood_bag | Coordinate: (19,1) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[005] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (22,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[006] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (6,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[007] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (9,2) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[008] Name: bottled_water | ItemId: bottled_water | Coordinate: (0,3) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[009] Name: blood_bag | ItemId: blood_bag | Coordinate: (9,3) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[010] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (13,3) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[011] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (18,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[012] Name: common_electronic | ItemId: common_electronic | Coordinate: (5,4) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[013] Name: blood_bag | ItemId: blood_bag | Coordinate: (20,4) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[014] Name: blood_bag | ItemId: blood_bag | Coordinate: (8,7) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[015] Name: blood_bag | ItemId: blood_bag | Coordinate: (13,7) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[016] Name: cassette7 | ItemId: cassette7 | Coordinate: (17,7) | Size: 2x2 | Type: ART | Orientation: 0
+[017] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (15,8) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[018] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (19,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[019] Name: cert1 | ItemId: cert1 | Coordinate: (21,8) | Size: 3x2 | Type: DOCUMENT | Orientation: 0
+========== Result End ==========

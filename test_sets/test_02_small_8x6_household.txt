@@ -1,0 +1,14 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.215
+Outcome: test-set
+TestSetId: 02
+Scenario: small_8x6_household
+LayoutMode: partial
+TargetDensity: 0.480
+ActualDensity: 0.500
+RandomSeed: 2026103319
+ContainerSize: 8x6
+[001] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (4,1) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[002] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (0,2) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[003] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (6,2) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+========== Result End ==========

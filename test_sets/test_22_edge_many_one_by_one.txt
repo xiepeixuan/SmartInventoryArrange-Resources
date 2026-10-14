@@ -1,0 +1,56 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:54.632
+Outcome: test-set
+TestSetId: 22
+Scenario: edge_many_one_by_one
+LayoutMode: messy
+TargetDensity: 0.820
+ActualDensity: 0.833
+RandomSeed: 2026123499
+ContainerSize: 16x12
+[001] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (1,0) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[002] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (4,0) | Size: 4x1 | Type: LUXURY_ITEM | Orientation: 1
+[003] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (9,0) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[004] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (10,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[005] Name: black_injector | ItemId: black_injector | Coordinate: (12,0) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[006] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (13,0) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[007] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (1,1) | Size: 4x1 | Type: LUXURY_ITEM | Orientation: 1
+[008] Name: vacuum_robot | ItemId: vacuum_robot | Coordinate: (5,1) | Size: 3x2 | Type: ~unknown | Orientation: 0
+[009] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (8,1) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[010] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (0,2) | Size: 3x1 | Type: TREAT | Orientation: 0
+[011] Name: common_electronic | ItemId: common_electronic | Coordinate: (13,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[012] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (15,2) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[013] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (0,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[014] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (3,3) | Size: 4x1 | Type: LUXURY_ITEM | Orientation: 1
+[015] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (9,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[016] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (11,3) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[017] Name: wire | ItemId: wire | Coordinate: (2,4) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[018] Name: expedition_log | ItemId: expedition_log | Coordinate: (4,4) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[019] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (6,5) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[020] Name: common_electronic | ItemId: common_electronic | Coordinate: (7,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[021] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (9,5) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[022] Name: sign_household | ItemId: sign_household | Coordinate: (12,5) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[023] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (1,6) | Size: 4x1 | Type: LUXURY_ITEM | Orientation: 1
+[024] Name: sign_household | ItemId: sign_household | Coordinate: (5,6) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[025] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (10,6) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[026] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (14,6) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[027] Name: dream_dust | ItemId: dream_dust | Coordinate: (15,6) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[028] Name: dream_dust | ItemId: dream_dust | Coordinate: (0,7) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[029] Name: wire | ItemId: wire | Coordinate: (1,7) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[030] Name: morsel | ItemId: morsel | Coordinate: (10,7) | Size: 2x1 | Type: FOOD | Orientation: 0
+[031] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (12,7) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[032] Name: flux_agent | ItemId: flux_agent | Coordinate: (0,8) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[033] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (4,8) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[034] Name: sign_household | ItemId: sign_household | Coordinate: (5,8) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[035] Name: expedition_log | ItemId: expedition_log | Coordinate: (7,8) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[036] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (11,8) | Size: 4x1 | Type: LUXURY_ITEM | Orientation: 1
+[037] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (0,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[038] Name: wire | ItemId: wire | Coordinate: (2,9) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[039] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (10,9) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[040] Name: wire | ItemId: wire | Coordinate: (13,9) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[041] Name: powerblock | ItemId: powerblock | Coordinate: (5,10) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[042] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (7,10) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[043] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (0,11) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[044] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (11,11) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[045] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (15,11) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+========== Result End ==========

@@ -1,0 +1,102 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:18:06.585
+Outcome: test-set
+TestSetId: 94
+Scenario: large_24x20_ordered_70pct_fixed
+LayoutMode: ordered
+TargetDensity: 0.700
+ActualDensity: 0.702
+RandomSeed: 2026196216
+ContainerSize: 24x20
+[001] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (0,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[002] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (1,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[003] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (2,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[004] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (3,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[005] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (4,0) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[006] Name: raw_meat | ItemId: raw_meat | Coordinate: (5,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[007] Name: raw_meat | ItemId: raw_meat | Coordinate: (7,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[008] Name: raw_meat | ItemId: raw_meat | Coordinate: (9,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[009] Name: raw_meat | ItemId: raw_meat | Coordinate: (11,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[010] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (13,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[011] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (15,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[012] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (17,0) | Size: 1x1 | Type: POISON | Orientation: 0
+[013] Name: slip | ItemId: slip | Coordinate: (18,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[014] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (19,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[015] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (20,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[016] Name: powerblock | ItemId: powerblock | Coordinate: (21,0) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[017] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (23,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[018] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (17,1) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0 | Status: fixed
+[019] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (18,1) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[020] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (23,1) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[021] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (0,2) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[022] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (2,2) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[023] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (3,2) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[024] Name: zerochew | ItemId: zerochew | Coordinate: (13,2) | Size: 1x1 | Type: FOOD | Orientation: 0
+[025] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (14,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[026] Name: zerochew | ItemId: zerochew | Coordinate: (16,2) | Size: 1x1 | Type: FOOD | Orientation: 0
+[027] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (18,2) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[028] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (21,2) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[029] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (23,2) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[030] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (0,3) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[031] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (5,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[032] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (7,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[033] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (9,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[034] Name: blood_bag | ItemId: blood_bag | Coordinate: (11,3) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[035] Name: zerochew | ItemId: zerochew | Coordinate: (16,3) | Size: 1x1 | Type: FOOD | Orientation: 0
+[036] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (18,3) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[037] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (19,3) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[038] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (20,3) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[039] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (21,3) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[040] Name: powerblock | ItemId: powerblock | Coordinate: (0,4) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[041] Name: powerblock | ItemId: powerblock | Coordinate: (2,4) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[042] Name: blood_bag | ItemId: blood_bag | Coordinate: (14,4) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[043] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (16,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[044] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (21,4) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0 | Status: fixed
+[045] Name: nudka | ItemId: nudka | Coordinate: (4,5) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[046] Name: nudka | ItemId: nudka | Coordinate: (6,5) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[047] Name: nudka | ItemId: nudka | Coordinate: (8,5) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[048] Name: combat_knife | ItemId: combat_knife | Coordinate: (10,5) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[049] Name: blood_bag | ItemId: blood_bag | Coordinate: (11,5) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[050] Name: powerblock | ItemId: powerblock | Coordinate: (0,6) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[051] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (2,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[052] Name: bottled_water | ItemId: bottled_water | Coordinate: (16,6) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1 | Status: fixed
+[053] Name: water_test_container | ItemId: water_test_container | Coordinate: (20,6) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[054] Name: processed_meat | ItemId: processed_meat | Coordinate: (22,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[055] Name: blood_bag | ItemId: blood_bag | Coordinate: (11,7) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[056] Name: blood_bag | ItemId: blood_bag | Coordinate: (13,7) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[057] Name: blood_bag | ItemId: blood_bag | Coordinate: (15,7) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[058] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (18,7) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[059] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (20,7) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[060] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (21,7) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[061] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[062] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (2,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[063] Name: blood_bag | ItemId: blood_bag | Coordinate: (18,8) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[064] Name: fat_meat | ItemId: fat_meat | Coordinate: (22,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[065] Name: nudka | ItemId: nudka | Coordinate: (4,9) | Size: 4x2 | Type: ALCOHOL | Orientation: 1
+[066] Name: common_ore | ItemId: common_ore | Coordinate: (8,9) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[067] Name: blood_bag | ItemId: blood_bag | Coordinate: (15,9) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[068] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (20,9) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[069] Name: common_ore | ItemId: common_ore | Coordinate: (10,10) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[070] Name: blood_bag | ItemId: blood_bag | Coordinate: (12,10) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[071] Name: dream_dust | ItemId: dream_dust | Coordinate: (20,10) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[072] Name: dream_dust | ItemId: dream_dust | Coordinate: (21,10) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[073] Name: dream_dust | ItemId: dream_dust | Coordinate: (22,10) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[074] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (1,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[075] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (3,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[076] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (5,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[077] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (15,11) | Size: 4x1 | Type: MEDICAL | Orientation: 0 | Status: fixed
+[078] Name: screwdriver | ItemId: screwdriver | Coordinate: (19,11) | Size: 1x3 | Type: TOOL | Orientation: 0
+[079] Name: screwdriver | ItemId: screwdriver | Coordinate: (20,11) | Size: 1x3 | Type: TOOL | Orientation: 0
+[080] Name: screwdriver | ItemId: screwdriver | Coordinate: (21,11) | Size: 1x3 | Type: TOOL | Orientation: 0
+[081] Name: turbo_booster | ItemId: turbo_booster | Coordinate: (22,11) | Size: 2x3 | Type: TOOL | Orientation: 1 | Status: fixed
+[082] Name: screwdriver | ItemId: screwdriver | Coordinate: (18,12) | Size: 1x3 | Type: TOOL | Orientation: 0
+[083] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (1,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[084] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (3,13) | Size: 1x4 | Type: MODULE | Orientation: 0 | Status: fixed
+[085] Name: wine_berry | ItemId: wine_berry | Coordinate: (5,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[086] Name: screwdriver | ItemId: screwdriver | Coordinate: (19,14) | Size: 3x1 | Type: TOOL | Orientation: 1
+[087] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (1,15) | Size: 2x2 | Type: MODULE | Orientation: 0
+[088] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (10,16) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0 | Status: fixed
+[089] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (11,16) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[090] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (12,16) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[091] Name: aquascan | ItemId: aquascan | Coordinate: (13,17) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0 | Status: fixed
+========== Result End ==========

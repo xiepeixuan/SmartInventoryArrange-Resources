@@ -1,0 +1,49 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:33.114
+Outcome: test-set
+TestSetId: 181
+Scenario: independent_24x10_messy_60pct_irregular
+LayoutMode: messy
+TargetDensity: 0.600
+ActualDensity: 0.613
+RandomSeed: 20261195829
+ContainerSize: 24x10
+[001] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (4,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[002] Name: save_bag | ItemId: save_bag | Coordinate: (13,0) | Size: 4x3 | Type: ~unknown | Orientation: 1
+[003] Name: sign_household | ItemId: sign_household | Coordinate: (1,1) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[004] Name: water_guide | ItemId: water_guide | Coordinate: (8,1) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[005] Name: save_bag | ItemId: save_bag | Coordinate: (3,2) | Size: 4x3 | Type: ~unknown | Orientation: 1
+[006] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (12,2) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[007] Name: water_guide | ItemId: water_guide | Coordinate: (18,2) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[008] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (20,2) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[009] Name: water_guide | ItemId: water_guide | Coordinate: (22,2) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[010] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (7,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[011] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (8,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[012] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (9,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[013] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (11,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[014] Name: pink_injector | ItemId: pink_injector | Coordinate: (13,3) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[015] Name: slip | ItemId: slip | Coordinate: (17,3) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[016] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (1,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[017] Name: slip | ItemId: slip | Coordinate: (2,4) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[018] Name: slip | ItemId: slip | Coordinate: (10,4) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[019] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (13,4) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[020] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (16,4) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[021] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (20,4) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[022] Name: water_guide | ItemId: water_guide | Coordinate: (0,5) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[023] Name: save_bag | ItemId: save_bag | Coordinate: (10,5) | Size: 4x3 | Type: ~unknown | Orientation: 1
+[024] Name: slip | ItemId: slip | Coordinate: (15,5) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[025] Name: save_bag | ItemId: save_bag | Coordinate: (18,5) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[026] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (21,5) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[027] Name: slip | ItemId: slip | Coordinate: (3,6) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[028] Name: save_bag | ItemId: save_bag | Coordinate: (5,6) | Size: 4x3 | Type: ~unknown | Orientation: 1
+[029] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (14,7) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[030] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (16,7) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[031] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (17,7) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[032] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (22,7) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[033] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (1,8) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[034] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (10,8) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[035] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (14,8) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[036] Name: slip | ItemId: slip | Coordinate: (12,9) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[037] Name: slip | ItemId: slip | Coordinate: (13,9) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[038] Name: pink_injector | ItemId: pink_injector | Coordinate: (18,9) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+========== Result End ==========

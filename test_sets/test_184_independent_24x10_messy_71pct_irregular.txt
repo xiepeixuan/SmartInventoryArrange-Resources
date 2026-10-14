@@ -1,0 +1,65 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:34.229
+Outcome: test-set
+TestSetId: 184
+Scenario: independent_24x10_messy_71pct_irregular
+LayoutMode: messy
+TargetDensity: 0.710
+ActualDensity: 0.713
+RandomSeed: 20261198856
+ContainerSize: 24x10
+[001] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (0,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[002] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (1,0) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[003] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (8,0) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[004] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (10,0) | Size: 4x1 | Type: MODULE | Orientation: 1
+[005] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (14,0) | Size: 2x2 | Type: MODULE | Orientation: 2
+[006] Name: flux_agent | ItemId: flux_agent | Coordinate: (16,0) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[007] Name: kotton_fabric | ItemId: kotton_fabric | Coordinate: (17,0) | Size: 1x3 | Type: MATERIAL | Orientation: 1
+[008] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (18,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[009] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (19,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[010] Name: flux_agent | ItemId: flux_agent | Coordinate: (20,0) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[011] Name: flux_agent | ItemId: flux_agent | Coordinate: (21,0) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[012] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (6,1) | Size: 2x2 | Type: MODULE | Orientation: 0
+[013] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (8,1) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[014] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (10,1) | Size: 2x2 | Type: MODULE | Orientation: 0
+[015] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (20,1) | Size: 2x2 | Type: MODULE | Orientation: 0
+[016] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (1,2) | Size: 2x2 | Type: MODULE | Orientation: 1
+[017] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (3,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[018] Name: flux_agent | ItemId: flux_agent | Coordinate: (5,2) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[019] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (13,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[020] Name: common_electronic | ItemId: common_electronic | Coordinate: (14,2) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[021] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (5,3) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[022] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (7,3) | Size: 2x2 | Type: MODULE | Orientation: 0
+[023] Name: flux_agent | ItemId: flux_agent | Coordinate: (9,3) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[024] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (11,3) | Size: 2x2 | Type: MODULE | Orientation: 0
+[025] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (17,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[026] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (21,3) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[027] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (22,3) | Size: 2x2 | Type: MODULE | Orientation: 0
+[028] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (2,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[029] Name: energy_credit | ItemId: energy_credit | Coordinate: (9,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[030] Name: bottled_water | ItemId: bottled_water | Coordinate: (13,4) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[031] Name: bottled_water | ItemId: bottled_water | Coordinate: (18,4) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[032] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (0,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[033] Name: kotton_fabric | ItemId: kotton_fabric | Coordinate: (6,5) | Size: 3x1 | Type: MATERIAL | Orientation: 0
+[034] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (10,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[035] Name: kotton_fabric | ItemId: kotton_fabric | Coordinate: (14,5) | Size: 3x1 | Type: MATERIAL | Orientation: 0
+[036] Name: flux_agent | ItemId: flux_agent | Coordinate: (20,5) | Size: 1x1 | Type: MATERIAL | Orientation: 0
+[037] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (22,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[038] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (2,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[039] Name: kotton_fabric | ItemId: kotton_fabric | Coordinate: (4,6) | Size: 1x3 | Type: MATERIAL | Orientation: 1
+[040] Name: water_test_container | ItemId: water_test_container | Coordinate: (5,6) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[041] Name: bottled_water | ItemId: bottled_water | Coordinate: (7,6) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[042] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (15,6) | Size: 2x2 | Type: MODULE | Orientation: 1
+[043] Name: common_electronic | ItemId: common_electronic | Coordinate: (18,6) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[044] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (8,7) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[045] Name: bottled_water | ItemId: bottled_water | Coordinate: (11,7) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[046] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (16,7) | Size: 2x2 | Type: MODULE | Orientation: 2
+[047] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (22,7) | Size: 2x2 | Type: MODULE | Orientation: 2
+[048] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,8) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[049] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (2,8) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[050] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (5,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[051] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (14,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[052] Name: common_electronic | ItemId: common_electronic | Coordinate: (19,8) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[053] Name: kotton_fabric | ItemId: kotton_fabric | Coordinate: (1,9) | Size: 3x1 | Type: MATERIAL | Orientation: 0
+[054] Name: kotton_fabric | ItemId: kotton_fabric | Coordinate: (8,9) | Size: 3x1 | Type: MATERIAL | Orientation: 0
+========== Result End ==========

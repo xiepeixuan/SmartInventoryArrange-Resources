@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_25_edge_duplicate_cohorts.txt",
+  "output": "D:\\resources\\test_sets\\test_25_edge_duplicate_cohorts.layout.png",
+  "containerSize": "24x12",
+  "outcome": "test-set",
+  "itemCount": 62,
+  "missingSprites": [],
+  "cellPixels": 32
+}

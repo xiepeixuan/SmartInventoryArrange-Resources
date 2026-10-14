@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_30_stress_30x30_97_percent.txt",
+  "output": "D:\\resources\\test_sets\\test_30_stress_30x30_97_percent.layout.png",
+  "containerSize": "30x30",
+  "outcome": "test-set",
+  "itemCount": 189,
+  "missingSprites": [],
+  "cellPixels": 32
+}

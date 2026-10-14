@@ -1,0 +1,114 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:24.588
+Outcome: test-set
+TestSetId: 163
+Scenario: independent_24x24_messy_79pct_fixed
+LayoutMode: messy
+TargetDensity: 0.790
+ActualDensity: 0.792
+RandomSeed: 20261177667
+ContainerSize: 24x24
+[001] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (3,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[002] Name: combat_knife | ItemId: combat_knife | Coordinate: (5,0) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[003] Name: rare_electronic | ItemId: rare_electronic | Coordinate: (18,0) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[004] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (22,0) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[005] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,1) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[006] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (2,1) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[007] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (6,1) | Size: 2x3 | Type: TOOL | Orientation: 1
+[008] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (8,1) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[009] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (10,1) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[010] Name: wire | ItemId: wire | Coordinate: (12,1) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[011] Name: wine_berry | ItemId: wine_berry | Coordinate: (14,1) | Size: 2x2 | Type: FOOD | Orientation: 0 | Status: fixed
+[012] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (17,1) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[013] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (21,1) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[014] Name: combat_knife | ItemId: combat_knife | Coordinate: (23,1) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[015] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (11,2) | Size: 1x4 | Type: LUXURY_ITEM | Orientation: 0
+[016] Name: nudka | ItemId: nudka | Coordinate: (18,2) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[017] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (1,3) | Size: 2x2 | Type: MODULE | Orientation: 0
+[018] Name: wire | ItemId: wire | Coordinate: (3,3) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[019] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (9,3) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[020] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (13,3) | Size: 4x1 | Type: MODULE | Orientation: 1
+[021] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (5,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[022] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (13,4) | Size: 3x2 | Type: TOOL | Orientation: 0
+[023] Name: sign_water | ItemId: sign_water | Coordinate: (0,5) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[024] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (2,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[025] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (10,5) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[026] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (16,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[027] Name: water_guide | ItemId: water_guide | Coordinate: (20,5) | Size: 2x3 | Type: DOCUMENT | Orientation: 0 | Status: fixed
+[028] Name: common_ore | ItemId: common_ore | Coordinate: (4,6) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[029] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (6,6) | Size: 4x1 | Type: LUXURY_ITEM | Orientation: 1
+[030] Name: common_ore | ItemId: common_ore | Coordinate: (11,6) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[031] Name: wire | ItemId: wire | Coordinate: (14,6) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[032] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (22,6) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[033] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (7,7) | Size: 2x3 | Type: TOOL | Orientation: 1
+[034] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (18,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[035] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (22,7) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[036] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (0,8) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[037] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (2,8) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[038] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (11,8) | Size: 4x1 | Type: MODULE | Orientation: 1
+[039] Name: powerblock | ItemId: powerblock | Coordinate: (21,8) | Size: 2x2 | Type: MACHINE | Orientation: 0 | Status: fixed
+[040] Name: sign_water | ItemId: sign_water | Coordinate: (0,9) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[041] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (3,9) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[042] Name: common_electronic | ItemId: common_electronic | Coordinate: (10,9) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[043] Name: sign_water | ItemId: sign_water | Coordinate: (12,9) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[044] Name: rare_electronic | ItemId: rare_electronic | Coordinate: (15,9) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[045] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (18,9) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[046] Name: sign_water | ItemId: sign_water | Coordinate: (5,10) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[047] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (8,10) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[048] Name: nudka | ItemId: nudka | Coordinate: (22,10) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[049] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (0,11) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[050] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (3,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[051] Name: black_lamp | ItemId: black_lamp | Coordinate: (13,11) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[052] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (18,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[053] Name: wire | ItemId: wire | Coordinate: (20,11) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[054] Name: furnace_module_junk | ItemId: furnace_module_junk | Coordinate: (8,12) | Size: 1x4 | Type: MODULE | Orientation: 0
+[055] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (17,12) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[056] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (2,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[057] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (4,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[058] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (7,13) | Size: 1x4 | Type: MODULE | Orientation: 0
+[059] Name: rare_electronic | ItemId: rare_electronic | Coordinate: (9,13) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[060] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (12,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[061] Name: processed_meat | ItemId: processed_meat | Coordinate: (15,13) | Size: 2x2 | Type: FOOD | Orientation: 0 | Status: fixed
+[062] Name: rare_electronic | ItemId: rare_electronic | Coordinate: (18,13) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[063] Name: furnace_module_junk | ItemId: furnace_module_junk | Coordinate: (0,14) | Size: 1x4 | Type: MODULE | Orientation: 0
+[064] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (22,14) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[065] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (1,15) | Size: 1x4 | Type: MODULE | Orientation: 0
+[066] Name: combat_knife | ItemId: combat_knife | Coordinate: (2,15) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[067] Name: energy_credit | ItemId: energy_credit | Coordinate: (10,15) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[068] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (12,15) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[069] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (15,15) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[070] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (17,15) | Size: 2x2 | Type: MODULE | Orientation: 0
+[071] Name: combat_knife | ItemId: combat_knife | Coordinate: (19,15) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[072] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (2,16) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[073] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (3,16) | Size: 4x1 | Type: LUXURY_ITEM | Orientation: 1
+[074] Name: furnace_module_junk | ItemId: furnace_module_junk | Coordinate: (8,16) | Size: 4x1 | Type: MODULE | Orientation: 1
+[075] Name: sign_water | ItemId: sign_water | Coordinate: (13,16) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[076] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (20,16) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[077] Name: bottled_water | ItemId: bottled_water | Coordinate: (7,17) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1 | Status: fixed
+[078] Name: bottled_water | ItemId: bottled_water | Coordinate: (12,17) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[079] Name: combat_knife | ItemId: combat_knife | Coordinate: (16,17) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[080] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (21,17) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[081] Name: combat_knife | ItemId: combat_knife | Coordinate: (2,18) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[082] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (8,18) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[083] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (16,18) | Size: 3x2 | Type: TOOL | Orientation: 0
+[084] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (22,18) | Size: 2x3 | Type: TOOL | Orientation: 1
+[085] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,19) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[086] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (3,19) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[087] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (5,19) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[088] Name: box_tampon | ItemId: box_tampon | Coordinate: (9,19) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0 | Status: fixed
+[089] Name: common_ore | ItemId: common_ore | Coordinate: (13,19) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[090] Name: wire | ItemId: wire | Coordinate: (20,19) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[091] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (4,20) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[092] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (7,20) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[093] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,21) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[094] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (3,21) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[095] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (15,21) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[096] Name: wire | ItemId: wire | Coordinate: (18,21) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[097] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (21,21) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[098] Name: rare_electronic | ItemId: rare_electronic | Coordinate: (0,22) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[099] Name: wire | ItemId: wire | Coordinate: (4,22) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[100] Name: common_electronic | ItemId: common_electronic | Coordinate: (7,22) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[101] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (10,22) | Size: 2x2 | Type: MODULE | Orientation: 0
+[102] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (12,22) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[103] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (19,23) | Size: 4x1 | Type: MODULE | Orientation: 1
+========== Result End ==========

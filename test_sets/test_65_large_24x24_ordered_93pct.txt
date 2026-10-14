@@ -1,0 +1,101 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:50.870
+Outcome: test-set
+TestSetId: 65
+Scenario: large_24x24_ordered_93pct
+LayoutMode: ordered
+TargetDensity: 0.930
+ActualDensity: 0.932
+RandomSeed: 2026166955
+ContainerSize: 24x24
+[001] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[002] Name: energy_credit | ItemId: energy_credit | Coordinate: (1,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[003] Name: energy_credit | ItemId: energy_credit | Coordinate: (2,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[004] Name: energy_credit | ItemId: energy_credit | Coordinate: (3,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[005] Name: energy_credit | ItemId: energy_credit | Coordinate: (4,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[006] Name: energy_credit | ItemId: energy_credit | Coordinate: (5,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[007] Name: black_lamp | ItemId: black_lamp | Coordinate: (6,0) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[008] Name: black_lamp | ItemId: black_lamp | Coordinate: (8,0) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[009] Name: black_lamp | ItemId: black_lamp | Coordinate: (10,0) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[010] Name: black_lamp | ItemId: black_lamp | Coordinate: (12,0) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[011] Name: black_lamp | ItemId: black_lamp | Coordinate: (14,0) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[012] Name: tutorial_page | ItemId: tutorial_page | Coordinate: (16,0) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[013] Name: tutorial_page | ItemId: tutorial_page | Coordinate: (18,0) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[014] Name: tutorial_page | ItemId: tutorial_page | Coordinate: (20,0) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[015] Name: tutorial_page | ItemId: tutorial_page | Coordinate: (22,0) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[016] Name: common_ore | ItemId: common_ore | Coordinate: (0,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[017] Name: common_ore | ItemId: common_ore | Coordinate: (2,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[018] Name: common_ore | ItemId: common_ore | Coordinate: (4,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[019] Name: tutorial_page | ItemId: tutorial_page | Coordinate: (16,2) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[020] Name: common_chemical | ItemId: common_chemical | Coordinate: (18,2) | Size: 2x3 | Type: CHEMICAL_SUPPLIES | Orientation: 1
+[021] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (20,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[022] Name: procurement_slip | ItemId: procurement_slip | Coordinate: (21,2) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[023] Name: procurement_slip | ItemId: procurement_slip | Coordinate: (22,2) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[024] Name: procurement_slip | ItemId: procurement_slip | Coordinate: (23,2) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[025] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (6,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[026] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (7,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[027] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (8,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[028] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (9,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[029] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (10,3) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[030] Name: black_lamp | ItemId: black_lamp | Coordinate: (11,3) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[031] Name: black_lamp | ItemId: black_lamp | Coordinate: (14,3) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[032] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (20,3) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[033] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (22,3) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[034] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (16,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[035] Name: common_ore | ItemId: common_ore | Coordinate: (0,5) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[036] Name: cat_bar | ItemId: cat_bar | Coordinate: (3,5) | Size: 2x2 | Type: TREAT | Orientation: 0
+[037] Name: cat_bar | ItemId: cat_bar | Coordinate: (5,5) | Size: 2x2 | Type: TREAT | Orientation: 0
+[038] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (7,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[039] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (9,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[040] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (11,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[041] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (18,5) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[042] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (19,5) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[043] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (20,5) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[044] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (22,5) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[045] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (14,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[046] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (16,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[047] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (18,6) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[048] Name: water_guide | ItemId: water_guide | Coordinate: (0,7) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[049] Name: slip | ItemId: slip | Coordinate: (2,7) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[050] Name: magnifier | ItemId: magnifier | Coordinate: (3,7) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[051] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (7,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[052] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (9,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[053] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (18,7) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[054] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (19,7) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[055] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (21,7) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[056] Name: red_beer | ItemId: red_beer | Coordinate: (23,7) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[057] Name: labeler | ItemId: labeler | Coordinate: (11,8) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[058] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (14,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[059] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (16,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[060] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (7,9) | Size: 4x1 | Type: MODULE | Orientation: 1
+[061] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (21,9) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[062] Name: drain | ItemId: drain | Coordinate: (0,10) | Size: 8x2 | Type: ~unknown | Orientation: 0
+[063] Name: drain | ItemId: drain | Coordinate: (8,10) | Size: 2x8 | Type: ~unknown | Orientation: 1
+[064] Name: drain | ItemId: drain | Coordinate: (10,10) | Size: 2x8 | Type: ~unknown | Orientation: 1
+[065] Name: sold_save_bag | ItemId: sold_save_bag | Coordinate: (12,10) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[066] Name: sold_save_bag | ItemId: sold_save_bag | Coordinate: (15,10) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[067] Name: labeler | ItemId: labeler | Coordinate: (18,10) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[068] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (21,11) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[069] Name: red_beer | ItemId: red_beer | Coordinate: (23,11) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[070] Name: drain | ItemId: drain | Coordinate: (0,12) | Size: 8x2 | Type: ~unknown | Orientation: 0
+[071] Name: labeler | ItemId: labeler | Coordinate: (18,13) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[072] Name: red_beer | ItemId: red_beer | Coordinate: (20,13) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[073] Name: red_beer | ItemId: red_beer | Coordinate: (21,13) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[074] Name: red_beer | ItemId: red_beer | Coordinate: (22,13) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[075] Name: drain | ItemId: drain | Coordinate: (0,14) | Size: 8x2 | Type: ~unknown | Orientation: 0
+[076] Name: sold_save_bag | ItemId: sold_save_bag | Coordinate: (12,14) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[077] Name: sold_save_bag | ItemId: sold_save_bag | Coordinate: (15,14) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[078] Name: drain | ItemId: drain | Coordinate: (0,16) | Size: 8x2 | Type: ~unknown | Orientation: 0
+[079] Name: backpack_large | ItemId: backpack_large | Coordinate: (18,17) | Size: 4x6 | Type: ~unknown | Orientation: 0
+[080] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (22,17) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[081] Name: backpack_large | ItemId: backpack_large | Coordinate: (0,18) | Size: 6x4 | Type: ~unknown | Orientation: 1
+[082] Name: backpack_large | ItemId: backpack_large | Coordinate: (6,18) | Size: 6x4 | Type: ~unknown | Orientation: 1
+[083] Name: backpack_large | ItemId: backpack_large | Coordinate: (12,18) | Size: 6x4 | Type: ~unknown | Orientation: 1
+[084] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (22,19) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[085] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (22,21) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[086] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (0,22) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[087] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (2,22) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[088] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (4,22) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[089] Name: black_lamp | ItemId: black_lamp | Coordinate: (12,22) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[090] Name: black_lamp | ItemId: black_lamp | Coordinate: (15,22) | Size: 3x2 | Type: ~unknown | Orientation: 1
+========== Result End ==========

@@ -1,0 +1,3792 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-13T06:18:10.005165-04:00",
+  "baseSeed": 2026101370,
+  "referenceLog": "E:\\steam\\steamapps\\common\\Probably Stolen Demo\\MelonLoader\\Logs\\SmartInventoryArrange-Snapshot.log",
+  "referenceItemOccurrences": 8206,
+  "referenceUniqueItems": 90,
+  "catalogItems": 325,
+  "testSetCount": 70,
+  "sets": [
+    {
+      "id": 31,
+      "name": "large_28x24_partial_76pct",
+      "file": "test_31_large_28x24_partial_76pct.txt",
+      "container": "28x24",
+      "mode": "partial",
+      "targetDensity": 0.76,
+      "actualDensity": 0.7604,
+      "occupiedCells": 511,
+      "totalCells": 672,
+      "itemCount": 132,
+      "categoryCount": 15,
+      "duplicateItemTypes": 27,
+      "rotatedCount": 38,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026132649,
+      "topItemIds": [
+        [
+          "system_module_corrupt",
+          12
+        ],
+        [
+          "system_module_efficiancy",
+          8
+        ],
+        [
+          "small_bottled_water",
+          7
+        ],
+        [
+          "crypto_module_cmd",
+          6
+        ],
+        [
+          "large_bottled_water",
+          6
+        ],
+        [
+          "recharger",
+          6
+        ],
+        [
+          "turbo_booster_adv",
+          6
+        ],
+        [
+          "processed_cheese",
+          6
+        ]
+      ],
+      "trueMaskCells": 511,
+      "trueMaskDensity": 0.7604
+    },
+    {
+      "id": 32,
+      "name": "large_30x30_dense_71pct_fixed",
+      "file": "test_32_large_30x30_dense_71pct_fixed.txt",
+      "container": "30x30",
+      "mode": "dense",
+      "targetDensity": 0.71,
+      "actualDensity": 0.7122,
+      "occupiedCells": 641,
+      "totalCells": 900,
+      "itemCount": 169,
+      "categoryCount": 15,
+      "duplicateItemTypes": 24,
+      "rotatedCount": 36,
+      "fixedCount": 4,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026133658,
+      "topItemIds": [
+        [
+          "wine_berry",
+          15
+        ],
+        [
+          "morsel",
+          12
+        ],
+        [
+          "water_tablet_container",
+          12
+        ],
+        [
+          "processed_meat",
+          11
+        ],
+        [
+          "processed_cheese",
+          11
+        ],
+        [
+          "zerochew",
+          11
+        ],
+        [
+          "raw_meat",
+          10
+        ],
+        [
+          "galaxy_blend",
+          8
+        ]
+      ],
+      "trueMaskCells": 641,
+      "trueMaskDensity": 0.7122
+    },
+    {
+      "id": 33,
+      "name": "large_32x20_partial_88pct_irregular",
+      "file": "test_33_large_32x20_partial_88pct_irregular.txt",
+      "container": "32x20",
+      "mode": "partial",
+      "targetDensity": 0.88,
+      "actualDensity": 0.8828,
+      "occupiedCells": 565,
+      "totalCells": 640,
+      "itemCount": 156,
+      "categoryCount": 16,
+      "duplicateItemTypes": 22,
+      "rotatedCount": 50,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026134667,
+      "topItemIds": [
+        [
+          "energy_credit_ext",
+          23
+        ],
+        [
+          "flux_agent",
+          14
+        ],
+        [
+          "energy_credit",
+          11
+        ],
+        [
+          "system_module_performance",
+          9
+        ],
+        [
+          "energy_credit_breeder",
+          8
+        ],
+        [
+          "metal_ingot",
+          8
+        ],
+        [
+          "system_capped_neural_core",
+          7
+        ],
+        [
+          "system_module_efficiancy",
+          7
+        ]
+      ],
+      "trueMaskCells": 565,
+      "trueMaskDensity": 0.8828
+    },
+    {
+      "id": 34,
+      "name": "large_24x24_ordered_95pct",
+      "file": "test_34_large_24x24_ordered_95pct.txt",
+      "container": "24x24",
+      "mode": "ordered",
+      "targetDensity": 0.95,
+      "actualDensity": 0.9531,
+      "occupiedCells": 549,
+      "totalCells": 576,
+      "itemCount": 113,
+      "categoryCount": 6,
+      "duplicateItemTypes": 20,
+      "rotatedCount": 37,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026135676,
+      "topItemIds": [
+        [
+          "aquascan",
+          15
+        ],
+        [
+          "box_tampon",
+          9
+        ],
+        [
+          "bottled_water",
+          9
+        ],
+        [
+          "large_bottled_water",
+          8
+        ],
+        [
+          "blood_bag",
+          8
+        ],
+        [
+          "birth_control_pill",
+          8
+        ],
+        [
+          "water_tablet_container",
+          7
+        ],
+        [
+          "rubbing_alcohol",
+          6
+        ]
+      ],
+      "trueMaskCells": 549,
+      "trueMaskDensity": 0.9531
+    },
+    {
+      "id": 35,
+      "name": "large_30x20_messy_88pct",
+      "file": "test_35_large_30x20_messy_88pct.txt",
+      "container": "30x20",
+      "mode": "messy",
+      "targetDensity": 0.88,
+      "actualDensity": 0.88,
+      "occupiedCells": 528,
+      "totalCells": 600,
+      "itemCount": 99,
+      "categoryCount": 13,
+      "duplicateItemTypes": 21,
+      "rotatedCount": 18,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026136685,
+      "topItemIds": [
+        [
+          "machine_bay",
+          10
+        ],
+        [
+          "smuggler_bay",
+          8
+        ],
+        [
+          "dream_dust",
+          6
+        ],
+        [
+          "recharger",
+          6
+        ],
+        [
+          "li_eat_snackbar",
+          6
+        ],
+        [
+          "processed_meat",
+          5
+        ],
+        [
+          "nutrifruit",
+          5
+        ],
+        [
+          "toilet_paper",
+          5
+        ]
+      ],
+      "trueMaskCells": 528,
+      "trueMaskDensity": 0.88
+    },
+    {
+      "id": 36,
+      "name": "large_24x20_ordered_93pct",
+      "file": "test_36_large_24x20_ordered_93pct.txt",
+      "container": "24x20",
+      "mode": "ordered",
+      "targetDensity": 0.93,
+      "actualDensity": 0.9333,
+      "occupiedCells": 448,
+      "totalCells": 480,
+      "itemCount": 107,
+      "categoryCount": 16,
+      "duplicateItemTypes": 20,
+      "rotatedCount": 22,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026137694,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          14
+        ],
+        [
+          "tazer",
+          8
+        ],
+        [
+          "wine_bottle",
+          7
+        ],
+        [
+          "system_module_quality",
+          7
+        ],
+        [
+          "small_pistol_ammo",
+          6
+        ],
+        [
+          "cat_bar",
+          6
+        ],
+        [
+          "blood_bag",
+          6
+        ],
+        [
+          "fanny_pack",
+          5
+        ]
+      ],
+      "trueMaskCells": 448,
+      "trueMaskDensity": 0.9333
+    },
+    {
+      "id": 37,
+      "name": "large_24x24_messy_91pct",
+      "file": "test_37_large_24x24_messy_91pct.txt",
+      "container": "24x24",
+      "mode": "messy",
+      "targetDensity": 0.91,
+      "actualDensity": 0.9115,
+      "occupiedCells": 525,
+      "totalCells": 576,
+      "itemCount": 191,
+      "categoryCount": 14,
+      "duplicateItemTypes": 22,
+      "rotatedCount": 46,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026138703,
+      "topItemIds": [
+        [
+          "crypto_module_cmd",
+          29
+        ],
+        [
+          "small_pistol_ammo",
+          28
+        ],
+        [
+          "sec_keycard",
+          15
+        ],
+        [
+          "crypto_module_med",
+          13
+        ],
+        [
+          "pheromone_perfume",
+          12
+        ],
+        [
+          "slip",
+          12
+        ],
+        [
+          "sci_keycard",
+          11
+        ],
+        [
+          "small_pistol_ammo_p",
+          9
+        ]
+      ],
+      "trueMaskCells": 525,
+      "trueMaskDensity": 0.9115
+    },
+    {
+      "id": 38,
+      "name": "large_24x24_ordered_83pct",
+      "file": "test_38_large_24x24_ordered_83pct.txt",
+      "container": "24x24",
+      "mode": "ordered",
+      "targetDensity": 0.83,
+      "actualDensity": 0.8333,
+      "occupiedCells": 480,
+      "totalCells": 576,
+      "itemCount": 121,
+      "categoryCount": 18,
+      "duplicateItemTypes": 23,
+      "rotatedCount": 18,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026139712,
+      "topItemIds": [
+        [
+          "small_pistol_ammo",
+          10
+        ],
+        [
+          "wine_book",
+          9
+        ],
+        [
+          "sign_household",
+          8
+        ],
+        [
+          "cat_bar",
+          7
+        ],
+        [
+          "box_tampon",
+          7
+        ],
+        [
+          "raw_meat",
+          6
+        ],
+        [
+          "energy_credit",
+          6
+        ],
+        [
+          "system_capped_neural_core",
+          6
+        ]
+      ],
+      "trueMaskCells": 480,
+      "trueMaskDensity": 0.8333
+    },
+    {
+      "id": 39,
+      "name": "large_24x20_partial_78pct",
+      "file": "test_39_large_24x20_partial_78pct.txt",
+      "container": "24x20",
+      "mode": "partial",
+      "targetDensity": 0.78,
+      "actualDensity": 0.7854,
+      "occupiedCells": 377,
+      "totalCells": 480,
+      "itemCount": 91,
+      "categoryCount": 8,
+      "duplicateItemTypes": 15,
+      "rotatedCount": 17,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026140721,
+      "topItemIds": [
+        [
+          "processed_meat",
+          14
+        ],
+        [
+          "zerochew",
+          13
+        ],
+        [
+          "nutrifruit",
+          10
+        ],
+        [
+          "raw_meat",
+          7
+        ],
+        [
+          "sec_keycard",
+          6
+        ],
+        [
+          "sign_water",
+          5
+        ],
+        [
+          "box_tampon",
+          5
+        ],
+        [
+          "wine_berry",
+          5
+        ]
+      ],
+      "trueMaskCells": 377,
+      "trueMaskDensity": 0.7854
+    },
+    {
+      "id": 40,
+      "name": "large_24x20_ordered_90pct",
+      "file": "test_40_large_24x20_ordered_90pct.txt",
+      "container": "24x20",
+      "mode": "ordered",
+      "targetDensity": 0.9,
+      "actualDensity": 0.9021,
+      "occupiedCells": 433,
+      "totalCells": 480,
+      "itemCount": 123,
+      "categoryCount": 16,
+      "duplicateItemTypes": 19,
+      "rotatedCount": 30,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026141730,
+      "topItemIds": [
+        [
+          "common_electronic",
+          13
+        ],
+        [
+          "energy_credit",
+          13
+        ],
+        [
+          "energy_credit_ext",
+          10
+        ],
+        [
+          "energy_credit_breeder",
+          9
+        ],
+        [
+          "metal_ingot",
+          8
+        ],
+        [
+          "system_module_performance",
+          7
+        ],
+        [
+          "system_module_quality",
+          6
+        ],
+        [
+          "water_test_container",
+          6
+        ]
+      ],
+      "trueMaskCells": 433,
+      "trueMaskDensity": 0.9021
+    },
+    {
+      "id": 41,
+      "name": "large_20x20_messy_87pct",
+      "file": "test_41_large_20x20_messy_87pct.txt",
+      "container": "20x20",
+      "mode": "messy",
+      "targetDensity": 0.87,
+      "actualDensity": 0.87,
+      "occupiedCells": 348,
+      "totalCells": 400,
+      "itemCount": 90,
+      "categoryCount": 4,
+      "duplicateItemTypes": 14,
+      "rotatedCount": 37,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026142739,
+      "topItemIds": [
+        [
+          "wine_yeast",
+          10
+        ],
+        [
+          "water_tablet_container",
+          9
+        ],
+        [
+          "bottled_water",
+          9
+        ],
+        [
+          "small_bottled_water",
+          8
+        ],
+        [
+          "water_test_container",
+          7
+        ],
+        [
+          "toilet_paper",
+          6
+        ],
+        [
+          "water_pitcher",
+          5
+        ],
+        [
+          "birth_control_pill",
+          5
+        ]
+      ],
+      "trueMaskCells": 348,
+      "trueMaskDensity": 0.87
+    },
+    {
+      "id": 42,
+      "name": "large_30x30_partial_92pct",
+      "file": "test_42_large_30x30_partial_92pct.txt",
+      "container": "30x30",
+      "mode": "partial",
+      "targetDensity": 0.92,
+      "actualDensity": 0.92,
+      "occupiedCells": 828,
+      "totalCells": 900,
+      "itemCount": 198,
+      "categoryCount": 18,
+      "duplicateItemTypes": 38,
+      "rotatedCount": 44,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026143748,
+      "topItemIds": [
+        [
+          "rubbing_alcohol",
+          12
+        ],
+        [
+          "wine_yeast",
+          10
+        ],
+        [
+          "bottled_water",
+          9
+        ],
+        [
+          "black_lamp",
+          9
+        ],
+        [
+          "small_raw_meat",
+          8
+        ],
+        [
+          "small_pistol_ammo",
+          8
+        ],
+        [
+          "crypto_module_med",
+          7
+        ],
+        [
+          "recharger",
+          7
+        ]
+      ],
+      "trueMaskCells": 828,
+      "trueMaskDensity": 0.92
+    },
+    {
+      "id": 43,
+      "name": "large_24x20_partial_95pct_irregular",
+      "file": "test_43_large_24x20_partial_95pct_irregular.txt",
+      "container": "24x20",
+      "mode": "partial",
+      "targetDensity": 0.95,
+      "actualDensity": 0.95,
+      "occupiedCells": 456,
+      "totalCells": 480,
+      "itemCount": 119,
+      "categoryCount": 16,
+      "duplicateItemTypes": 16,
+      "rotatedCount": 27,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026144757,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          36
+        ],
+        [
+          "common_ore",
+          8
+        ],
+        [
+          "pink_injector",
+          7
+        ],
+        [
+          "slip",
+          7
+        ],
+        [
+          "combat_knife",
+          5
+        ],
+        [
+          "c4_set",
+          5
+        ],
+        [
+          "machine_bay",
+          5
+        ],
+        [
+          "red_beer",
+          4
+        ]
+      ],
+      "trueMaskCells": 456,
+      "trueMaskDensity": 0.95
+    },
+    {
+      "id": 44,
+      "name": "large_28x24_messy_72pct_fixed",
+      "file": "test_44_large_28x24_messy_72pct_fixed.txt",
+      "container": "28x24",
+      "mode": "messy",
+      "targetDensity": 0.72,
+      "actualDensity": 0.7202,
+      "occupiedCells": 484,
+      "totalCells": 672,
+      "itemCount": 115,
+      "categoryCount": 15,
+      "duplicateItemTypes": 17,
+      "rotatedCount": 25,
+      "fixedCount": 5,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026145766,
+      "topItemIds": [
+        [
+          "small_pistol_ammo",
+          14
+        ],
+        [
+          "sign_water",
+          10
+        ],
+        [
+          "common_ore",
+          7
+        ],
+        [
+          "alarm_module_transmitter",
+          6
+        ],
+        [
+          "portable_water_purifier",
+          6
+        ],
+        [
+          "box_tampon",
+          6
+        ],
+        [
+          "water_guide",
+          5
+        ],
+        [
+          "large_purple_injector",
+          5
+        ]
+      ],
+      "trueMaskCells": 484,
+      "trueMaskDensity": 0.7202
+    },
+    {
+      "id": 45,
+      "name": "large_30x20_messy_82pct_fixed",
+      "file": "test_45_large_30x20_messy_82pct_fixed.txt",
+      "container": "30x20",
+      "mode": "messy",
+      "targetDensity": 0.82,
+      "actualDensity": 0.82,
+      "occupiedCells": 492,
+      "totalCells": 600,
+      "itemCount": 100,
+      "categoryCount": 21,
+      "duplicateItemTypes": 18,
+      "rotatedCount": 39,
+      "fixedCount": 11,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026146775,
+      "topItemIds": [
+        [
+          "raw_meat",
+          10
+        ],
+        [
+          "pheromone_perfume",
+          7
+        ],
+        [
+          "crypto_module_cmd",
+          6
+        ],
+        [
+          "machine_bay",
+          5
+        ],
+        [
+          "furnace_module_blast",
+          5
+        ],
+        [
+          "li_eat_snackbar",
+          5
+        ],
+        [
+          "birth_control_pill",
+          5
+        ],
+        [
+          "energy_credit_breeder",
+          4
+        ]
+      ],
+      "trueMaskCells": 492,
+      "trueMaskDensity": 0.82
+    },
+    {
+      "id": 46,
+      "name": "large_30x30_messy_81pct_irregular",
+      "file": "test_46_large_30x30_messy_81pct_irregular.txt",
+      "container": "30x30",
+      "mode": "messy",
+      "targetDensity": 0.81,
+      "actualDensity": 0.8122,
+      "occupiedCells": 731,
+      "totalCells": 900,
+      "itemCount": 182,
+      "categoryCount": 18,
+      "duplicateItemTypes": 24,
+      "rotatedCount": 29,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026147784,
+      "topItemIds": [
+        [
+          "wine_berry",
+          23
+        ],
+        [
+          "zerochew",
+          21
+        ],
+        [
+          "processed_meat",
+          13
+        ],
+        [
+          "nutrifruit",
+          11
+        ],
+        [
+          "morsel",
+          8
+        ],
+        [
+          "sec_keycard",
+          8
+        ],
+        [
+          "galaxy_blend",
+          8
+        ],
+        [
+          "common_electronic",
+          7
+        ]
+      ],
+      "trueMaskCells": 731,
+      "trueMaskDensity": 0.8122
+    },
+    {
+      "id": 47,
+      "name": "large_20x20_messy_72pct",
+      "file": "test_47_large_20x20_messy_72pct.txt",
+      "container": "20x20",
+      "mode": "messy",
+      "targetDensity": 0.72,
+      "actualDensity": 0.7225,
+      "occupiedCells": 289,
+      "totalCells": 400,
+      "itemCount": 85,
+      "categoryCount": 11,
+      "duplicateItemTypes": 17,
+      "rotatedCount": 19,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026148793,
+      "topItemIds": [
+        [
+          "system_capped_neural_core",
+          9
+        ],
+        [
+          "energy_credit_ext",
+          9
+        ],
+        [
+          "metal_ingot",
+          7
+        ],
+        [
+          "energy_credit_breeder",
+          6
+        ],
+        [
+          "rev_codeword",
+          6
+        ],
+        [
+          "system_module_overclock",
+          5
+        ],
+        [
+          "crypto_module_sec",
+          5
+        ],
+        [
+          "energy_credit",
+          3
+        ]
+      ],
+      "trueMaskCells": 289,
+      "trueMaskDensity": 0.7225
+    },
+    {
+      "id": 48,
+      "name": "large_24x20_dense_80pct_irregular",
+      "file": "test_48_large_24x20_dense_80pct_irregular.txt",
+      "container": "24x20",
+      "mode": "dense",
+      "targetDensity": 0.8,
+      "actualDensity": 0.8,
+      "occupiedCells": 384,
+      "totalCells": 480,
+      "itemCount": 103,
+      "categoryCount": 9,
+      "duplicateItemTypes": 14,
+      "rotatedCount": 45,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026149802,
+      "topItemIds": [
+        [
+          "wine_yeast",
+          17
+        ],
+        [
+          "rubbing_alcohol",
+          11
+        ],
+        [
+          "portable_water_purifier",
+          10
+        ],
+        [
+          "wine_bottle",
+          10
+        ],
+        [
+          "small_bottled_water",
+          7
+        ],
+        [
+          "cat_bar",
+          6
+        ],
+        [
+          "combat_knife",
+          6
+        ],
+        [
+          "paper_towel",
+          4
+        ]
+      ],
+      "trueMaskCells": 384,
+      "trueMaskDensity": 0.8
+    },
+    {
+      "id": 49,
+      "name": "large_20x16_dense_71pct",
+      "file": "test_49_large_20x16_dense_71pct.txt",
+      "container": "20x16",
+      "mode": "dense",
+      "targetDensity": 0.71,
+      "actualDensity": 0.7125,
+      "occupiedCells": 228,
+      "totalCells": 320,
+      "itemCount": 44,
+      "categoryCount": 10,
+      "duplicateItemTypes": 7,
+      "rotatedCount": 6,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026150811,
+      "topItemIds": [
+        [
+          "system_module_quality",
+          8
+        ],
+        [
+          "powerblock",
+          8
+        ],
+        [
+          "recharger",
+          7
+        ],
+        [
+          "processed_meat",
+          4
+        ],
+        [
+          "smuggler_bay",
+          2
+        ],
+        [
+          "water_guide",
+          2
+        ],
+        [
+          "energy_credit",
+          2
+        ],
+        [
+          "processed_cheese",
+          1
+        ]
+      ],
+      "trueMaskCells": 228,
+      "trueMaskDensity": 0.7125
+    },
+    {
+      "id": 50,
+      "name": "large_30x20_dense_91pct",
+      "file": "test_50_large_30x20_dense_91pct.txt",
+      "container": "30x20",
+      "mode": "dense",
+      "targetDensity": 0.91,
+      "actualDensity": 0.9133,
+      "occupiedCells": 548,
+      "totalCells": 600,
+      "itemCount": 144,
+      "categoryCount": 16,
+      "duplicateItemTypes": 23,
+      "rotatedCount": 36,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026151820,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          18
+        ],
+        [
+          "water_pitcher",
+          11
+        ],
+        [
+          "energy_credit_breeder",
+          10
+        ],
+        [
+          "common_electronic",
+          7
+        ],
+        [
+          "combat_knife",
+          6
+        ],
+        [
+          "birth_control_pill",
+          6
+        ],
+        [
+          "mini_bottle",
+          6
+        ],
+        [
+          "tazer",
+          6
+        ]
+      ],
+      "trueMaskCells": 548,
+      "trueMaskDensity": 0.9133
+    },
+    {
+      "id": 51,
+      "name": "large_30x20_partial_86pct",
+      "file": "test_51_large_30x20_partial_86pct.txt",
+      "container": "30x20",
+      "mode": "partial",
+      "targetDensity": 0.86,
+      "actualDensity": 0.86,
+      "occupiedCells": 516,
+      "totalCells": 600,
+      "itemCount": 102,
+      "categoryCount": 12,
+      "duplicateItemTypes": 17,
+      "rotatedCount": 28,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026152829,
+      "topItemIds": [
+        [
+          "rubbing_alcohol",
+          11
+        ],
+        [
+          "sec_keycard",
+          10
+        ],
+        [
+          "magnifier",
+          9
+        ],
+        [
+          "sign_water",
+          7
+        ],
+        [
+          "slip",
+          6
+        ],
+        [
+          "wine_bottle",
+          6
+        ],
+        [
+          "red_beer",
+          6
+        ],
+        [
+          "cassette1",
+          5
+        ]
+      ],
+      "trueMaskCells": 516,
+      "trueMaskDensity": 0.86
+    },
+    {
+      "id": 52,
+      "name": "large_20x20_messy_77pct",
+      "file": "test_52_large_20x20_messy_77pct.txt",
+      "container": "20x20",
+      "mode": "messy",
+      "targetDensity": 0.77,
+      "actualDensity": 0.7725,
+      "occupiedCells": 309,
+      "totalCells": 400,
+      "itemCount": 76,
+      "categoryCount": 16,
+      "duplicateItemTypes": 18,
+      "rotatedCount": 24,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026153838,
+      "topItemIds": [
+        [
+          "wine_bottle",
+          7
+        ],
+        [
+          "pheromone_perfume",
+          6
+        ],
+        [
+          "large_bottled_water",
+          6
+        ],
+        [
+          "crypto_module_med",
+          5
+        ],
+        [
+          "energy_credit_ext",
+          5
+        ],
+        [
+          "small_raw_meat",
+          5
+        ],
+        [
+          "box_tampon",
+          4
+        ],
+        [
+          "small_bottled_water",
+          4
+        ]
+      ],
+      "trueMaskCells": 309,
+      "trueMaskDensity": 0.7725
+    },
+    {
+      "id": 53,
+      "name": "large_24x20_dense_89pct",
+      "file": "test_53_large_24x20_dense_89pct.txt",
+      "container": "24x20",
+      "mode": "dense",
+      "targetDensity": 0.89,
+      "actualDensity": 0.8917,
+      "occupiedCells": 428,
+      "totalCells": 480,
+      "itemCount": 118,
+      "categoryCount": 12,
+      "duplicateItemTypes": 19,
+      "rotatedCount": 19,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026154847,
+      "topItemIds": [
+        [
+          "processed_meat",
+          13
+        ],
+        [
+          "galaxy_blend",
+          10
+        ],
+        [
+          "morsel",
+          10
+        ],
+        [
+          "fillerweed",
+          7
+        ],
+        [
+          "raw_meat",
+          7
+        ],
+        [
+          "energy_credit_breeder",
+          7
+        ],
+        [
+          "fanta_pill",
+          6
+        ],
+        [
+          "energy_credit",
+          6
+        ]
+      ],
+      "trueMaskCells": 428,
+      "trueMaskDensity": 0.8917
+    },
+    {
+      "id": 54,
+      "name": "large_30x30_messy_79pct",
+      "file": "test_54_large_30x30_messy_79pct.txt",
+      "container": "30x30",
+      "mode": "messy",
+      "targetDensity": 0.79,
+      "actualDensity": 0.7911,
+      "occupiedCells": 712,
+      "totalCells": 900,
+      "itemCount": 193,
+      "categoryCount": 13,
+      "duplicateItemTypes": 24,
+      "rotatedCount": 52,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026155856,
+      "topItemIds": [
+        [
+          "system_module_performance",
+          18
+        ],
+        [
+          "common_electronic",
+          18
+        ],
+        [
+          "system_module_overclock",
+          15
+        ],
+        [
+          "common_ore",
+          13
+        ],
+        [
+          "energy_credit_breeder",
+          12
+        ],
+        [
+          "energy_credit",
+          12
+        ],
+        [
+          "flux_agent",
+          11
+        ],
+        [
+          "system_module_corrupt",
+          10
+        ]
+      ],
+      "trueMaskCells": 712,
+      "trueMaskDensity": 0.7911
+    },
+    {
+      "id": 55,
+      "name": "large_28x24_partial_80pct",
+      "file": "test_55_large_28x24_partial_80pct.txt",
+      "container": "28x24",
+      "mode": "partial",
+      "targetDensity": 0.8,
+      "actualDensity": 0.8065,
+      "occupiedCells": 542,
+      "totalCells": 672,
+      "itemCount": 150,
+      "categoryCount": 10,
+      "duplicateItemTypes": 22,
+      "rotatedCount": 55,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026156865,
+      "topItemIds": [
+        [
+          "water_test_container",
+          20
+        ],
+        [
+          "wine_bottle",
+          16
+        ],
+        [
+          "small_bottled_water",
+          13
+        ],
+        [
+          "large_purple_injector",
+          10
+        ],
+        [
+          "wine_yeast",
+          9
+        ],
+        [
+          "mini_bottle",
+          8
+        ],
+        [
+          "aquascan",
+          8
+        ],
+        [
+          "wine_book",
+          6
+        ]
+      ],
+      "trueMaskCells": 542,
+      "trueMaskDensity": 0.8065
+    },
+    {
+      "id": 56,
+      "name": "large_28x24_messy_93pct",
+      "file": "test_56_large_28x24_messy_93pct.txt",
+      "container": "28x24",
+      "mode": "messy",
+      "targetDensity": 0.93,
+      "actualDensity": 0.9301,
+      "occupiedCells": 625,
+      "totalCells": 672,
+      "itemCount": 124,
+      "categoryCount": 18,
+      "duplicateItemTypes": 21,
+      "rotatedCount": 26,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026157874,
+      "topItemIds": [
+        [
+          "birth_control_pill",
+          9
+        ],
+        [
+          "storage_bay",
+          8
+        ],
+        [
+          "processed_cheese",
+          7
+        ],
+        [
+          "energy_credit",
+          7
+        ],
+        [
+          "bottled_water",
+          6
+        ],
+        [
+          "small_pistol_ammo_p",
+          5
+        ],
+        [
+          "cassette2d",
+          5
+        ],
+        [
+          "blood_bag",
+          5
+        ]
+      ],
+      "trueMaskCells": 625,
+      "trueMaskDensity": 0.9301
+    },
+    {
+      "id": 57,
+      "name": "large_28x24_partial_79pct",
+      "file": "test_57_large_28x24_partial_79pct.txt",
+      "container": "28x24",
+      "mode": "partial",
+      "targetDensity": 0.79,
+      "actualDensity": 0.7961,
+      "occupiedCells": 535,
+      "totalCells": 672,
+      "itemCount": 144,
+      "categoryCount": 16,
+      "duplicateItemTypes": 24,
+      "rotatedCount": 37,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026158883,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          24
+        ],
+        [
+          "tazer",
+          13
+        ],
+        [
+          "portable_water_purifier",
+          11
+        ],
+        [
+          "wine_berry",
+          8
+        ],
+        [
+          "bottled_water",
+          7
+        ],
+        [
+          "small_pistol_ammo",
+          6
+        ],
+        [
+          "mini_bottle",
+          6
+        ],
+        [
+          "small_pistol_ammo_p",
+          5
+        ]
+      ],
+      "trueMaskCells": 535,
+      "trueMaskDensity": 0.7961
+    },
+    {
+      "id": 58,
+      "name": "large_24x24_partial_79pct_fixed",
+      "file": "test_58_large_24x24_partial_79pct_fixed.txt",
+      "container": "24x24",
+      "mode": "partial",
+      "targetDensity": 0.79,
+      "actualDensity": 0.7917,
+      "occupiedCells": 456,
+      "totalCells": 576,
+      "itemCount": 91,
+      "categoryCount": 10,
+      "duplicateItemTypes": 16,
+      "rotatedCount": 27,
+      "fixedCount": 4,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026159892,
+      "topItemIds": [
+        [
+          "water_guide",
+          12
+        ],
+        [
+          "crypto_module_med",
+          8
+        ],
+        [
+          "small_raw_meat",
+          6
+        ],
+        [
+          "wine_book",
+          6
+        ],
+        [
+          "wire",
+          6
+        ],
+        [
+          "fanny_pack",
+          5
+        ],
+        [
+          "ribwich_guide",
+          5
+        ],
+        [
+          "sign_household",
+          4
+        ]
+      ],
+      "trueMaskCells": 456,
+      "trueMaskDensity": 0.7917
+    },
+    {
+      "id": 59,
+      "name": "large_24x20_messy_81pct",
+      "file": "test_59_large_24x20_messy_81pct.txt",
+      "container": "24x20",
+      "mode": "messy",
+      "targetDensity": 0.81,
+      "actualDensity": 0.8104,
+      "occupiedCells": 389,
+      "totalCells": 480,
+      "itemCount": 105,
+      "categoryCount": 17,
+      "duplicateItemTypes": 25,
+      "rotatedCount": 27,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026160901,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          7
+        ],
+        [
+          "small_pistol_ammo",
+          6
+        ],
+        [
+          "cassette2d",
+          5
+        ],
+        [
+          "zyanide_pill",
+          5
+        ],
+        [
+          "mini_bottle",
+          4
+        ],
+        [
+          "processed_cheese",
+          4
+        ],
+        [
+          "sec_keycard",
+          4
+        ],
+        [
+          "system_module_corrupt",
+          4
+        ]
+      ],
+      "trueMaskCells": 389,
+      "trueMaskDensity": 0.8104
+    },
+    {
+      "id": 60,
+      "name": "large_30x30_ordered_89pct_irregular",
+      "file": "test_60_large_30x30_ordered_89pct_irregular.txt",
+      "container": "30x30",
+      "mode": "ordered",
+      "targetDensity": 0.89,
+      "actualDensity": 0.8933,
+      "occupiedCells": 804,
+      "totalCells": 900,
+      "itemCount": 218,
+      "categoryCount": 16,
+      "duplicateItemTypes": 24,
+      "rotatedCount": 20,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026161910,
+      "topItemIds": [
+        [
+          "nutrifruit",
+          28
+        ],
+        [
+          "wine_berry",
+          28
+        ],
+        [
+          "processed_cheese",
+          26
+        ],
+        [
+          "processed_meat",
+          15
+        ],
+        [
+          "morsel",
+          15
+        ],
+        [
+          "small_raw_meat",
+          14
+        ],
+        [
+          "galaxy_blend",
+          13
+        ],
+        [
+          "zerochew",
+          12
+        ]
+      ],
+      "trueMaskCells": 804,
+      "trueMaskDensity": 0.8933
+    },
+    {
+      "id": 61,
+      "name": "large_24x24_partial_72pct",
+      "file": "test_61_large_24x24_partial_72pct.txt",
+      "container": "24x24",
+      "mode": "partial",
+      "targetDensity": 0.72,
+      "actualDensity": 0.7292,
+      "occupiedCells": 420,
+      "totalCells": 576,
+      "itemCount": 93,
+      "categoryCount": 7,
+      "duplicateItemTypes": 16,
+      "rotatedCount": 27,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026162919,
+      "topItemIds": [
+        [
+          "common_electronic",
+          17
+        ],
+        [
+          "energy_credit_breeder",
+          9
+        ],
+        [
+          "system_module_performance",
+          9
+        ],
+        [
+          "furnace_module_blast",
+          7
+        ],
+        [
+          "skincare_cream",
+          6
+        ],
+        [
+          "processed_meat",
+          6
+        ],
+        [
+          "energy_credit_ext",
+          5
+        ],
+        [
+          "energy_credit",
+          5
+        ]
+      ],
+      "trueMaskCells": 420,
+      "trueMaskDensity": 0.7292
+    },
+    {
+      "id": 62,
+      "name": "large_28x20_messy_86pct_fixed",
+      "file": "test_62_large_28x20_messy_86pct_fixed.txt",
+      "container": "28x20",
+      "mode": "messy",
+      "targetDensity": 0.86,
+      "actualDensity": 0.8607,
+      "occupiedCells": 482,
+      "totalCells": 560,
+      "itemCount": 132,
+      "categoryCount": 10,
+      "duplicateItemTypes": 19,
+      "rotatedCount": 47,
+      "fixedCount": 12,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026163928,
+      "topItemIds": [
+        [
+          "wine_bottle",
+          13
+        ],
+        [
+          "water_test_container",
+          12
+        ],
+        [
+          "small_bottled_water",
+          9
+        ],
+        [
+          "dream_dust",
+          9
+        ],
+        [
+          "bottled_water",
+          8
+        ],
+        [
+          "birth_control_pill",
+          8
+        ],
+        [
+          "blood_bag",
+          7
+        ],
+        [
+          "rubbing_alcohol",
+          7
+        ]
+      ],
+      "trueMaskCells": 482,
+      "trueMaskDensity": 0.8607
+    },
+    {
+      "id": 63,
+      "name": "large_24x20_ordered_87pct",
+      "file": "test_63_large_24x20_ordered_87pct.txt",
+      "container": "24x20",
+      "mode": "ordered",
+      "targetDensity": 0.87,
+      "actualDensity": 0.8708,
+      "occupiedCells": 418,
+      "totalCells": 480,
+      "itemCount": 73,
+      "categoryCount": 10,
+      "duplicateItemTypes": 11,
+      "rotatedCount": 6,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026164937,
+      "topItemIds": [
+        [
+          "storage_bay",
+          14
+        ],
+        [
+          "powerblock",
+          11
+        ],
+        [
+          "recharger",
+          8
+        ],
+        [
+          "blank_keycard",
+          7
+        ],
+        [
+          "screwdriver",
+          6
+        ],
+        [
+          "furnace_module_blast",
+          5
+        ],
+        [
+          "red_beer",
+          5
+        ],
+        [
+          "energy_credit_ext",
+          5
+        ]
+      ],
+      "trueMaskCells": 418,
+      "trueMaskDensity": 0.8708
+    },
+    {
+      "id": 64,
+      "name": "large_30x30_partial_94pct_fixed",
+      "file": "test_64_large_30x30_partial_94pct_fixed.txt",
+      "container": "30x30",
+      "mode": "partial",
+      "targetDensity": 0.94,
+      "actualDensity": 0.94,
+      "occupiedCells": 846,
+      "totalCells": 900,
+      "itemCount": 240,
+      "categoryCount": 22,
+      "duplicateItemTypes": 37,
+      "rotatedCount": 60,
+      "fixedCount": 4,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026165946,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          51
+        ],
+        [
+          "combat_knife",
+          18
+        ],
+        [
+          "tazer",
+          13
+        ],
+        [
+          "large_bottled_water",
+          12
+        ],
+        [
+          "portable_water_purifier",
+          10
+        ],
+        [
+          "morsel",
+          9
+        ],
+        [
+          "wine_bottle",
+          7
+        ],
+        [
+          "wine_berry",
+          6
+        ]
+      ],
+      "trueMaskCells": 846,
+      "trueMaskDensity": 0.94
+    },
+    {
+      "id": 65,
+      "name": "large_24x24_ordered_93pct",
+      "file": "test_65_large_24x24_ordered_93pct.txt",
+      "container": "24x24",
+      "mode": "ordered",
+      "targetDensity": 0.93,
+      "actualDensity": 0.9323,
+      "occupiedCells": 537,
+      "totalCells": 576,
+      "itemCount": 90,
+      "categoryCount": 10,
+      "duplicateItemTypes": 18,
+      "rotatedCount": 15,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026166955,
+      "topItemIds": [
+        [
+          "black_lamp",
+          9
+        ],
+        [
+          "energy_credit",
+          6
+        ],
+        [
+          "sci_keycard",
+          6
+        ],
+        [
+          "drain",
+          6
+        ],
+        [
+          "tutorial_page",
+          5
+        ],
+        [
+          "energy_credit_breeder",
+          5
+        ],
+        [
+          "sec_keycard",
+          5
+        ],
+        [
+          "processed_cheese",
+          5
+        ]
+      ],
+      "trueMaskCells": 537,
+      "trueMaskDensity": 0.9323
+    },
+    {
+      "id": 66,
+      "name": "large_30x30_ordered_94pct_irregular",
+      "file": "test_66_large_30x30_ordered_94pct_irregular.txt",
+      "container": "30x30",
+      "mode": "ordered",
+      "targetDensity": 0.94,
+      "actualDensity": 0.94,
+      "occupiedCells": 846,
+      "totalCells": 900,
+      "itemCount": 196,
+      "categoryCount": 15,
+      "duplicateItemTypes": 39,
+      "rotatedCount": 49,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026167964,
+      "topItemIds": [
+        [
+          "common_ore",
+          12
+        ],
+        [
+          "mini_bottle",
+          10
+        ],
+        [
+          "wine_berry",
+          10
+        ],
+        [
+          "water_pitcher",
+          7
+        ],
+        [
+          "sci_keycard",
+          7
+        ],
+        [
+          "energy_credit_breeder",
+          7
+        ],
+        [
+          "wire",
+          6
+        ],
+        [
+          "joe_card",
+          6
+        ]
+      ],
+      "trueMaskCells": 846,
+      "trueMaskDensity": 0.94
+    },
+    {
+      "id": 67,
+      "name": "large_18x16_partial_86pct",
+      "file": "test_67_large_18x16_partial_86pct.txt",
+      "container": "18x16",
+      "mode": "partial",
+      "targetDensity": 0.86,
+      "actualDensity": 0.8646,
+      "occupiedCells": 249,
+      "totalCells": 288,
+      "itemCount": 58,
+      "categoryCount": 7,
+      "duplicateItemTypes": 11,
+      "rotatedCount": 12,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026168973,
+      "topItemIds": [
+        [
+          "morsel",
+          10
+        ],
+        [
+          "wine_berry",
+          7
+        ],
+        [
+          "small_raw_meat",
+          6
+        ],
+        [
+          "nutrifruit",
+          5
+        ],
+        [
+          "nudka",
+          5
+        ],
+        [
+          "galaxy_blend",
+          5
+        ],
+        [
+          "common_electronic",
+          5
+        ],
+        [
+          "raw_meat",
+          4
+        ]
+      ],
+      "trueMaskCells": 249,
+      "trueMaskDensity": 0.8646
+    },
+    {
+      "id": 68,
+      "name": "large_24x24_partial_76pct",
+      "file": "test_68_large_24x24_partial_76pct.txt",
+      "container": "24x24",
+      "mode": "partial",
+      "targetDensity": 0.76,
+      "actualDensity": 0.7622,
+      "occupiedCells": 439,
+      "totalCells": 576,
+      "itemCount": 121,
+      "categoryCount": 13,
+      "duplicateItemTypes": 23,
+      "rotatedCount": 30,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026169982,
+      "topItemIds": [
+        [
+          "metal_ingot",
+          11
+        ],
+        [
+          "morsel",
+          7
+        ],
+        [
+          "system_module_performance",
+          7
+        ],
+        [
+          "system_module_overclock",
+          7
+        ],
+        [
+          "system_capped_neural_core",
+          6
+        ],
+        [
+          "nightmare_cap",
+          6
+        ],
+        [
+          "common_electronic",
+          6
+        ],
+        [
+          "advanced_flux_agent",
+          6
+        ]
+      ],
+      "trueMaskCells": 439,
+      "trueMaskDensity": 0.7622
+    },
+    {
+      "id": 69,
+      "name": "large_20x20_messy_90pct",
+      "file": "test_69_large_20x20_messy_90pct.txt",
+      "container": "20x20",
+      "mode": "messy",
+      "targetDensity": 0.9,
+      "actualDensity": 0.9,
+      "occupiedCells": 360,
+      "totalCells": 400,
+      "itemCount": 96,
+      "categoryCount": 11,
+      "duplicateItemTypes": 17,
+      "rotatedCount": 33,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026170991,
+      "topItemIds": [
+        [
+          "rubbing_alcohol",
+          11
+        ],
+        [
+          "toilet_paper",
+          8
+        ],
+        [
+          "wine_bottle",
+          8
+        ],
+        [
+          "large_purple_injector",
+          8
+        ],
+        [
+          "zyanide_pill",
+          7
+        ],
+        [
+          "common_electronic",
+          6
+        ],
+        [
+          "water_test_container",
+          6
+        ],
+        [
+          "powerblock",
+          5
+        ]
+      ],
+      "trueMaskCells": 360,
+      "trueMaskDensity": 0.9
+    },
+    {
+      "id": 70,
+      "name": "large_16x20_ordered_88pct_fixed",
+      "file": "test_70_large_16x20_ordered_88pct_fixed.txt",
+      "container": "16x20",
+      "mode": "ordered",
+      "targetDensity": 0.88,
+      "actualDensity": 0.8812,
+      "occupiedCells": 282,
+      "totalCells": 320,
+      "itemCount": 52,
+      "categoryCount": 12,
+      "duplicateItemTypes": 10,
+      "rotatedCount": 7,
+      "fixedCount": 11,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026172000,
+      "topItemIds": [
+        [
+          "common_electronic",
+          8
+        ],
+        [
+          "processed_meat",
+          5
+        ],
+        [
+          "mirage_projector",
+          5
+        ],
+        [
+          "powerblock",
+          4
+        ],
+        [
+          "birth_control_pill",
+          3
+        ],
+        [
+          "wine_bottle",
+          3
+        ],
+        [
+          "bottled_water_premium",
+          3
+        ],
+        [
+          "blank_keycard",
+          2
+        ]
+      ],
+      "trueMaskCells": 282,
+      "trueMaskDensity": 0.8812
+    },
+    {
+      "id": 71,
+      "name": "large_30x30_messy_85pct",
+      "file": "test_71_large_30x30_messy_85pct.txt",
+      "container": "30x30",
+      "mode": "messy",
+      "targetDensity": 0.85,
+      "actualDensity": 0.8522,
+      "occupiedCells": 767,
+      "totalCells": 900,
+      "itemCount": 205,
+      "categoryCount": 21,
+      "duplicateItemTypes": 32,
+      "rotatedCount": 44,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026173009,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          34
+        ],
+        [
+          "tazer",
+          16
+        ],
+        [
+          "system_module_performance",
+          11
+        ],
+        [
+          "combat_knife",
+          10
+        ],
+        [
+          "wine_bottle",
+          9
+        ],
+        [
+          "toilet_paper",
+          6
+        ],
+        [
+          "nutrifruit",
+          6
+        ],
+        [
+          "system_module_overclock",
+          6
+        ]
+      ],
+      "trueMaskCells": 767,
+      "trueMaskDensity": 0.8522
+    },
+    {
+      "id": 72,
+      "name": "large_24x24_messy_80pct_irregular",
+      "file": "test_72_large_24x24_messy_80pct_irregular.txt",
+      "container": "24x24",
+      "mode": "messy",
+      "targetDensity": 0.8,
+      "actualDensity": 0.8056,
+      "occupiedCells": 464,
+      "totalCells": 576,
+      "itemCount": 107,
+      "categoryCount": 11,
+      "duplicateItemTypes": 15,
+      "rotatedCount": 16,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026174018,
+      "topItemIds": [
+        [
+          "sign_household",
+          13
+        ],
+        [
+          "sci_keycard",
+          11
+        ],
+        [
+          "sec_keycard",
+          10
+        ],
+        [
+          "small_pistol_ammo",
+          8
+        ],
+        [
+          "magnifier",
+          7
+        ],
+        [
+          "slip",
+          6
+        ],
+        [
+          "black_lamp",
+          5
+        ],
+        [
+          "crypto_module_med",
+          5
+        ]
+      ],
+      "trueMaskCells": 464,
+      "trueMaskDensity": 0.8056
+    },
+    {
+      "id": 73,
+      "name": "large_30x30_dense_79pct_fixed",
+      "file": "test_73_large_30x30_dense_79pct_fixed.txt",
+      "container": "30x30",
+      "mode": "dense",
+      "targetDensity": 0.79,
+      "actualDensity": 0.79,
+      "occupiedCells": 711,
+      "totalCells": 900,
+      "itemCount": 150,
+      "categoryCount": 20,
+      "duplicateItemTypes": 28,
+      "rotatedCount": 39,
+      "fixedCount": 6,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026175027,
+      "topItemIds": [
+        [
+          "water_tablet_container",
+          9
+        ],
+        [
+          "blank_keycard",
+          8
+        ],
+        [
+          "cassette2d",
+          8
+        ],
+        [
+          "small_pistol_ammo",
+          7
+        ],
+        [
+          "water_jug",
+          6
+        ],
+        [
+          "red_beer",
+          6
+        ],
+        [
+          "nuts_metal",
+          6
+        ],
+        [
+          "blood_bag",
+          6
+        ]
+      ],
+      "trueMaskCells": 711,
+      "trueMaskDensity": 0.79
+    },
+    {
+      "id": 74,
+      "name": "large_20x20_messy_73pct",
+      "file": "test_74_large_20x20_messy_73pct.txt",
+      "container": "20x20",
+      "mode": "messy",
+      "targetDensity": 0.73,
+      "actualDensity": 0.74,
+      "occupiedCells": 296,
+      "totalCells": 400,
+      "itemCount": 70,
+      "categoryCount": 9,
+      "duplicateItemTypes": 12,
+      "rotatedCount": 18,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026176036,
+      "topItemIds": [
+        [
+          "galaxy_blend",
+          8
+        ],
+        [
+          "turbo_booster_adv",
+          7
+        ],
+        [
+          "tazer",
+          6
+        ],
+        [
+          "morsel",
+          6
+        ],
+        [
+          "raw_meat",
+          6
+        ],
+        [
+          "alarm_module_transmitter",
+          6
+        ],
+        [
+          "small_raw_meat",
+          6
+        ],
+        [
+          "nutrifruit",
+          6
+        ]
+      ],
+      "trueMaskCells": 296,
+      "trueMaskDensity": 0.74
+    },
+    {
+      "id": 75,
+      "name": "large_24x24_ordered_87pct",
+      "file": "test_75_large_24x24_ordered_87pct.txt",
+      "container": "24x24",
+      "mode": "ordered",
+      "targetDensity": 0.87,
+      "actualDensity": 0.8715,
+      "occupiedCells": 502,
+      "totalCells": 576,
+      "itemCount": 130,
+      "categoryCount": 11,
+      "duplicateItemTypes": 17,
+      "rotatedCount": 30,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026177045,
+      "topItemIds": [
+        [
+          "wire",
+          18
+        ],
+        [
+          "system_capped_neural_core",
+          13
+        ],
+        [
+          "common_electronic",
+          10
+        ],
+        [
+          "energy_credit",
+          9
+        ],
+        [
+          "tazer",
+          9
+        ],
+        [
+          "metal_ingot",
+          9
+        ],
+        [
+          "flux_agent",
+          8
+        ],
+        [
+          "energy_credit_breeder",
+          8
+        ]
+      ],
+      "trueMaskCells": 502,
+      "trueMaskDensity": 0.8715
+    },
+    {
+      "id": 76,
+      "name": "large_18x18_partial_92pct",
+      "file": "test_76_large_18x18_partial_92pct.txt",
+      "container": "18x18",
+      "mode": "partial",
+      "targetDensity": 0.92,
+      "actualDensity": 0.9228,
+      "occupiedCells": 299,
+      "totalCells": 324,
+      "itemCount": 76,
+      "categoryCount": 11,
+      "duplicateItemTypes": 16,
+      "rotatedCount": 32,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026178054,
+      "topItemIds": [
+        [
+          "aquascan",
+          9
+        ],
+        [
+          "bottled_water",
+          9
+        ],
+        [
+          "wine_bottle",
+          8
+        ],
+        [
+          "wine_yeast",
+          7
+        ],
+        [
+          "water_test_container",
+          4
+        ],
+        [
+          "small_bottled_water",
+          3
+        ],
+        [
+          "blank_keycard",
+          3
+        ],
+        [
+          "sci_keycard",
+          3
+        ]
+      ],
+      "trueMaskCells": 299,
+      "trueMaskDensity": 0.9228
+    },
+    {
+      "id": 77,
+      "name": "large_30x30_messy_88pct",
+      "file": "test_77_large_30x30_messy_88pct.txt",
+      "container": "30x30",
+      "mode": "messy",
+      "targetDensity": 0.88,
+      "actualDensity": 0.88,
+      "occupiedCells": 792,
+      "totalCells": 900,
+      "itemCount": 188,
+      "categoryCount": 23,
+      "duplicateItemTypes": 42,
+      "rotatedCount": 42,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026179063,
+      "topItemIds": [
+        [
+          "powerblock",
+          10
+        ],
+        [
+          "heavy_pistol_ammo_nl",
+          10
+        ],
+        [
+          "small_bottled_water",
+          7
+        ],
+        [
+          "raw_meat",
+          6
+        ],
+        [
+          "joe_card",
+          6
+        ],
+        [
+          "aquascan",
+          6
+        ],
+        [
+          "skinning_knife",
+          6
+        ],
+        [
+          "system_capped_neural_core",
+          5
+        ]
+      ],
+      "trueMaskCells": 792,
+      "trueMaskDensity": 0.88
+    },
+    {
+      "id": 78,
+      "name": "large_30x20_partial_94pct_fixed",
+      "file": "test_78_large_30x20_partial_94pct_fixed.txt",
+      "container": "30x20",
+      "mode": "partial",
+      "targetDensity": 0.94,
+      "actualDensity": 0.9417,
+      "occupiedCells": 565,
+      "totalCells": 600,
+      "itemCount": 172,
+      "categoryCount": 18,
+      "duplicateItemTypes": 28,
+      "rotatedCount": 49,
+      "fixedCount": 7,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026180072,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          32
+        ],
+        [
+          "tazer",
+          10
+        ],
+        [
+          "wine_yeast",
+          8
+        ],
+        [
+          "wine_bottle",
+          7
+        ],
+        [
+          "system_module_performance",
+          6
+        ],
+        [
+          "water_test_container",
+          6
+        ],
+        [
+          "small_bottled_water",
+          5
+        ],
+        [
+          "system_module_corrupt",
+          5
+        ]
+      ],
+      "trueMaskCells": 565,
+      "trueMaskDensity": 0.9417
+    },
+    {
+      "id": 79,
+      "name": "large_20x20_messy_83pct_irregular",
+      "file": "test_79_large_20x20_messy_83pct_irregular.txt",
+      "container": "20x20",
+      "mode": "messy",
+      "targetDensity": 0.83,
+      "actualDensity": 0.83,
+      "occupiedCells": 332,
+      "totalCells": 400,
+      "itemCount": 53,
+      "categoryCount": 8,
+      "duplicateItemTypes": 12,
+      "rotatedCount": 17,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026181081,
+      "topItemIds": [
+        [
+          "sign_household",
+          10
+        ],
+        [
+          "water_guide",
+          5
+        ],
+        [
+          "water_test_container",
+          5
+        ],
+        [
+          "crypto_module_med",
+          4
+        ],
+        [
+          "heavy_pistol_ammo_nl",
+          3
+        ],
+        [
+          "blood_bag",
+          3
+        ],
+        [
+          "sec_keycard",
+          2
+        ],
+        [
+          "small_pistol_ammo",
+          2
+        ]
+      ],
+      "trueMaskCells": 332,
+      "trueMaskDensity": 0.83
+    },
+    {
+      "id": 80,
+      "name": "large_20x20_dense_92pct",
+      "file": "test_80_large_20x20_dense_92pct.txt",
+      "container": "20x20",
+      "mode": "dense",
+      "targetDensity": 0.92,
+      "actualDensity": 0.925,
+      "occupiedCells": 370,
+      "totalCells": 400,
+      "itemCount": 69,
+      "categoryCount": 18,
+      "duplicateItemTypes": 17,
+      "rotatedCount": 16,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026182090,
+      "topItemIds": [
+        [
+          "backpack_medium_military",
+          6
+        ],
+        [
+          "energy_credit_breeder",
+          5
+        ],
+        [
+          "flux_agent",
+          4
+        ],
+        [
+          "alarm_module_transmitter",
+          4
+        ],
+        [
+          "water_tablet_container",
+          4
+        ],
+        [
+          "dream_dust",
+          3
+        ],
+        [
+          "box_tampon",
+          3
+        ],
+        [
+          "furnace_module_blast",
+          3
+        ]
+      ],
+      "trueMaskCells": 370,
+      "trueMaskDensity": 0.925
+    },
+    {
+      "id": 81,
+      "name": "large_24x20_messy_77pct_irregular",
+      "file": "test_81_large_24x20_messy_77pct_irregular.txt",
+      "container": "24x20",
+      "mode": "messy",
+      "targetDensity": 0.77,
+      "actualDensity": 0.775,
+      "occupiedCells": 372,
+      "totalCells": 480,
+      "itemCount": 91,
+      "categoryCount": 15,
+      "duplicateItemTypes": 14,
+      "rotatedCount": 23,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026183099,
+      "topItemIds": [
+        [
+          "raw_meat",
+          12
+        ],
+        [
+          "morsel",
+          10
+        ],
+        [
+          "zerochew",
+          8
+        ],
+        [
+          "wine_berry",
+          8
+        ],
+        [
+          "small_raw_meat",
+          7
+        ],
+        [
+          "nutrifruit",
+          6
+        ],
+        [
+          "furnace_module_blast",
+          5
+        ],
+        [
+          "system_module_efficiancy",
+          5
+        ]
+      ],
+      "trueMaskCells": 372,
+      "trueMaskDensity": 0.775
+    },
+    {
+      "id": 82,
+      "name": "large_20x20_ordered_80pct",
+      "file": "test_82_large_20x20_ordered_80pct.txt",
+      "container": "20x20",
+      "mode": "ordered",
+      "targetDensity": 0.8,
+      "actualDensity": 0.8,
+      "occupiedCells": 320,
+      "totalCells": 400,
+      "itemCount": 81,
+      "categoryCount": 8,
+      "duplicateItemTypes": 15,
+      "rotatedCount": 31,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026184108,
+      "topItemIds": [
+        [
+          "energy_credit",
+          13
+        ],
+        [
+          "fanny_pack",
+          6
+        ],
+        [
+          "system_module_efficiancy",
+          6
+        ],
+        [
+          "furnace_module_blast",
+          6
+        ],
+        [
+          "system_module_corrupt",
+          6
+        ],
+        [
+          "scrap_metal",
+          6
+        ],
+        [
+          "common_electronic",
+          5
+        ],
+        [
+          "system_module_quality",
+          5
+        ]
+      ],
+      "trueMaskCells": 320,
+      "trueMaskDensity": 0.8
+    },
+    {
+      "id": 83,
+      "name": "large_30x20_ordered_82pct",
+      "file": "test_83_large_30x20_ordered_82pct.txt",
+      "container": "30x20",
+      "mode": "ordered",
+      "targetDensity": 0.82,
+      "actualDensity": 0.825,
+      "occupiedCells": 495,
+      "totalCells": 600,
+      "itemCount": 87,
+      "categoryCount": 10,
+      "duplicateItemTypes": 16,
+      "rotatedCount": 23,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026185117,
+      "topItemIds": [
+        [
+          "bottled_water",
+          11
+        ],
+        [
+          "large_purple_injector",
+          10
+        ],
+        [
+          "water_jug",
+          8
+        ],
+        [
+          "water_tablet_container",
+          6
+        ],
+        [
+          "small_bottled_water",
+          6
+        ],
+        [
+          "dream_dust",
+          6
+        ],
+        [
+          "water_pitcher",
+          5
+        ],
+        [
+          "hidden_save_bag",
+          5
+        ]
+      ],
+      "trueMaskCells": 495,
+      "trueMaskDensity": 0.825
+    },
+    {
+      "id": 84,
+      "name": "large_26x22_messy_85pct",
+      "file": "test_84_large_26x22_messy_85pct.txt",
+      "container": "26x22",
+      "mode": "messy",
+      "targetDensity": 0.85,
+      "actualDensity": 0.8514,
+      "occupiedCells": 487,
+      "totalCells": 572,
+      "itemCount": 99,
+      "categoryCount": 15,
+      "duplicateItemTypes": 21,
+      "rotatedCount": 15,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026186126,
+      "topItemIds": [
+        [
+          "cat_bar",
+          11
+        ],
+        [
+          "pink_injector",
+          8
+        ],
+        [
+          "system_module_overclock",
+          8
+        ],
+        [
+          "heavy_pistol_ammo_nl",
+          6
+        ],
+        [
+          "machine_bay",
+          6
+        ],
+        [
+          "water_ration",
+          6
+        ],
+        [
+          "powerblock",
+          6
+        ],
+        [
+          "system_capped_neural_core",
+          5
+        ]
+      ],
+      "trueMaskCells": 487,
+      "trueMaskDensity": 0.8514
+    },
+    {
+      "id": 85,
+      "name": "large_28x24_messy_73pct",
+      "file": "test_85_large_28x24_messy_73pct.txt",
+      "container": "28x24",
+      "mode": "messy",
+      "targetDensity": 0.73,
+      "actualDensity": 0.7307,
+      "occupiedCells": 491,
+      "totalCells": 672,
+      "itemCount": 152,
+      "categoryCount": 20,
+      "duplicateItemTypes": 23,
+      "rotatedCount": 33,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026187135,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          29
+        ],
+        [
+          "combat_knife",
+          7
+        ],
+        [
+          "birth_control_pill",
+          7
+        ],
+        [
+          "small_pistol_ammo_p",
+          6
+        ],
+        [
+          "sci_keycard",
+          6
+        ],
+        [
+          "toilet_paper",
+          6
+        ],
+        [
+          "portable_water_purifier",
+          6
+        ],
+        [
+          "zyanide_pill",
+          5
+        ]
+      ],
+      "trueMaskCells": 491,
+      "trueMaskDensity": 0.7307
+    },
+    {
+      "id": 86,
+      "name": "large_18x20_ordered_75pct_irregular",
+      "file": "test_86_large_18x20_ordered_75pct_irregular.txt",
+      "container": "18x20",
+      "mode": "ordered",
+      "targetDensity": 0.75,
+      "actualDensity": 0.75,
+      "occupiedCells": 270,
+      "totalCells": 360,
+      "itemCount": 71,
+      "categoryCount": 8,
+      "duplicateItemTypes": 16,
+      "rotatedCount": 14,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": true,
+      "seed": 2026188144,
+      "topItemIds": [
+        [
+          "wine_berry",
+          6
+        ],
+        [
+          "slip",
+          6
+        ],
+        [
+          "ribwich",
+          6
+        ],
+        [
+          "red_beer",
+          6
+        ],
+        [
+          "energy_credit_breeder",
+          5
+        ],
+        [
+          "sign_household",
+          4
+        ],
+        [
+          "galaxy_blend",
+          4
+        ],
+        [
+          "sec_slip",
+          4
+        ]
+      ],
+      "trueMaskCells": 270,
+      "trueMaskDensity": 0.75
+    },
+    {
+      "id": 87,
+      "name": "large_30x30_dense_75pct",
+      "file": "test_87_large_30x30_dense_75pct.txt",
+      "container": "30x30",
+      "mode": "dense",
+      "targetDensity": 0.75,
+      "actualDensity": 0.75,
+      "occupiedCells": 675,
+      "totalCells": 900,
+      "itemCount": 165,
+      "categoryCount": 17,
+      "duplicateItemTypes": 33,
+      "rotatedCount": 60,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026189153,
+      "topItemIds": [
+        [
+          "system_capped_neural_core",
+          11
+        ],
+        [
+          "turbo_booster_adv",
+          10
+        ],
+        [
+          "wine_yeast",
+          8
+        ],
+        [
+          "water_test_container",
+          8
+        ],
+        [
+          "sign_water",
+          7
+        ],
+        [
+          "processed_meat",
+          6
+        ],
+        [
+          "furnace_module_blast",
+          6
+        ],
+        [
+          "pink_injector",
+          6
+        ]
+      ],
+      "trueMaskCells": 675,
+      "trueMaskDensity": 0.75
+    },
+    {
+      "id": 88,
+      "name": "large_28x24_partial_70pct",
+      "file": "test_88_large_28x24_partial_70pct.txt",
+      "container": "28x24",
+      "mode": "partial",
+      "targetDensity": 0.7,
+      "actualDensity": 0.7009,
+      "occupiedCells": 471,
+      "totalCells": 672,
+      "itemCount": 118,
+      "categoryCount": 14,
+      "duplicateItemTypes": 20,
+      "rotatedCount": 21,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026190162,
+      "topItemIds": [
+        [
+          "galaxy_blend",
+          10
+        ],
+        [
+          "raw_meat",
+          10
+        ],
+        [
+          "processed_meat",
+          10
+        ],
+        [
+          "wine_berry",
+          9
+        ],
+        [
+          "processed_cheese",
+          9
+        ],
+        [
+          "zerochew",
+          8
+        ],
+        [
+          "system_module_performance",
+          7
+        ],
+        [
+          "pink_injector",
+          6
+        ]
+      ],
+      "trueMaskCells": 471,
+      "trueMaskDensity": 0.7009
+    },
+    {
+      "id": 89,
+      "name": "large_30x20_ordered_87pct",
+      "file": "test_89_large_30x20_ordered_87pct.txt",
+      "container": "30x20",
+      "mode": "ordered",
+      "targetDensity": 0.87,
+      "actualDensity": 0.8717,
+      "occupiedCells": 523,
+      "totalCells": 600,
+      "itemCount": 135,
+      "categoryCount": 15,
+      "duplicateItemTypes": 22,
+      "rotatedCount": 32,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026191171,
+      "topItemIds": [
+        [
+          "energy_credit",
+          25
+        ],
+        [
+          "system_capped_neural_core",
+          18
+        ],
+        [
+          "common_electronic",
+          13
+        ],
+        [
+          "system_module_performance",
+          13
+        ],
+        [
+          "water_ration",
+          7
+        ],
+        [
+          "energy_credit_breeder",
+          6
+        ],
+        [
+          "fridge",
+          5
+        ],
+        [
+          "metal_ingot",
+          5
+        ]
+      ],
+      "trueMaskCells": 523,
+      "trueMaskDensity": 0.8717
+    },
+    {
+      "id": 90,
+      "name": "large_28x24_partial_74pct",
+      "file": "test_90_large_28x24_partial_74pct.txt",
+      "container": "28x24",
+      "mode": "partial",
+      "targetDensity": 0.74,
+      "actualDensity": 0.7426,
+      "occupiedCells": 499,
+      "totalCells": 672,
+      "itemCount": 119,
+      "categoryCount": 6,
+      "duplicateItemTypes": 17,
+      "rotatedCount": 51,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026192180,
+      "topItemIds": [
+        [
+          "bottled_water",
+          14
+        ],
+        [
+          "portable_water_purifier",
+          12
+        ],
+        [
+          "blood_bag",
+          12
+        ],
+        [
+          "large_purple_injector",
+          9
+        ],
+        [
+          "wine_yeast",
+          9
+        ],
+        [
+          "wine_bottle",
+          7
+        ],
+        [
+          "large_bottled_water",
+          7
+        ],
+        [
+          "skincare_cream",
+          6
+        ]
+      ],
+      "trueMaskCells": 499,
+      "trueMaskDensity": 0.7426
+    },
+    {
+      "id": 91,
+      "name": "large_30x30_dense_86pct",
+      "file": "test_91_large_30x30_dense_86pct.txt",
+      "container": "30x30",
+      "mode": "dense",
+      "targetDensity": 0.86,
+      "actualDensity": 0.86,
+      "occupiedCells": 774,
+      "totalCells": 900,
+      "itemCount": 167,
+      "categoryCount": 22,
+      "duplicateItemTypes": 37,
+      "rotatedCount": 27,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026193189,
+      "topItemIds": [
+        [
+          "powerblock",
+          11
+        ],
+        [
+          "fridge",
+          8
+        ],
+        [
+          "smuggler_bay",
+          8
+        ],
+        [
+          "machine_bay",
+          7
+        ],
+        [
+          "flux_agent",
+          6
+        ],
+        [
+          "energy_credit",
+          6
+        ],
+        [
+          "pheromone_perfume",
+          6
+        ],
+        [
+          "wine_yeast",
+          6
+        ]
+      ],
+      "trueMaskCells": 774,
+      "trueMaskDensity": 0.86
+    },
+    {
+      "id": 92,
+      "name": "large_30x20_messy_78pct",
+      "file": "test_92_large_30x20_messy_78pct.txt",
+      "container": "30x20",
+      "mode": "messy",
+      "targetDensity": 0.78,
+      "actualDensity": 0.7833,
+      "occupiedCells": 470,
+      "totalCells": 600,
+      "itemCount": 113,
+      "categoryCount": 19,
+      "duplicateItemTypes": 18,
+      "rotatedCount": 29,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026194198,
+      "topItemIds": [
+        [
+          "combat_knife",
+          21
+        ],
+        [
+          "heavy_pistol_ammo_nl",
+          15
+        ],
+        [
+          "bottled_water",
+          6
+        ],
+        [
+          "water_ration",
+          5
+        ],
+        [
+          "galaxy_blend",
+          5
+        ],
+        [
+          "li_eat_snackbar",
+          5
+        ],
+        [
+          "processed_meat",
+          5
+        ],
+        [
+          "wire",
+          4
+        ]
+      ],
+      "trueMaskCells": 470,
+      "trueMaskDensity": 0.7833
+    },
+    {
+      "id": 93,
+      "name": "large_20x20_partial_92pct",
+      "file": "test_93_large_20x20_partial_92pct.txt",
+      "container": "20x20",
+      "mode": "partial",
+      "targetDensity": 0.92,
+      "actualDensity": 0.9225,
+      "occupiedCells": 369,
+      "totalCells": 400,
+      "itemCount": 76,
+      "categoryCount": 12,
+      "duplicateItemTypes": 17,
+      "rotatedCount": 20,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026195207,
+      "topItemIds": [
+        [
+          "crypto_module_med",
+          9
+        ],
+        [
+          "black_lamp",
+          7
+        ],
+        [
+          "test_gizmo",
+          6
+        ],
+        [
+          "sign_household",
+          6
+        ],
+        [
+          "common_ore",
+          5
+        ],
+        [
+          "water_pitcher",
+          4
+        ],
+        [
+          "animal_cage",
+          4
+        ],
+        [
+          "sci_keycard",
+          4
+        ]
+      ],
+      "trueMaskCells": 369,
+      "trueMaskDensity": 0.9225
+    },
+    {
+      "id": 94,
+      "name": "large_24x20_ordered_70pct_fixed",
+      "file": "test_94_large_24x20_ordered_70pct_fixed.txt",
+      "container": "24x20",
+      "mode": "ordered",
+      "targetDensity": 0.7,
+      "actualDensity": 0.7021,
+      "occupiedCells": 337,
+      "totalCells": 480,
+      "itemCount": 91,
+      "categoryCount": 16,
+      "duplicateItemTypes": 20,
+      "rotatedCount": 29,
+      "fixedCount": 8,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026196216,
+      "topItemIds": [
+        [
+          "blood_bag",
+          9
+        ],
+        [
+          "nutrifruit",
+          6
+        ],
+        [
+          "water_tablet_container",
+          5
+        ],
+        [
+          "screwdriver",
+          5
+        ],
+        [
+          "crypto_module_cmd",
+          4
+        ],
+        [
+          "raw_meat",
+          4
+        ],
+        [
+          "powerblock",
+          4
+        ],
+        [
+          "crypto_module_med",
+          4
+        ]
+      ],
+      "trueMaskCells": 337,
+      "trueMaskDensity": 0.7021
+    },
+    {
+      "id": 95,
+      "name": "large_30x30_messy_93pct",
+      "file": "test_95_large_30x30_messy_93pct.txt",
+      "container": "30x30",
+      "mode": "messy",
+      "targetDensity": 0.93,
+      "actualDensity": 0.9311,
+      "occupiedCells": 838,
+      "totalCells": 900,
+      "itemCount": 266,
+      "categoryCount": 18,
+      "duplicateItemTypes": 33,
+      "rotatedCount": 59,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026197225,
+      "topItemIds": [
+        [
+          "morsel",
+          25
+        ],
+        [
+          "galaxy_blend",
+          24
+        ],
+        [
+          "zerochew",
+          22
+        ],
+        [
+          "wine_berry",
+          21
+        ],
+        [
+          "processed_meat",
+          17
+        ],
+        [
+          "small_raw_meat",
+          15
+        ],
+        [
+          "processed_cheese",
+          15
+        ],
+        [
+          "energy_credit",
+          11
+        ]
+      ],
+      "trueMaskCells": 838,
+      "trueMaskDensity": 0.9311
+    },
+    {
+      "id": 96,
+      "name": "large_24x24_partial_74pct_fixed",
+      "file": "test_96_large_24x24_partial_74pct_fixed.txt",
+      "container": "24x24",
+      "mode": "partial",
+      "targetDensity": 0.74,
+      "actualDensity": 0.7413,
+      "occupiedCells": 427,
+      "totalCells": 576,
+      "itemCount": 111,
+      "categoryCount": 12,
+      "duplicateItemTypes": 21,
+      "rotatedCount": 30,
+      "fixedCount": 9,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026198234,
+      "topItemIds": [
+        [
+          "common_electronic",
+          8
+        ],
+        [
+          "energy_credit_breeder",
+          7
+        ],
+        [
+          "scrap_metal",
+          7
+        ],
+        [
+          "cassette5l",
+          6
+        ],
+        [
+          "system_capped_neural_core",
+          6
+        ],
+        [
+          "furnace_module_blast",
+          6
+        ],
+        [
+          "zyanide_pill",
+          5
+        ],
+        [
+          "energy_credit",
+          5
+        ]
+      ],
+      "trueMaskCells": 427,
+      "trueMaskDensity": 0.7413
+    },
+    {
+      "id": 97,
+      "name": "large_20x18_partial_84pct",
+      "file": "test_97_large_20x18_partial_84pct.txt",
+      "container": "20x18",
+      "mode": "partial",
+      "targetDensity": 0.84,
+      "actualDensity": 0.8417,
+      "occupiedCells": 303,
+      "totalCells": 360,
+      "itemCount": 74,
+      "categoryCount": 8,
+      "duplicateItemTypes": 12,
+      "rotatedCount": 29,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026199243,
+      "topItemIds": [
+        [
+          "water_tablet_container",
+          11
+        ],
+        [
+          "rubbing_alcohol",
+          8
+        ],
+        [
+          "wine_yeast",
+          8
+        ],
+        [
+          "small_pistol_ammo_p",
+          6
+        ],
+        [
+          "wine_bottle",
+          6
+        ],
+        [
+          "blood_bag",
+          6
+        ],
+        [
+          "large_bottled_water",
+          5
+        ],
+        [
+          "skincare_cream",
+          3
+        ]
+      ],
+      "trueMaskCells": 303,
+      "trueMaskDensity": 0.8417
+    },
+    {
+      "id": 98,
+      "name": "large_20x20_dense_84pct",
+      "file": "test_98_large_20x20_dense_84pct.txt",
+      "container": "20x20",
+      "mode": "dense",
+      "targetDensity": 0.84,
+      "actualDensity": 0.84,
+      "occupiedCells": 336,
+      "totalCells": 400,
+      "itemCount": 64,
+      "categoryCount": 9,
+      "duplicateItemTypes": 11,
+      "rotatedCount": 15,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026200252,
+      "topItemIds": [
+        [
+          "system_module_overclock",
+          11
+        ],
+        [
+          "powerblock",
+          10
+        ],
+        [
+          "rubbing_alcohol",
+          7
+        ],
+        [
+          "system_capped_neural_core",
+          4
+        ],
+        [
+          "energy_credit_breeder",
+          4
+        ],
+        [
+          "machine_bay",
+          4
+        ],
+        [
+          "small_pistol_ammo",
+          4
+        ],
+        [
+          "water_test_container",
+          3
+        ]
+      ],
+      "trueMaskCells": 336,
+      "trueMaskDensity": 0.84
+    },
+    {
+      "id": 99,
+      "name": "large_30x30_messy_72pct_fixed",
+      "file": "test_99_large_30x30_messy_72pct_fixed.txt",
+      "container": "30x30",
+      "mode": "messy",
+      "targetDensity": 0.72,
+      "actualDensity": 0.72,
+      "occupiedCells": 648,
+      "totalCells": 900,
+      "itemCount": 138,
+      "categoryCount": 18,
+      "duplicateItemTypes": 23,
+      "rotatedCount": 35,
+      "fixedCount": 11,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026201261,
+      "topItemIds": [
+        [
+          "heavy_pistol_ammo_nl",
+          16
+        ],
+        [
+          "portable_water_purifier",
+          11
+        ],
+        [
+          "labeler",
+          9
+        ],
+        [
+          "kitchen_knife",
+          6
+        ],
+        [
+          "energy_credit_breeder",
+          6
+        ],
+        [
+          "wine_book",
+          6
+        ],
+        [
+          "sec_keycard",
+          6
+        ],
+        [
+          "tazer",
+          6
+        ]
+      ],
+      "trueMaskCells": 648,
+      "trueMaskDensity": 0.72
+    },
+    {
+      "id": 100,
+      "name": "large_32x24_messy_94pct",
+      "file": "test_100_large_32x24_messy_94pct.txt",
+      "container": "32x24",
+      "mode": "messy",
+      "targetDensity": 0.94,
+      "actualDensity": 0.9401,
+      "occupiedCells": 722,
+      "totalCells": 768,
+      "itemCount": 196,
+      "categoryCount": 16,
+      "duplicateItemTypes": 29,
+      "rotatedCount": 49,
+      "fixedCount": 0,
+      "usesIrregularMaskHoles": false,
+      "seed": 2026202270,
+      "topItemIds": [
+        [
+          "sign_water",
+          20
+        ],
+        [
+          "crypto_module_cmd",
+          14
+        ],
+        [
+          "magnifier",
+          13
+        ],
+        [
+          "slip",
+          13
+        ],
+        [
+          "sec_keycard",
+          13
+        ],
+        [
+          "small_pistol_ammo",
+          12
+        ],
+        [
+          "wine_book",
+          10
+        ],
+        [
+          "crypto_module_med",
+          7
+        ]
+      ],
+      "trueMaskCells": 722,
+      "trueMaskDensity": 0.9401
+    }
+  ]
+}

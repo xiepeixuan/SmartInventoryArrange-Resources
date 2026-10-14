@@ -1,0 +1,28 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:54.829
+Outcome: test-set
+TestSetId: 24
+Scenario: edge_container_machine_first
+LayoutMode: ordered
+TargetDensity: 0.760
+ActualDensity: 0.767
+RandomSeed: 2026125517
+ContainerSize: 20x12
+[001] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (0,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[002] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (2,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[003] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (4,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[004] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (6,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[005] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (8,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[006] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (10,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[007] Name: water_ration | ItemId: water_ration | Coordinate: (12,0) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[008] Name: water_ration | ItemId: water_ration | Coordinate: (14,0) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[009] Name: water_ration | ItemId: water_ration | Coordinate: (16,0) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[010] Name: water_ration | ItemId: water_ration | Coordinate: (18,0) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[011] Name: service_box | ItemId: service_box | Coordinate: (0,2) | Size: 4x6 | Type: SUPPLY_CRATE | Orientation: 1
+[012] Name: service_box | ItemId: service_box | Coordinate: (4,2) | Size: 4x6 | Type: SUPPLY_CRATE | Orientation: 1
+[013] Name: service_box | ItemId: service_box | Coordinate: (8,2) | Size: 4x6 | Type: SUPPLY_CRATE | Orientation: 1
+[014] Name: service_box | ItemId: service_box | Coordinate: (12,2) | Size: 4x6 | Type: SUPPLY_CRATE | Orientation: 1
+[015] Name: water_jug | ItemId: water_jug | Coordinate: (16,2) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[016] Name: water_jug | ItemId: water_jug | Coordinate: (16,6) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[017] Name: machine_bay_ext | ItemId: machine_bay_ext | Coordinate: (0,8) | Size: 4x4 | Type: STORAGE | Orientation: 0
+========== Result End ==========

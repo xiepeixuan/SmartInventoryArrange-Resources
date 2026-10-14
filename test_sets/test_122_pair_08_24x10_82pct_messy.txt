@@ -1,0 +1,50 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:17.796
+Outcome: test-set
+TestSetId: 122
+PairGroup: pair_08_24x10_82pct
+Scenario: paired_messy
+LayoutMode: messy
+TargetDensity: 0.820
+RandomSeed: 20261016472
+ContainerSize: 24x10
+[001] Name: black_injector | ItemId: black_injector | Coordinate: (0,0) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[002] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (1,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[003] Name: black_injector | ItemId: black_injector | Coordinate: (2,0) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[004] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (3,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[005] Name: raw_meat | ItemId: raw_meat | Coordinate: (4,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[006] Name: morsel | ItemId: morsel | Coordinate: (6,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[007] Name: raw_meat | ItemId: raw_meat | Coordinate: (7,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[008] Name: raw_meat | ItemId: raw_meat | Coordinate: (9,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[009] Name: raw_meat | ItemId: raw_meat | Coordinate: (11,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[010] Name: wine_book | ItemId: wine_book | Coordinate: (13,0) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[011] Name: raw_meat | ItemId: raw_meat | Coordinate: (15,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[012] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (17,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[013] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (19,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[014] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (20,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[015] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (22,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[016] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (20,2) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[017] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (22,2) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[018] Name: box_tampon | ItemId: box_tampon | Coordinate: (4,3) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[019] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (7,3) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[020] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (9,3) | Size: 1x4 | Type: MODULE | Orientation: 0
+[021] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (10,3) | Size: 1x4 | Type: MODULE | Orientation: 0
+[022] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (11,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[023] Name: raw_meat | ItemId: raw_meat | Coordinate: (13,3) | Size: 2x3 | Type: FOOD | Orientation: 1
+[024] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (15,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[025] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (17,3) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[026] Name: combat_knife | ItemId: combat_knife | Coordinate: (0,4) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[027] Name: combat_knife | ItemId: combat_knife | Coordinate: (1,4) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[028] Name: combat_knife | ItemId: combat_knife | Coordinate: (2,4) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[029] Name: combat_knife | ItemId: combat_knife | Coordinate: (3,4) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[030] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (20,4) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[031] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (22,4) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[032] Name: morsel | ItemId: morsel | Coordinate: (7,5) | Size: 2x1 | Type: FOOD | Orientation: 0
+[033] Name: magnifier | ItemId: magnifier | Coordinate: (17,5) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[034] Name: box_tampon | ItemId: box_tampon | Coordinate: (4,6) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[035] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (11,6) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[036] Name: box_tampon | ItemId: box_tampon | Coordinate: (14,6) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[037] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (20,6) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[038] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (22,6) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[039] Name: combat_knife | ItemId: combat_knife | Coordinate: (0,9) | Size: 5x1 | Type: WEAPON | Orientation: 0
+========== Result End ==========

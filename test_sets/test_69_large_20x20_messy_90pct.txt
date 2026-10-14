@@ -1,0 +1,107 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:53.404
+Outcome: test-set
+TestSetId: 69
+Scenario: large_20x20_messy_90pct
+LayoutMode: messy
+TargetDensity: 0.900
+ActualDensity: 0.900
+RandomSeed: 2026170991
+ContainerSize: 20x20
+[001] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,0) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[002] Name: magnifier | ItemId: magnifier | Coordinate: (3,0) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[003] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (6,0) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[004] Name: common_electronic | ItemId: common_electronic | Coordinate: (9,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[005] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (11,0) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[006] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (12,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[007] Name: common_electronic | ItemId: common_electronic | Coordinate: (14,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[008] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (16,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[009] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (17,0) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[010] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (19,0) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[011] Name: water_test_container | ItemId: water_test_container | Coordinate: (7,1) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[012] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (17,1) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[013] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (0,2) | Size: 1x4 | Type: MODULE | Orientation: 0
+[014] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (1,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[015] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (6,2) | Size: 1x1 | Type: POISON | Orientation: 0
+[016] Name: raw_meat | ItemId: raw_meat | Coordinate: (11,2) | Size: 2x3 | Type: FOOD | Orientation: 1
+[017] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (3,3) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[018] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (4,3) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[019] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (8,3) | Size: 1x1 | Type: POISON | Orientation: 0
+[020] Name: powerblock | ItemId: powerblock | Coordinate: (9,3) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[021] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (13,3) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[022] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (14,3) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[023] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (17,3) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[024] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (18,3) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[025] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (4,4) | Size: 4x1 | Type: MODULE | Orientation: 1
+[026] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (1,5) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[027] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (2,5) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[028] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (6,5) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[029] Name: powerblock | ItemId: powerblock | Coordinate: (11,5) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[030] Name: water_test_container | ItemId: water_test_container | Coordinate: (14,5) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[031] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (16,5) | Size: 1x1 | Type: POISON | Orientation: 0
+[032] Name: bottled_water | ItemId: bottled_water | Coordinate: (2,6) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[033] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (6,6) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[034] Name: blood_bag | ItemId: blood_bag | Coordinate: (8,6) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[035] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (14,6) | Size: 4x1 | Type: ALARM_MODULE | Orientation: 1
+[036] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (3,7) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[037] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (4,7) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[038] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (5,7) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[039] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (6,7) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[040] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (12,7) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[041] Name: water_test_container | ItemId: water_test_container | Coordinate: (13,7) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[042] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (16,7) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[043] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (0,8) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[044] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (2,8) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[045] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (8,8) | Size: 4x1 | Type: ALARM_MODULE | Orientation: 1
+[046] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (13,8) | Size: 4x1 | Type: ALARM_MODULE | Orientation: 1
+[047] Name: box_tampon | ItemId: box_tampon | Coordinate: (17,8) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[048] Name: fanta_pill | ItemId: fanta_pill | Coordinate: (1,9) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[049] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (6,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[050] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (8,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[051] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (11,9) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[052] Name: common_electronic | ItemId: common_electronic | Coordinate: (13,9) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[053] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (16,9) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[054] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (2,10) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[055] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (10,10) | Size: 1x1 | Type: POISON | Orientation: 0
+[056] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (5,11) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[057] Name: box_tampon | ItemId: box_tampon | Coordinate: (8,11) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[058] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (15,11) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[059] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (0,12) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[060] Name: common_ore | ItemId: common_ore | Coordinate: (4,12) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[061] Name: med_bottle_red | ItemId: med_bottle_red | Coordinate: (7,12) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[062] Name: common_electronic | ItemId: common_electronic | Coordinate: (13,12) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[063] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (16,12) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[064] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (19,12) | Size: 1x4 | Type: MODULE | Orientation: 0
+[065] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (11,13) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[066] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (17,13) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[067] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (0,14) | Size: 3x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[068] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (3,14) | Size: 1x1 | Type: POISON | Orientation: 0
+[069] Name: water_test_container | ItemId: water_test_container | Coordinate: (5,14) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[070] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (7,14) | Size: 2x2 | Type: MODULE | Orientation: 0
+[071] Name: bottled_water | ItemId: bottled_water | Coordinate: (10,14) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[072] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (11,14) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[073] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (13,14) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[074] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (3,15) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[075] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (4,15) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[076] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (13,15) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[077] Name: box_tampon | ItemId: box_tampon | Coordinate: (14,15) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[078] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (17,15) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[079] Name: powerblock | ItemId: powerblock | Coordinate: (6,16) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[080] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (8,16) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[081] Name: red_beer | ItemId: red_beer | Coordinate: (9,16) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[082] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (11,16) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[083] Name: powerblock | ItemId: powerblock | Coordinate: (17,16) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[084] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (19,16) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[085] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (11,17) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[086] Name: med_bottle_red | ItemId: med_bottle_red | Coordinate: (12,17) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[087] Name: water_test_container | ItemId: water_test_container | Coordinate: (0,18) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[088] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (2,18) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[089] Name: common_electronic | ItemId: common_electronic | Coordinate: (5,18) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[090] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (12,18) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[091] Name: powerblock | ItemId: powerblock | Coordinate: (14,18) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[092] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (16,18) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[093] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (18,18) | Size: 1x1 | Type: POISON | Orientation: 0
+[094] Name: water_test_container | ItemId: water_test_container | Coordinate: (0,19) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[095] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (3,19) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[096] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (10,19) | Size: 1x1 | Type: POISON | Orientation: 0
+========== Result End ==========

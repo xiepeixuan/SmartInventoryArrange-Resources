@@ -1,0 +1,48 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:54.720
+Outcome: test-set
+TestSetId: 23
+Scenario: edge_tall_bottles
+LayoutMode: ordered
+TargetDensity: 0.780
+ActualDensity: 0.782
+RandomSeed: 2026124508
+ContainerSize: 18x12
+[001] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[002] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (1,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[003] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (3,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[004] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (5,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[005] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (7,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[006] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (9,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[007] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (11,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[008] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (13,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[009] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (14,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[010] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (15,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[011] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (16,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[012] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (17,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[013] Name: nudka | ItemId: nudka | Coordinate: (0,2) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[014] Name: nudka | ItemId: nudka | Coordinate: (2,2) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[015] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (4,2) | Size: 2x2 | Type: MODULE | Orientation: 0
+[016] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (6,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[017] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (8,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[018] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (10,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[019] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (12,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[020] Name: cassette1d | ItemId: cassette1d | Coordinate: (4,4) | Size: 2x2 | Type: ART | Orientation: 0
+[021] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (12,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[022] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (13,4) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[023] Name: energy_credit | ItemId: energy_credit | Coordinate: (17,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[024] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (6,5) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[025] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (9,5) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[026] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (10,5) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[027] Name: box_tampon | ItemId: box_tampon | Coordinate: (13,5) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[028] Name: energy_credit | ItemId: energy_credit | Coordinate: (16,5) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[029] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (0,6) | Size: 1x4 | Type: MODULE | Orientation: 0
+[030] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (1,6) | Size: 1x4 | Type: MODULE | Orientation: 0
+[031] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (10,6) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[032] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (12,6) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[033] Name: water_test_container | ItemId: water_test_container | Coordinate: (5,7) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[034] Name: water_jug | ItemId: water_jug | Coordinate: (6,7) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[035] Name: energy_credit | ItemId: energy_credit | Coordinate: (10,7) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[036] Name: box_tampon | ItemId: box_tampon | Coordinate: (10,8) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[037] Name: box_tampon | ItemId: box_tampon | Coordinate: (13,8) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+========== Result End ==========

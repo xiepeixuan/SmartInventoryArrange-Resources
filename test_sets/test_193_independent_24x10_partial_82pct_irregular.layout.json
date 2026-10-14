@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_193_independent_24x10_partial_82pct_irregular.txt",
+  "output": "D:\\resources\\test_sets\\test_193_independent_24x10_partial_82pct_irregular.layout.png",
+  "containerSize": "24x10",
+  "outcome": "test-set",
+  "itemCount": 46,
+  "missingSprites": [],
+  "cellPixels": 32
+}

@@ -1,0 +1,95 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:33.414
+Outcome: test-set
+TestSetId: 182
+Scenario: independent_20x20_dense_98pct_irregular
+LayoutMode: dense
+TargetDensity: 0.980
+ActualDensity: 0.980
+RandomSeed: 20261196838
+ContainerSize: 20x20
+[001] Name: wire | ItemId: wire | Coordinate: (0,0) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[002] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (2,0) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[003] Name: rare_electronic | ItemId: rare_electronic | Coordinate: (6,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[004] Name: rare_electronic | ItemId: rare_electronic | Coordinate: (8,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[005] Name: red_beer | ItemId: red_beer | Coordinate: (10,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[006] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (11,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[007] Name: combat_knife | ItemId: combat_knife | Coordinate: (12,0) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[008] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (13,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[009] Name: common_ore | ItemId: common_ore | Coordinate: (15,0) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[010] Name: common_electronic | ItemId: common_electronic | Coordinate: (18,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[011] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (2,1) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[012] Name: node_medium | ItemId: node_medium | Coordinate: (11,1) | Size: 1x2 | Type: NODE | Orientation: 0
+[013] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (0,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[014] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (1,2) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[015] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (2,2) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[016] Name: sign_water | ItemId: sign_water | Coordinate: (13,2) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[017] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (16,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[018] Name: zerochew | ItemId: zerochew | Coordinate: (17,2) | Size: 1x1 | Type: FOOD | Orientation: 0
+[019] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (0,3) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[020] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (2,3) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[021] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (6,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[022] Name: processed_meat | ItemId: processed_meat | Coordinate: (8,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[023] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (11,3) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[024] Name: common_electronic | ItemId: common_electronic | Coordinate: (17,3) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[025] Name: bottled_water | ItemId: bottled_water | Coordinate: (2,4) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[026] Name: processed_meat | ItemId: processed_meat | Coordinate: (10,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[027] Name: stun_gun | ItemId: stun_gun | Coordinate: (12,4) | Size: 4x3 | Type: WEAPON | Orientation: 2
+[028] Name: bottled_water | ItemId: bottled_water | Coordinate: (2,5) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[029] Name: processed_meat | ItemId: processed_meat | Coordinate: (6,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[030] Name: processed_meat | ItemId: processed_meat | Coordinate: (8,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[031] Name: common_electronic | ItemId: common_electronic | Coordinate: (17,5) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[032] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (1,6) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[033] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (2,6) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[034] Name: raw_meat | ItemId: raw_meat | Coordinate: (10,6) | Size: 2x3 | Type: FOOD | Orientation: 1
+[035] Name: dream_cap | ItemId: dream_cap | Coordinate: (0,7) | Size: 1x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[036] Name: nudka | ItemId: nudka | Coordinate: (6,7) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[037] Name: raw_meat | ItemId: raw_meat | Coordinate: (8,7) | Size: 2x3 | Type: FOOD | Orientation: 1
+[038] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (12,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[039] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (14,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[040] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (16,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[041] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (18,7) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[042] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (0,9) | Size: 2x2 | Type: MODULE | Orientation: 2
+[043] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (2,9) | Size: 2x2 | Type: MODULE | Orientation: 0
+[044] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (4,9) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[045] Name: raw_meat | ItemId: raw_meat | Coordinate: (10,9) | Size: 2x3 | Type: FOOD | Orientation: 1
+[046] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (12,9) | Size: 2x2 | Type: MODULE | Orientation: 0
+[047] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (14,9) | Size: 2x2 | Type: MODULE | Orientation: 0
+[048] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (16,9) | Size: 2x2 | Type: MODULE | Orientation: 0
+[049] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (18,9) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[050] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (4,10) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[051] Name: raw_meat | ItemId: raw_meat | Coordinate: (8,10) | Size: 2x3 | Type: FOOD | Orientation: 1
+[052] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (18,10) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[053] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (0,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[054] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (3,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[055] Name: blood_bag | ItemId: blood_bag | Coordinate: (6,11) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[056] Name: stun_gun | ItemId: stun_gun | Coordinate: (10,11) | Size: 4x3 | Type: WEAPON | Orientation: 2
+[057] Name: stun_gun | ItemId: stun_gun | Coordinate: (14,11) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[058] Name: system_module_overclock | ItemId: system_module_overclock | Coordinate: (16,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[059] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (18,11) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[060] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (18,12) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[061] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (8,13) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[062] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (17,13) | Size: 2x2 | Type: MODULE | Orientation: 0
+[063] Name: combat_knife | ItemId: combat_knife | Coordinate: (19,13) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[064] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (0,14) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[065] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (3,14) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[066] Name: stun_gun | ItemId: stun_gun | Coordinate: (5,14) | Size: 3x4 | Type: WEAPON | Orientation: 1
+[067] Name: stun_gun | ItemId: stun_gun | Coordinate: (7,14) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[068] Name: stun_gun | ItemId: stun_gun | Coordinate: (10,14) | Size: 4x3 | Type: WEAPON | Orientation: 0
+[069] Name: tazer | ItemId: tazer | Coordinate: (14,15) | Size: 2x3 | Type: WEAPON | Orientation: 0
+[070] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (16,15) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[071] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (17,15) | Size: 2x2 | Type: MODULE | Orientation: 0
+[072] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (3,16) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[073] Name: stun_gun | ItemId: stun_gun | Coordinate: (10,16) | Size: 4x3 | Type: WEAPON | Orientation: 2
+[074] Name: raw_meat | ItemId: raw_meat | Coordinate: (0,17) | Size: 3x2 | Type: FOOD | Orientation: 0
+[075] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (17,17) | Size: 2x2 | Type: MODULE | Orientation: 0
+[076] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (5,18) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[077] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (9,18) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[078] Name: hemostatic_bandage_item | ItemId: hemostatic_bandage_item | Coordinate: (14,18) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[079] Name: zerochew | ItemId: zerochew | Coordinate: (0,19) | Size: 1x1 | Type: FOOD | Orientation: 0
+[080] Name: zerochew | ItemId: zerochew | Coordinate: (1,19) | Size: 1x1 | Type: FOOD | Orientation: 0
+[081] Name: zerochew | ItemId: zerochew | Coordinate: (2,19) | Size: 1x1 | Type: FOOD | Orientation: 0
+[082] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (5,19) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[083] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (9,19) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[084] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (13,19) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+========== Result End ==========

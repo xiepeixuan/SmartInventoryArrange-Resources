@@ -1,0 +1,102 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:15.314
+Outcome: test-set
+TestSetId: 108
+PairGroup: pair_03_24x24_65pct
+Scenario: paired_partial
+LayoutMode: partial
+TargetDensity: 0.650
+RandomSeed: 20261014427
+ContainerSize: 24x24
+[001] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (0,0) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[002] Name: cassette1d | ItemId: cassette1d | Coordinate: (1,0) | Size: 2x2 | Type: ART | Orientation: 0
+[003] Name: cassette1d | ItemId: cassette1d | Coordinate: (3,0) | Size: 2x2 | Type: ART | Orientation: 0
+[004] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (5,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[005] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (7,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[006] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (9,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[007] Name: cassette1d | ItemId: cassette1d | Coordinate: (11,0) | Size: 2x2 | Type: ART | Orientation: 0
+[008] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (13,0) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[009] Name: energy_credit | ItemId: energy_credit | Coordinate: (14,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[010] Name: energy_credit | ItemId: energy_credit | Coordinate: (15,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[011] Name: energy_credit | ItemId: energy_credit | Coordinate: (16,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[012] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (17,0) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[013] Name: energy_credit | ItemId: energy_credit | Coordinate: (18,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[014] Name: cassette1d | ItemId: cassette1d | Coordinate: (19,0) | Size: 2x2 | Type: ART | Orientation: 0
+[015] Name: cassette1d | ItemId: cassette1d | Coordinate: (21,0) | Size: 2x2 | Type: ART | Orientation: 0
+[016] Name: energy_credit | ItemId: energy_credit | Coordinate: (23,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[017] Name: storage_bay_gun | ItemId: storage_bay_gun | Coordinate: (0,2) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[018] Name: storage_bay_gun | ItemId: storage_bay_gun | Coordinate: (3,2) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[019] Name: storage_bay_gun | ItemId: storage_bay_gun | Coordinate: (6,2) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[020] Name: storage_bay_gun | ItemId: storage_bay_gun | Coordinate: (9,2) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[021] Name: storage_bay_gun | ItemId: storage_bay_gun | Coordinate: (12,2) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[022] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (15,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[023] Name: wire | ItemId: wire | Coordinate: (17,2) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[024] Name: wine_berry | ItemId: wine_berry | Coordinate: (19,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[025] Name: wire | ItemId: wire | Coordinate: (21,2) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[026] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (23,2) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[027] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (15,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[028] Name: wire | ItemId: wire | Coordinate: (17,4) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[029] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (19,4) | Size: 2x2 | Type: MODULE | Orientation: 0
+[030] Name: energy_credit | ItemId: energy_credit | Coordinate: (21,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[031] Name: alarm_module_transmitter | ItemId: alarm_module_transmitter | Coordinate: (22,4) | Size: 1x4 | Type: ALARM_MODULE | Orientation: 0
+[032] Name: wine_book | ItemId: wine_book | Coordinate: (0,5) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[033] Name: common_ore | ItemId: common_ore | Coordinate: (2,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[034] Name: wine_book | ItemId: wine_book | Coordinate: (4,5) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[035] Name: common_ore | ItemId: common_ore | Coordinate: (6,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[036] Name: common_ore | ItemId: common_ore | Coordinate: (8,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[037] Name: common_ore | ItemId: common_ore | Coordinate: (10,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[038] Name: wire | ItemId: wire | Coordinate: (12,5) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[039] Name: cigarette_color | ItemId: cigarette_color | Coordinate: (14,5) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[040] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (14,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[041] Name: cigarette_color | ItemId: cigarette_color | Coordinate: (16,6) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[042] Name: wire | ItemId: wire | Coordinate: (17,6) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[043] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (19,6) | Size: 2x2 | Type: MODULE | Orientation: 0
+[044] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (21,6) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[045] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (23,6) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[046] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (12,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[047] Name: cigarette_color | ItemId: cigarette_color | Coordinate: (16,7) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[048] Name: cigarette_color | ItemId: cigarette_color | Coordinate: (0,8) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[049] Name: cigarette_color | ItemId: cigarette_color | Coordinate: (1,8) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[050] Name: wine_book | ItemId: wine_book | Coordinate: (3,8) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[051] Name: common_ore | ItemId: common_ore | Coordinate: (6,8) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[052] Name: common_ore | ItemId: common_ore | Coordinate: (9,8) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[053] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (15,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[054] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (17,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[055] Name: cassette1d | ItemId: cassette1d | Coordinate: (19,8) | Size: 2x2 | Type: ART | Orientation: 0
+[056] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (21,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[057] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (22,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[058] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (23,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[059] Name: backpack_small | ItemId: backpack_small | Coordinate: (0,9) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[060] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (3,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[061] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (5,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[062] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (7,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[063] Name: wire | ItemId: wire | Coordinate: (9,10) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[064] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (11,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[065] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (13,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[066] Name: system_module_performance | ItemId: system_module_performance | Coordinate: (15,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[067] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (17,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[068] Name: wire | ItemId: wire | Coordinate: (19,10) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[069] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (21,10) | Size: 2x2 | Type: MODULE | Orientation: 0
+[070] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (23,10) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[071] Name: backpack_small | ItemId: backpack_small | Coordinate: (3,12) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[072] Name: common_ore | ItemId: common_ore | Coordinate: (6,12) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[073] Name: common_ore | ItemId: common_ore | Coordinate: (8,12) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[074] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (11,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[075] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (13,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[076] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (15,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[077] Name: wire | ItemId: wire | Coordinate: (17,12) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[078] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (19,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[079] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (21,12) | Size: 2x2 | Type: MODULE | Orientation: 0
+[080] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (23,12) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[081] Name: backpack_small | ItemId: backpack_small | Coordinate: (0,13) | Size: 3x4 | Type: ~unknown | Orientation: 0
+[082] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (11,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[083] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (13,14) | Size: 2x2 | Type: MODULE | Orientation: 0
+[084] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (17,14) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[085] Name: energy_credit | ItemId: energy_credit | Coordinate: (18,14) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[086] Name: energy_credit | ItemId: energy_credit | Coordinate: (19,14) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[087] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (20,14) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[088] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (21,14) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[089] Name: energy_credit | ItemId: energy_credit | Coordinate: (22,14) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[090] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (6,15) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[091] Name: energy_credit | ItemId: energy_credit | Coordinate: (22,15) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+========== Result End ==========

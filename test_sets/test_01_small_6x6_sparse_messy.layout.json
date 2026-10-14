@@ -1,0 +1,9 @@
+{
+  "sourceLog": "D:\\resources\\test_sets\\test_01_small_6x6_sparse_messy.txt",
+  "output": "D:\\resources\\test_sets\\test_01_small_6x6_sparse_messy.layout.png",
+  "containerSize": "6x6",
+  "outcome": "test-set",
+  "itemCount": 2,
+  "missingSprites": [],
+  "cellPixels": 32
+}

@@ -1,0 +1,114 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:40.597
+Outcome: test-set
+TestSetId: 48
+Scenario: large_24x20_dense_80pct_irregular
+LayoutMode: dense
+TargetDensity: 0.800
+ActualDensity: 0.800
+RandomSeed: 2026149802
+ContainerSize: 24x20
+[001] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (0,0) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[002] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (1,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[003] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (3,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[004] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (5,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[005] Name: common_ore | ItemId: common_ore | Coordinate: (7,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[006] Name: common_ore | ItemId: common_ore | Coordinate: (9,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[007] Name: common_ore | ItemId: common_ore | Coordinate: (11,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[008] Name: screwdriver | ItemId: screwdriver | Coordinate: (13,0) | Size: 3x1 | Type: TOOL | Orientation: 1
+[009] Name: cat_bar | ItemId: cat_bar | Coordinate: (16,0) | Size: 2x2 | Type: TREAT | Orientation: 0
+[010] Name: cat_bar | ItemId: cat_bar | Coordinate: (18,0) | Size: 2x2 | Type: TREAT | Orientation: 0
+[011] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (20,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[012] Name: intel_sec | ItemId: intel_sec | Coordinate: (22,0) | Size: 2x3 | Type: DOCUMENT | Orientation: 1
+[013] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (13,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[014] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (1,2) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[015] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (3,2) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[016] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (5,2) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[017] Name: slip | ItemId: slip | Coordinate: (0,3) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[018] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (7,3) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[019] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (11,3) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[020] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (12,3) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[021] Name: paper_towel | ItemId: paper_towel | Coordinate: (13,3) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: paper_towel | ItemId: paper_towel | Coordinate: (15,3) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[023] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (17,3) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[024] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (19,3) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[025] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (20,3) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[026] Name: intel_sec | ItemId: intel_sec | Coordinate: (21,3) | Size: 3x2 | Type: DOCUMENT | Orientation: 0
+[027] Name: tazer | ItemId: tazer | Coordinate: (0,4) | Size: 2x3 | Type: WEAPON | Orientation: 0
+[028] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (2,4) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[029] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (4,4) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[030] Name: med_bottle_small_pink | ItemId: med_bottle_small_pink | Coordinate: (6,4) | Size: 1x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[031] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (17,4) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[032] Name: dream_dust | ItemId: dream_dust | Coordinate: (2,5) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[033] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (3,5) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[034] Name: water_test_container | ItemId: water_test_container | Coordinate: (7,5) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[035] Name: box_tampon | ItemId: box_tampon | Coordinate: (9,5) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[036] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (17,5) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[037] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (19,5) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[038] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (20,5) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[039] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (21,5) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[040] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (2,6) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[041] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (4,6) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[042] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (5,6) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[043] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (6,6) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[044] Name: aquascan | ItemId: aquascan | Coordinate: (7,6) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[045] Name: paper_towel | ItemId: paper_towel | Coordinate: (12,6) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[046] Name: paper_towel | ItemId: paper_towel | Coordinate: (15,6) | Size: 2x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[047] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (17,6) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[048] Name: combat_knife | ItemId: combat_knife | Coordinate: (0,7) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[049] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (1,7) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[050] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (2,7) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[051] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (17,7) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[052] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (19,7) | Size: 3x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[053] Name: phagimycin_pill | ItemId: phagimycin_pill | Coordinate: (1,8) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[054] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (2,8) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[055] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (4,8) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[056] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (6,8) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[057] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (9,8) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[058] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (13,8) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[059] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (17,8) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[060] Name: combat_knife | ItemId: combat_knife | Coordinate: (1,9) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[061] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (2,9) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[062] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (4,9) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[063] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (7,9) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[064] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (8,9) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[065] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (9,9) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[066] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (10,9) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[067] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (15,9) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[068] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (17,9) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[069] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (18,9) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[070] Name: combat_knife | ItemId: combat_knife | Coordinate: (2,10) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[071] Name: combat_knife | ItemId: combat_knife | Coordinate: (3,10) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[072] Name: combat_knife | ItemId: combat_knife | Coordinate: (4,10) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[073] Name: combat_knife | ItemId: combat_knife | Coordinate: (5,10) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[074] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (6,10) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[075] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (10,10) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[076] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (13,10) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[077] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (15,10) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[078] Name: dream_dust | ItemId: dream_dust | Coordinate: (6,11) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[079] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (10,11) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[080] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (13,11) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[081] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (17,11) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[082] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (18,11) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[083] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (19,11) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[084] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (20,11) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[085] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (21,11) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[086] Name: dream_dust | ItemId: dream_dust | Coordinate: (6,12) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[087] Name: bottled_water | ItemId: bottled_water | Coordinate: (7,12) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[088] Name: water_test_container | ItemId: water_test_container | Coordinate: (11,12) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[089] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (13,12) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[090] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (7,13) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[091] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (9,13) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[092] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (11,13) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[093] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (13,13) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[094] Name: cat_bar | ItemId: cat_bar | Coordinate: (0,14) | Size: 2x2 | Type: TREAT | Orientation: 0
+[095] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (13,14) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[096] Name: cat_bar | ItemId: cat_bar | Coordinate: (2,15) | Size: 2x2 | Type: TREAT | Orientation: 0
+[097] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (7,15) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[098] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (9,15) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[099] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (13,15) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[100] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (17,15) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[101] Name: cat_bar | ItemId: cat_bar | Coordinate: (0,16) | Size: 2x2 | Type: TREAT | Orientation: 0
+[102] Name: cat_bar | ItemId: cat_bar | Coordinate: (2,17) | Size: 2x2 | Type: TREAT | Orientation: 0
+[103] Name: water_test_container | ItemId: water_test_container | Coordinate: (7,17) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+========== Result End ==========

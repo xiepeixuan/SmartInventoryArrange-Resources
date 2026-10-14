@@ -1,0 +1,107 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:22.089
+Outcome: test-set
+TestSetId: 143
+PairGroup: pair_15_24x20_91pct
+Scenario: paired_messy
+LayoutMode: messy
+TargetDensity: 0.910
+RandomSeed: 20261019335
+ContainerSize: 24x20
+[001] Name: bottled_water | ItemId: bottled_water | Coordinate: (0,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[002] Name: bottled_water | ItemId: bottled_water | Coordinate: (1,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[003] Name: pink_alt_injector | ItemId: pink_alt_injector | Coordinate: (2,0) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[004] Name: red_beer | ItemId: red_beer | Coordinate: (3,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[005] Name: bottled_water | ItemId: bottled_water | Coordinate: (4,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[006] Name: bottled_water | ItemId: bottled_water | Coordinate: (5,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[007] Name: cassette2l | ItemId: cassette2l | Coordinate: (6,0) | Size: 2x2 | Type: ART | Orientation: 0
+[008] Name: dream_dust | ItemId: dream_dust | Coordinate: (8,0) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[009] Name: slip | ItemId: slip | Coordinate: (9,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[010] Name: slip | ItemId: slip | Coordinate: (10,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[011] Name: slip | ItemId: slip | Coordinate: (11,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[012] Name: slip | ItemId: slip | Coordinate: (12,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[013] Name: slip | ItemId: slip | Coordinate: (13,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[014] Name: dream_cap | ItemId: dream_cap | Coordinate: (14,0) | Size: 1x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[015] Name: dream_cap | ItemId: dream_cap | Coordinate: (15,0) | Size: 1x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[016] Name: water_test_container | ItemId: water_test_container | Coordinate: (16,0) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[017] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (17,0) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[018] Name: cassette2l | ItemId: cassette2l | Coordinate: (19,0) | Size: 2x2 | Type: ART | Orientation: 0
+[019] Name: food_stamp | ItemId: food_stamp | Coordinate: (21,0) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[020] Name: bottled_water | ItemId: bottled_water | Coordinate: (23,0) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[021] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (8,1) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[022] Name: cassette2l | ItemId: cassette2l | Coordinate: (9,1) | Size: 2x2 | Type: ART | Orientation: 0
+[023] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (11,1) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[024] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (13,1) | Size: 1x3 | Type: TREAT | Orientation: 1
+[025] Name: cassette2l | ItemId: cassette2l | Coordinate: (6,2) | Size: 2x2 | Type: ART | Orientation: 0
+[026] Name: black_lamp | ItemId: black_lamp | Coordinate: (14,2) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[027] Name: sci_keycard | ItemId: sci_keycard | Coordinate: (17,2) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[028] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (19,2) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[029] Name: food_stamp | ItemId: food_stamp | Coordinate: (21,2) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[030] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (9,3) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[031] Name: food_stamp | ItemId: food_stamp | Coordinate: (11,3) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[032] Name: water_jug | ItemId: water_jug | Coordinate: (0,4) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[033] Name: labeler_blue | ItemId: labeler_blue | Coordinate: (4,4) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[034] Name: raw_meat | ItemId: raw_meat | Coordinate: (6,4) | Size: 2x3 | Type: FOOD | Orientation: 1
+[035] Name: raw_meat | ItemId: raw_meat | Coordinate: (13,4) | Size: 2x3 | Type: FOOD | Orientation: 1
+[036] Name: black_lamp | ItemId: black_lamp | Coordinate: (15,4) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[037] Name: raw_meat | ItemId: raw_meat | Coordinate: (17,4) | Size: 2x3 | Type: FOOD | Orientation: 1
+[038] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (19,4) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[039] Name: pink_alt_injector | ItemId: pink_alt_injector | Coordinate: (20,4) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[040] Name: water_test_container | ItemId: water_test_container | Coordinate: (8,5) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[041] Name: processed_meat | ItemId: processed_meat | Coordinate: (9,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[042] Name: food_stamp | ItemId: food_stamp | Coordinate: (11,5) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[043] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (20,5) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[044] Name: pink_alt_injector | ItemId: pink_alt_injector | Coordinate: (20,6) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[045] Name: common_chemical | ItemId: common_chemical | Coordinate: (4,7) | Size: 3x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[046] Name: labeler_blue | ItemId: labeler_blue | Coordinate: (7,7) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[047] Name: raw_meat | ItemId: raw_meat | Coordinate: (9,7) | Size: 3x2 | Type: FOOD | Orientation: 0
+[048] Name: labeler | ItemId: labeler | Coordinate: (12,7) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[049] Name: labeler | ItemId: labeler | Coordinate: (14,7) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[050] Name: raw_meat | ItemId: raw_meat | Coordinate: (16,7) | Size: 3x2 | Type: FOOD | Orientation: 0
+[051] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (20,7) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[052] Name: pink_alt_injector | ItemId: pink_alt_injector | Coordinate: (0,8) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[053] Name: raw_meat | ItemId: raw_meat | Coordinate: (19,8) | Size: 2x3 | Type: FOOD | Orientation: 1
+[054] Name: slip | ItemId: slip | Coordinate: (21,8) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[055] Name: bottled_water | ItemId: bottled_water | Coordinate: (23,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[056] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (0,9) | Size: 1x3 | Type: TREAT | Orientation: 1
+[057] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (1,9) | Size: 1x3 | Type: TREAT | Orientation: 1
+[058] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (2,9) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[059] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (3,9) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[060] Name: cassette2l | ItemId: cassette2l | Coordinate: (5,9) | Size: 2x2 | Type: ART | Orientation: 0
+[061] Name: labeler | ItemId: labeler | Coordinate: (9,9) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[062] Name: common_electronic | ItemId: common_electronic | Coordinate: (16,9) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[063] Name: labeler | ItemId: labeler | Coordinate: (21,9) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[064] Name: food_stamp | ItemId: food_stamp | Coordinate: (7,10) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[065] Name: nudka | ItemId: nudka | Coordinate: (12,10) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[066] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (14,10) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[067] Name: processed_meat | ItemId: processed_meat | Coordinate: (3,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[068] Name: cassette2l | ItemId: cassette2l | Coordinate: (5,11) | Size: 2x2 | Type: ART | Orientation: 0
+[069] Name: dream_cap | ItemId: dream_cap | Coordinate: (9,11) | Size: 1x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[070] Name: nudka | ItemId: nudka | Coordinate: (10,11) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[071] Name: black_lamp | ItemId: black_lamp | Coordinate: (16,11) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[072] Name: black_lamp | ItemId: black_lamp | Coordinate: (19,11) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[073] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (0,12) | Size: 1x3 | Type: TREAT | Orientation: 1
+[074] Name: raw_meat | ItemId: raw_meat | Coordinate: (1,12) | Size: 2x3 | Type: FOOD | Orientation: 1
+[075] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (7,12) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[076] Name: processed_meat | ItemId: processed_meat | Coordinate: (14,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[077] Name: common_electronic | ItemId: common_electronic | Coordinate: (21,12) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[078] Name: pink_alt_injector | ItemId: pink_alt_injector | Coordinate: (23,12) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[079] Name: wine_book | ItemId: wine_book | Coordinate: (3,13) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[080] Name: water_test_container | ItemId: water_test_container | Coordinate: (5,13) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[081] Name: labeler | ItemId: labeler | Coordinate: (16,13) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[082] Name: nudka | ItemId: nudka | Coordinate: (6,14) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[083] Name: nudka | ItemId: nudka | Coordinate: (8,14) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[084] Name: nudka | ItemId: nudka | Coordinate: (12,14) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[085] Name: food_stamp | ItemId: food_stamp | Coordinate: (14,14) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[086] Name: labeler | ItemId: labeler | Coordinate: (0,15) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[087] Name: nudka | ItemId: nudka | Coordinate: (10,15) | Size: 2x4 | Type: ALCOHOL | Orientation: 0
+[088] Name: common_electronic | ItemId: common_electronic | Coordinate: (16,15) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[089] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (19,15) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[090] Name: raw_meat | ItemId: raw_meat | Coordinate: (3,16) | Size: 2x3 | Type: FOOD | Orientation: 1
+[091] Name: common_electronic | ItemId: common_electronic | Coordinate: (14,16) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[092] Name: bottled_water | ItemId: bottled_water | Coordinate: (19,16) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[093] Name: raw_meat | ItemId: raw_meat | Coordinate: (0,17) | Size: 3x2 | Type: FOOD | Orientation: 0
+[094] Name: pink_alt_injector | ItemId: pink_alt_injector | Coordinate: (19,17) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[095] Name: raw_meat | ItemId: raw_meat | Coordinate: (5,18) | Size: 3x2 | Type: FOOD | Orientation: 0
+[096] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (19,18) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+========== Result End ==========

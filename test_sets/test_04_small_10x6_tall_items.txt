@@ -1,0 +1,19 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.233
+Outcome: test-set
+TestSetId: 04
+Scenario: small_10x6_tall_items
+LayoutMode: messy
+TargetDensity: 0.700
+ActualDensity: 0.717
+RandomSeed: 2026105337
+ContainerSize: 10x6
+[001] Name: printed_gun | ItemId: printed_gun | Coordinate: (2,0) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[002] Name: printed_gun | ItemId: printed_gun | Coordinate: (5,0) | Size: 3x4 | Type: WEAPON | Orientation: 3
+[003] Name: bloomberry_seed | ItemId: bloomberry_seed | Coordinate: (8,1) | Size: 1x1 | Type: SEED | Orientation: 0
+[004] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (1,2) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[005] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (9,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[006] Name: nudka | ItemId: nudka | Coordinate: (2,4) | Size: 4x2 | Type: ALCOHOL | Orientation: 1
+[007] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (7,4) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[008] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (8,4) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+========== Result End ==========

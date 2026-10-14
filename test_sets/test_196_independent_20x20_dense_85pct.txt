@@ -1,0 +1,96 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:38.267
+Outcome: test-set
+TestSetId: 196
+Scenario: independent_20x20_dense_85pct
+LayoutMode: dense
+TargetDensity: 0.850
+ActualDensity: 0.850
+RandomSeed: 20261210964
+ContainerSize: 20x20
+[001] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (0,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[002] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (1,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[003] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (2,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[004] Name: processed_meat | ItemId: processed_meat | Coordinate: (3,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[005] Name: raw_meat | ItemId: raw_meat | Coordinate: (5,0) | Size: 3x2 | Type: FOOD | Orientation: 0
+[006] Name: pink_injector | ItemId: pink_injector | Coordinate: (8,0) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[007] Name: storage_bay_large | ItemId: storage_bay_large | Coordinate: (9,0) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[008] Name: storage_bay_large | ItemId: storage_bay_large | Coordinate: (12,0) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[009] Name: storage_bay_large | ItemId: storage_bay_large | Coordinate: (15,0) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[010] Name: water_ration | ItemId: water_ration | Coordinate: (18,0) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[011] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (0,1) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[012] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (1,1) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[013] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (2,1) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[014] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (0,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[015] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (1,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[016] Name: screwdriver | ItemId: screwdriver | Coordinate: (2,2) | Size: 3x1 | Type: TOOL | Orientation: 1
+[017] Name: zerochew | ItemId: zerochew | Coordinate: (5,2) | Size: 1x1 | Type: FOOD | Orientation: 0
+[018] Name: raw_meat | ItemId: raw_meat | Coordinate: (6,2) | Size: 2x3 | Type: FOOD | Orientation: 1
+[019] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (18,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[020] Name: pink_injector | ItemId: pink_injector | Coordinate: (19,2) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[021] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (0,3) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (2,3) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[023] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (4,3) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[024] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (9,3) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[025] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (11,3) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[026] Name: furnace | ItemId: furnace | Coordinate: (13,3) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[027] Name: furnace | ItemId: furnace | Coordinate: (16,3) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[028] Name: raw_meat | ItemId: raw_meat | Coordinate: (8,4) | Size: 2x3 | Type: FOOD | Orientation: 1
+[029] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (10,4) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[030] Name: zerochew | ItemId: zerochew | Coordinate: (12,4) | Size: 1x1 | Type: FOOD | Orientation: 0
+[031] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (0,5) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[032] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (2,5) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[033] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (4,5) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[034] Name: raw_meat | ItemId: raw_meat | Coordinate: (5,5) | Size: 3x2 | Type: FOOD | Orientation: 0
+[035] Name: processed_meat | ItemId: processed_meat | Coordinate: (10,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[036] Name: zerochew | ItemId: zerochew | Coordinate: (12,5) | Size: 1x1 | Type: FOOD | Orientation: 0
+[037] Name: zerochew | ItemId: zerochew | Coordinate: (12,6) | Size: 1x1 | Type: FOOD | Orientation: 0
+[038] Name: furnace | ItemId: furnace | Coordinate: (13,6) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[039] Name: furnace | ItemId: furnace | Coordinate: (16,6) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[040] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (19,6) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[041] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (0,7) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[042] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (2,7) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[043] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (4,7) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[044] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (6,7) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[045] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (8,7) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[046] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (10,7) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[047] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (12,7) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[048] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (19,7) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[049] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (19,8) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[050] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (0,9) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[051] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (2,9) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[052] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (4,9) | Size: 2x2 | Type: MODULE | Orientation: 0
+[053] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (6,9) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[054] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (10,9) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[055] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (12,9) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[056] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (14,9) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[057] Name: machine_bay_ext | ItemId: machine_bay_ext | Coordinate: (16,9) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[058] Name: water_guide | ItemId: water_guide | Coordinate: (0,11) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[059] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (3,11) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[060] Name: bottled_water | ItemId: bottled_water | Coordinate: (5,11) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[061] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (6,11) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[062] Name: wine_berry | ItemId: wine_berry | Coordinate: (0,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[063] Name: hand_guide | ItemId: hand_guide | Coordinate: (2,13) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[064] Name: slip | ItemId: slip | Coordinate: (4,13) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[065] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (6,13) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[066] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (10,13) | Size: 4x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[067] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (14,13) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[068] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (16,13) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[069] Name: zerochew | ItemId: zerochew | Coordinate: (4,14) | Size: 1x1 | Type: FOOD | Orientation: 0
+[070] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (14,14) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[071] Name: blood_bag | ItemId: blood_bag | Coordinate: (0,15) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[072] Name: raw_meat | ItemId: raw_meat | Coordinate: (4,15) | Size: 3x2 | Type: FOOD | Orientation: 0
+[073] Name: energy_drink | ItemId: energy_drink | Coordinate: (7,15) | Size: 1x2 | Type: FOOD | Orientation: 0
+[074] Name: energy_drink | ItemId: energy_drink | Coordinate: (8,15) | Size: 1x2 | Type: FOOD | Orientation: 0
+[075] Name: energy_drink | ItemId: energy_drink | Coordinate: (9,15) | Size: 1x2 | Type: FOOD | Orientation: 0
+[076] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (10,15) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[077] Name: surgery_tool | ItemId: surgery_tool | Coordinate: (2,16) | Size: 2x4 | Type: MEDICAL | Orientation: 1
+[078] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (10,16) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[079] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (11,16) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[080] Name: bandage_item | ItemId: bandage_item | Coordinate: (4,17) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[081] Name: processed_meat | ItemId: processed_meat | Coordinate: (5,17) | Size: 2x2 | Type: FOOD | Orientation: 0
+[082] Name: slip | ItemId: slip | Coordinate: (7,17) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[083] Name: slip | ItemId: slip | Coordinate: (8,17) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[084] Name: bandage_item | ItemId: bandage_item | Coordinate: (0,18) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[085] Name: bandage_item | ItemId: bandage_item | Coordinate: (0,19) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+========== Result End ==========

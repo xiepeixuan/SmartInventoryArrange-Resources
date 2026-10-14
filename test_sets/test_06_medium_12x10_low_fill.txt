@@ -1,0 +1,22 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.267
+Outcome: test-set
+TestSetId: 06
+Scenario: medium_12x10_low_fill
+LayoutMode: messy
+TargetDensity: 0.350
+ActualDensity: 0.350
+RandomSeed: 2026107355
+ContainerSize: 12x10
+[001] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (8,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[002] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (0,1) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[003] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (2,1) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[004] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (5,1) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[005] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (7,3) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[006] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (10,4) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[007] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (0,5) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[008] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (9,5) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[009] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (4,6) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[010] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (9,6) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[011] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (9,8) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+========== Result End ==========

@@ -1,0 +1,96 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:35.955
+Outcome: test-set
+TestSetId: 188
+Scenario: independent_24x20_dense_91pct
+LayoutMode: dense
+TargetDensity: 0.910
+ActualDensity: 0.912
+RandomSeed: 20261202892
+ContainerSize: 24x20
+[001] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (0,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[002] Name: magnifier | ItemId: magnifier | Coordinate: (1,0) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[003] Name: magnifier | ItemId: magnifier | Coordinate: (4,0) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[004] Name: magnifier | ItemId: magnifier | Coordinate: (7,0) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[005] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (10,0) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[006] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (12,0) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[007] Name: fanny_pack | ItemId: fanny_pack | Coordinate: (14,0) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[008] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (16,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[009] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (18,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[010] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (20,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[011] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (22,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[012] Name: rat | ItemId: rat | Coordinate: (0,1) | Size: 1x2 | Type: ~unknown | Orientation: 1
+[013] Name: red_beer | ItemId: red_beer | Coordinate: (16,2) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[014] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (17,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[015] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (18,2) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[016] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (20,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[017] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (21,2) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[018] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (23,2) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[019] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (0,3) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[020] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (2,3) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[021] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (4,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[022] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (5,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[023] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (6,3) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[024] Name: scav_token | ItemId: scav_token | Coordinate: (7,3) | Size: 2x1 | Type: ~unknown | Orientation: 1
+[025] Name: aug_scanner | ItemId: aug_scanner | Coordinate: (9,3) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[026] Name: labeler | ItemId: labeler | Coordinate: (12,3) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[027] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (15,3) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[028] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (17,3) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[029] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (20,3) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[030] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (2,4) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[031] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (7,4) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[032] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (17,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[033] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (18,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[034] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (19,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[035] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (20,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[036] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (21,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[037] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (22,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[038] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (23,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[039] Name: screwdriver | ItemId: screwdriver | Coordinate: (0,5) | Size: 3x1 | Type: TOOL | Orientation: 1
+[040] Name: water_guide | ItemId: water_guide | Coordinate: (3,5) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[041] Name: water_guide | ItemId: water_guide | Coordinate: (6,5) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[042] Name: water_guide | ItemId: water_guide | Coordinate: (8,5) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[043] Name: zyanide_pill | ItemId: zyanide_pill | Coordinate: (10,5) | Size: 1x1 | Type: POISON | Orientation: 0
+[044] Name: labeler | ItemId: labeler | Coordinate: (11,5) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[045] Name: evidence_box | ItemId: evidence_box | Coordinate: (17,5) | Size: 6x4 | Type: CONTRABAND | Orientation: 0
+[046] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (23,5) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[047] Name: storage_bay | ItemId: storage_bay | Coordinate: (0,6) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[048] Name: slip | ItemId: slip | Coordinate: (10,6) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[049] Name: evidence_box | ItemId: evidence_box | Coordinate: (13,6) | Size: 4x6 | Type: CONTRABAND | Orientation: 1
+[050] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (23,6) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[051] Name: water_guide | ItemId: water_guide | Coordinate: (3,7) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[052] Name: slip | ItemId: slip | Coordinate: (10,7) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[053] Name: water_guide | ItemId: water_guide | Coordinate: (6,8) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[054] Name: evidence_box | ItemId: evidence_box | Coordinate: (9,8) | Size: 4x6 | Type: CONTRABAND | Orientation: 1
+[055] Name: injector_guide | ItemId: injector_guide | Coordinate: (0,9) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[056] Name: injector_guide | ItemId: injector_guide | Coordinate: (2,9) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[057] Name: injector_guide | ItemId: injector_guide | Coordinate: (4,9) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[058] Name: evidence_box | ItemId: evidence_box | Coordinate: (17,9) | Size: 6x4 | Type: CONTRABAND | Orientation: 0
+[059] Name: wine_book | ItemId: wine_book | Coordinate: (6,10) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[060] Name: red_beer | ItemId: red_beer | Coordinate: (0,11) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[061] Name: newspaper | ItemId: newspaper | Coordinate: (1,11) | Size: 3x2 | Type: DOCUMENT | Orientation: 0
+[062] Name: wine_book | ItemId: wine_book | Coordinate: (4,11) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[063] Name: wine_book | ItemId: wine_book | Coordinate: (6,12) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[064] Name: evidence_box | ItemId: evidence_box | Coordinate: (13,12) | Size: 4x6 | Type: CONTRABAND | Orientation: 1
+[065] Name: red_beer | ItemId: red_beer | Coordinate: (1,13) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[066] Name: red_beer | ItemId: red_beer | Coordinate: (2,13) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[067] Name: red_beer | ItemId: red_beer | Coordinate: (3,13) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[068] Name: evidence_box | ItemId: evidence_box | Coordinate: (17,13) | Size: 6x4 | Type: CONTRABAND | Orientation: 0
+[069] Name: sign_food | ItemId: sign_food | Coordinate: (4,14) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[070] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (7,14) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[071] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (9,14) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[072] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (11,14) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[073] Name: red_beer | ItemId: red_beer | Coordinate: (0,15) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[074] Name: sign_food | ItemId: sign_food | Coordinate: (5,16) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[075] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (7,16) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[076] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (9,16) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[077] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (11,16) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[078] Name: red_beer | ItemId: red_beer | Coordinate: (1,17) | Size: 4x1 | Type: SUBSTANCE | Orientation: 1
+[079] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (17,17) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[080] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (19,17) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[081] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (21,17) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[082] Name: wine_book | ItemId: wine_book | Coordinate: (1,18) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[083] Name: sec_slip | ItemId: sec_slip | Coordinate: (4,18) | Size: 1x2 | Type: DOCUMENT | Orientation: 1
+[084] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (13,18) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[085] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (15,18) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+========== Result End ==========

@@ -1,0 +1,124 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:18:06.024
+Outcome: test-set
+TestSetId: 92
+Scenario: large_30x20_messy_78pct
+LayoutMode: messy
+TargetDensity: 0.780
+ActualDensity: 0.783
+RandomSeed: 2026194198
+ContainerSize: 30x20
+[001] Name: combat_knife | ItemId: combat_knife | Coordinate: (1,0) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[002] Name: combat_knife | ItemId: combat_knife | Coordinate: (9,0) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[003] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (14,0) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[004] Name: bottled_water | ItemId: bottled_water | Coordinate: (16,0) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[005] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (20,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[006] Name: water_ration | ItemId: water_ration | Coordinate: (21,0) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[007] Name: blood_bag | ItemId: blood_bag | Coordinate: (23,0) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[008] Name: wire | ItemId: wire | Coordinate: (26,0) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[009] Name: combat_knife | ItemId: combat_knife | Coordinate: (28,0) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[010] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (1,1) | Size: 2x2 | Type: MODULE | Orientation: 0
+[011] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (3,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[012] Name: combat_knife | ItemId: combat_knife | Coordinate: (8,1) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[013] Name: combat_knife | ItemId: combat_knife | Coordinate: (16,1) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[014] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (19,1) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[015] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (29,1) | Size: 1x3 | Type: TREAT | Orientation: 1
+[016] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,2) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[017] Name: beerCase | ItemId: beerCase | Coordinate: (6,2) | Size: 5x4 | Type: SUBSTANCE | Orientation: 0
+[018] Name: combat_knife | ItemId: combat_knife | Coordinate: (11,2) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[019] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (14,2) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[020] Name: beerCase | ItemId: beerCase | Coordinate: (18,2) | Size: 5x4 | Type: SUBSTANCE | Orientation: 0
+[021] Name: tazer | ItemId: tazer | Coordinate: (24,2) | Size: 3x2 | Type: WEAPON | Orientation: 1
+[022] Name: c4_set | ItemId: c4_set | Coordinate: (13,3) | Size: 3x3 | Type: WEAPON | Orientation: 0
+[023] Name: dream_dust | ItemId: dream_dust | Coordinate: (1,4) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[024] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (3,4) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[025] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (12,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[026] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (24,4) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[027] Name: water_ration | ItemId: water_ration | Coordinate: (26,4) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[028] Name: combat_knife | ItemId: combat_knife | Coordinate: (1,5) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[029] Name: common_chemical | ItemId: common_chemical | Coordinate: (28,5) | Size: 2x3 | Type: CHEMICAL_SUPPLIES | Orientation: 1
+[030] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (0,6) | Size: 3x1 | Type: TREAT | Orientation: 0
+[031] Name: processed_meat | ItemId: processed_meat | Coordinate: (3,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[032] Name: wire | ItemId: wire | Coordinate: (9,6) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[033] Name: combat_knife | ItemId: combat_knife | Coordinate: (13,6) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[034] Name: sec_slip | ItemId: sec_slip | Coordinate: (19,6) | Size: 2x1 | Type: DOCUMENT | Orientation: 0
+[035] Name: bottled_water | ItemId: bottled_water | Coordinate: (21,6) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[036] Name: water_ration | ItemId: water_ration | Coordinate: (25,6) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[037] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (5,7) | Size: 4x3 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[038] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (11,7) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[039] Name: cat_bar | ItemId: cat_bar | Coordinate: (13,7) | Size: 2x2 | Type: TREAT | Orientation: 0
+[040] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (16,7) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[041] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (17,7) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[042] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (18,7) | Size: 3x1 | Type: TREAT | Orientation: 0
+[043] Name: bottled_water | ItemId: bottled_water | Coordinate: (21,7) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[044] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (22,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[045] Name: magnifier | ItemId: magnifier | Coordinate: (0,8) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[046] Name: processed_meat | ItemId: processed_meat | Coordinate: (3,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[047] Name: water_ration | ItemId: water_ration | Coordinate: (11,8) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[048] Name: combat_knife | ItemId: combat_knife | Coordinate: (15,8) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[049] Name: combat_knife | ItemId: combat_knife | Coordinate: (20,8) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[050] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (24,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[051] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (27,8) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[052] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (29,8) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[053] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (14,9) | Size: 2x2 | Type: FOOD | Orientation: 0
+[054] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (16,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[055] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (18,9) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[056] Name: processed_meat | ItemId: processed_meat | Coordinate: (26,9) | Size: 2x2 | Type: FOOD | Orientation: 0
+[057] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (3,10) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[058] Name: common_chemical | ItemId: common_chemical | Coordinate: (4,10) | Size: 2x3 | Type: CHEMICAL_SUPPLIES | Orientation: 1
+[059] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (6,10) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[060] Name: combat_knife | ItemId: combat_knife | Coordinate: (9,10) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[061] Name: sec_slip | ItemId: sec_slip | Coordinate: (23,10) | Size: 2x1 | Type: DOCUMENT | Orientation: 0
+[062] Name: wire | ItemId: wire | Coordinate: (28,10) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[063] Name: combat_knife | ItemId: combat_knife | Coordinate: (0,11) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[064] Name: combat_knife | ItemId: combat_knife | Coordinate: (1,11) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[065] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (13,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[066] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (17,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[067] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (21,11) | Size: 2x2 | Type: MODULE | Orientation: 0
+[068] Name: large_bottled_water | ItemId: large_bottled_water | Coordinate: (23,11) | Size: 2x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[069] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[070] Name: bottled_water | ItemId: bottled_water | Coordinate: (7,12) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[071] Name: sec_slip | ItemId: sec_slip | Coordinate: (11,12) | Size: 2x1 | Type: DOCUMENT | Orientation: 0
+[072] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (15,12) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[073] Name: red_beer | ItemId: red_beer | Coordinate: (25,12) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[074] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (26,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[075] Name: combat_knife | ItemId: combat_knife | Coordinate: (4,13) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[076] Name: combat_knife | ItemId: combat_knife | Coordinate: (5,13) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[077] Name: turbo_booster_adv | ItemId: turbo_booster_adv | Coordinate: (6,13) | Size: 2x3 | Type: TOOL | Orientation: 1
+[078] Name: combat_knife | ItemId: combat_knife | Coordinate: (9,13) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[079] Name: wire | ItemId: wire | Coordinate: (20,13) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[080] Name: common_chemical | ItemId: common_chemical | Coordinate: (28,13) | Size: 2x3 | Type: CHEMICAL_SUPPLIES | Orientation: 1
+[081] Name: water_ration | ItemId: water_ration | Coordinate: (8,14) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[082] Name: printer_plastic | ItemId: printer_plastic | Coordinate: (12,14) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[083] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (14,14) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[084] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (16,14) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[085] Name: nightmare_dust | ItemId: nightmare_dust | Coordinate: (17,14) | Size: 1x1 | Type: POISON | Orientation: 0
+[086] Name: combat_knife | ItemId: combat_knife | Coordinate: (27,14) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[087] Name: processed_meat | ItemId: processed_meat | Coordinate: (10,15) | Size: 2x2 | Type: FOOD | Orientation: 0
+[088] Name: combat_knife | ItemId: combat_knife | Coordinate: (15,15) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[089] Name: bottled_water | ItemId: bottled_water | Coordinate: (20,15) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[090] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (0,16) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[091] Name: tazer | ItemId: tazer | Coordinate: (1,16) | Size: 3x2 | Type: WEAPON | Orientation: 1
+[092] Name: dream_dust | ItemId: dream_dust | Coordinate: (8,16) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[093] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (14,16) | Size: 1x3 | Type: TREAT | Orientation: 1
+[094] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (16,16) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[095] Name: combat_knife | ItemId: combat_knife | Coordinate: (19,16) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[096] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (26,16) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[097] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (28,16) | Size: 2x2 | Type: FOOD | Orientation: 0
+[098] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (6,17) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[099] Name: combat_knife | ItemId: combat_knife | Coordinate: (7,17) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[100] Name: system_capped_neural_core | ItemId: system_capped_neural_core | Coordinate: (12,17) | Size: 2x2 | Type: MODULE | Orientation: 0
+[101] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (15,17) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[102] Name: sec_slip | ItemId: sec_slip | Coordinate: (17,17) | Size: 1x2 | Type: DOCUMENT | Orientation: 1
+[103] Name: magnifier | ItemId: magnifier | Coordinate: (19,17) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[104] Name: bottled_water | ItemId: bottled_water | Coordinate: (23,17) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[105] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (2,18) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[106] Name: li_eat_snackbar | ItemId: li_eat_snackbar | Coordinate: (3,18) | Size: 3x1 | Type: TREAT | Orientation: 0
+[107] Name: furnace_module_junk | ItemId: furnace_module_junk | Coordinate: (7,18) | Size: 4x1 | Type: MODULE | Orientation: 1
+[108] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (15,18) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[109] Name: common_chemical | ItemId: common_chemical | Coordinate: (22,18) | Size: 3x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[110] Name: cat_bar | ItemId: cat_bar | Coordinate: (25,18) | Size: 2x2 | Type: TREAT | Orientation: 0
+[111] Name: combat_knife | ItemId: combat_knife | Coordinate: (5,19) | Size: 5x1 | Type: WEAPON | Orientation: 0
+[112] Name: furnace_module_junk | ItemId: furnace_module_junk | Coordinate: (11,19) | Size: 4x1 | Type: MODULE | Orientation: 1
+[113] Name: slip | ItemId: slip | Coordinate: (18,19) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+========== Result End ==========

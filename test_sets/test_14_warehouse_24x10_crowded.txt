@@ -1,0 +1,68 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.840
+Outcome: test-set
+TestSetId: 14
+Scenario: warehouse_24x10_crowded
+LayoutMode: messy
+TargetDensity: 0.880
+ActualDensity: 0.883
+RandomSeed: 2026115427
+ContainerSize: 24x10
+[001] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[002] Name: energy_credit | ItemId: energy_credit | Coordinate: (3,0) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[003] Name: system_module_eco | ItemId: system_module_eco | Coordinate: (5,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[004] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (9,0) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[005] Name: magnifier | ItemId: magnifier | Coordinate: (12,0) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[006] Name: system_module_eco | ItemId: system_module_eco | Coordinate: (17,0) | Size: 2x2 | Type: MODULE | Orientation: 0
+[007] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (19,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[008] Name: magnifier | ItemId: magnifier | Coordinate: (21,0) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[009] Name: magnifier | ItemId: magnifier | Coordinate: (2,1) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[010] Name: dream_dust | ItemId: dream_dust | Coordinate: (7,1) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[011] Name: magnifier | ItemId: magnifier | Coordinate: (9,1) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[012] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (15,1) | Size: 2x2 | Type: MODULE | Orientation: 0
+[013] Name: common_electronic | ItemId: common_electronic | Coordinate: (5,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[014] Name: pheromone_perfume | ItemId: pheromone_perfume | Coordinate: (7,2) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[015] Name: dream_dust | ItemId: dream_dust | Coordinate: (17,2) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[016] Name: cassette2d | ItemId: cassette2d | Coordinate: (18,2) | Size: 2x2 | Type: ART | Orientation: 0
+[017] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (20,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[018] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[019] Name: water_tablet | ItemId: water_tablet | Coordinate: (12,3) | Size: 1x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[020] Name: cassette2d | ItemId: cassette2d | Coordinate: (15,3) | Size: 2x2 | Type: ART | Orientation: 0
+[021] Name: water_tablet | ItemId: water_tablet | Coordinate: (17,3) | Size: 1x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: common_electronic | ItemId: common_electronic | Coordinate: (21,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[023] Name: raw_meat | ItemId: raw_meat | Coordinate: (2,4) | Size: 3x2 | Type: FOOD | Orientation: 0
+[024] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (7,4) | Size: 2x2 | Type: MODULE | Orientation: 2
+[025] Name: common_electronic | ItemId: common_electronic | Coordinate: (9,4) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[026] Name: raw_meat | ItemId: raw_meat | Coordinate: (11,4) | Size: 3x2 | Type: FOOD | Orientation: 0
+[027] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (17,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[028] Name: dream_dust | ItemId: dream_dust | Coordinate: (5,5) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[029] Name: water_tablet | ItemId: water_tablet | Coordinate: (6,5) | Size: 1x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[030] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (15,5) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[031] Name: dream_dust | ItemId: dream_dust | Coordinate: (16,5) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[032] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (17,5) | Size: 2x2 | Type: MODULE | Orientation: 2
+[033] Name: system_module_eco | ItemId: system_module_eco | Coordinate: (19,5) | Size: 2x2 | Type: MODULE | Orientation: 0
+[034] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (0,6) | Size: 3x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[035] Name: common_chemical | ItemId: common_chemical | Coordinate: (3,6) | Size: 3x2 | Type: CHEMICAL_SUPPLIES | Orientation: 0
+[036] Name: raw_meat | ItemId: raw_meat | Coordinate: (6,6) | Size: 3x2 | Type: FOOD | Orientation: 0
+[037] Name: magnifier | ItemId: magnifier | Coordinate: (13,6) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[038] Name: water_tablet | ItemId: water_tablet | Coordinate: (16,6) | Size: 1x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[039] Name: water_tablet | ItemId: water_tablet | Coordinate: (21,6) | Size: 1x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[040] Name: cassette2d | ItemId: cassette2d | Coordinate: (22,6) | Size: 2x2 | Type: ART | Orientation: 0
+[041] Name: raw_meat | ItemId: raw_meat | Coordinate: (9,7) | Size: 2x3 | Type: FOOD | Orientation: 1
+[042] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (11,7) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[043] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (12,7) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[044] Name: cassette2d | ItemId: cassette2d | Coordinate: (16,7) | Size: 2x2 | Type: ART | Orientation: 0
+[045] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (18,7) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[046] Name: system_module_ruined | ItemId: system_module_ruined | Coordinate: (20,7) | Size: 2x2 | Type: MODULE | Orientation: 0
+[047] Name: dream_dust | ItemId: dream_dust | Coordinate: (3,8) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[048] Name: cassette2d | ItemId: cassette2d | Coordinate: (4,8) | Size: 2x2 | Type: ART | Orientation: 0
+[049] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (7,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[050] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (11,8) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[051] Name: system_module_eco | ItemId: system_module_eco | Coordinate: (18,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[052] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (22,8) | Size: 2x2 | Type: MODULE | Orientation: 0
+[053] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (3,9) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[054] Name: energy_credit | ItemId: energy_credit | Coordinate: (11,9) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[055] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (13,9) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[056] Name: water_tablet | ItemId: water_tablet | Coordinate: (17,9) | Size: 1x1 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[057] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (21,9) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+========== Result End ==========

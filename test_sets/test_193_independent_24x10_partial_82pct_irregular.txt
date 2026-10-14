@@ -1,0 +1,57 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:37.743
+Outcome: test-set
+TestSetId: 193
+Scenario: independent_24x10_partial_82pct_irregular
+LayoutMode: partial
+TargetDensity: 0.820
+ActualDensity: 0.821
+RandomSeed: 20261207937
+ContainerSize: 24x10
+[001] Name: labeler | ItemId: labeler | Coordinate: (2,0) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[002] Name: slip | ItemId: slip | Coordinate: (4,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[003] Name: labeler | ItemId: labeler | Coordinate: (7,0) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[004] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (10,0) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[005] Name: slip | ItemId: slip | Coordinate: (13,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[006] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (14,0) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[007] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (16,0) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[008] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (18,0) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[009] Name: slip | ItemId: slip | Coordinate: (20,0) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[010] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (21,0) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[011] Name: slip | ItemId: slip | Coordinate: (1,1) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[012] Name: labeler | ItemId: labeler | Coordinate: (4,1) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[013] Name: slip | ItemId: slip | Coordinate: (0,2) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[014] Name: water_test_container | ItemId: water_test_container | Coordinate: (8,2) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[015] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (12,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[016] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (14,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[017] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (16,2) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[018] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (17,2) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[019] Name: powerblock | ItemId: powerblock | Coordinate: (20,2) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[020] Name: labeler | ItemId: labeler | Coordinate: (0,3) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[021] Name: test_gizmo | ItemId: test_gizmo | Coordinate: (3,3) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[022] Name: labeler | ItemId: labeler | Coordinate: (5,3) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[023] Name: pink_injector | ItemId: pink_injector | Coordinate: (8,3) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[024] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (23,3) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[025] Name: recharger | ItemId: recharger | Coordinate: (9,4) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[026] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (13,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[027] Name: recharger | ItemId: recharger | Coordinate: (16,4) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[028] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (20,4) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[029] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (21,4) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[030] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (0,5) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[031] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (2,5) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[032] Name: labeler | ItemId: labeler | Coordinate: (4,5) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[033] Name: red_beer | ItemId: red_beer | Coordinate: (7,5) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[034] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (23,5) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[035] Name: pink_injector | ItemId: pink_injector | Coordinate: (9,6) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[036] Name: recharger | ItemId: recharger | Coordinate: (13,6) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[037] Name: sec_box | ItemId: sec_box | Coordinate: (15,6) | Size: 6x4 | Type: CONTRABAND | Orientation: 0
+[038] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (21,6) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[039] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,7) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[040] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (1,7) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[041] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (2,7) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[042] Name: fridge | ItemId: fridge | Coordinate: (3,7) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[043] Name: portable_water_purifier | ItemId: portable_water_purifier | Coordinate: (9,7) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[044] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (23,7) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[045] Name: skincare_cream | ItemId: skincare_cream | Coordinate: (11,8) | Size: 2x2 | Type: LUXURY_ITEM | Orientation: 0
+[046] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (22,8) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+========== Result End ==========

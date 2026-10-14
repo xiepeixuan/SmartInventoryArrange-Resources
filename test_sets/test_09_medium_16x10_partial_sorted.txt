@@ -1,0 +1,39 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.405
+Outcome: test-set
+TestSetId: 09
+Scenario: medium_16x10_partial_sorted
+LayoutMode: partial
+TargetDensity: 0.750
+ActualDensity: 0.756
+RandomSeed: 2026110382
+ContainerSize: 16x10
+[001] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (4,0) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[002] Name: wine_book | ItemId: wine_book | Coordinate: (6,0) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[003] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (9,0) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[004] Name: zerochew | ItemId: zerochew | Coordinate: (12,0) | Size: 1x1 | Type: FOOD | Orientation: 0
+[005] Name: wine_book | ItemId: wine_book | Coordinate: (13,0) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[006] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (0,1) | Size: 2x2 | Type: MODULE | Orientation: 0
+[007] Name: tazer | ItemId: tazer | Coordinate: (2,1) | Size: 2x3 | Type: WEAPON | Orientation: 0
+[008] Name: common_electronic | ItemId: common_electronic | Coordinate: (4,1) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[009] Name: morsel | ItemId: morsel | Coordinate: (9,1) | Size: 1x2 | Type: FOOD | Orientation: 1
+[010] Name: combat_knife | ItemId: combat_knife | Coordinate: (15,1) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[011] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (10,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[012] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (1,3) | Size: 1x4 | Type: MEDICAL | Orientation: 1
+[013] Name: water_test_container | ItemId: water_test_container | Coordinate: (6,3) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[014] Name: wine_book | ItemId: wine_book | Coordinate: (8,3) | Size: 2x3 | Type: DOCUMENT | Orientation: 0
+[015] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (12,3) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[016] Name: combat_knife | ItemId: combat_knife | Coordinate: (14,3) | Size: 1x5 | Type: WEAPON | Orientation: 1
+[017] Name: pink_injector | ItemId: pink_injector | Coordinate: (2,4) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[018] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (7,4) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[019] Name: wine_book | ItemId: wine_book | Coordinate: (2,5) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[020] Name: wine_book | ItemId: wine_book | Coordinate: (5,5) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[021] Name: common_electronic | ItemId: common_electronic | Coordinate: (11,5) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[022] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (0,6) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[023] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (2,7) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[024] Name: wine_book | ItemId: wine_book | Coordinate: (4,7) | Size: 3x2 | Type: DOCUMENT | Orientation: 1
+[025] Name: tazer | ItemId: tazer | Coordinate: (9,7) | Size: 2x3 | Type: WEAPON | Orientation: 0
+[026] Name: common_electronic | ItemId: common_electronic | Coordinate: (11,7) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[027] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,8) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[028] Name: blood_bag | ItemId: blood_bag | Coordinate: (13,8) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+========== Result End ==========

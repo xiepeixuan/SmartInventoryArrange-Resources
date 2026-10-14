@@ -1,0 +1,68 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:55.406
+Outcome: test-set
+TestSetId: 28
+Scenario: edge_fixed_obstacles
+LayoutMode: partial
+TargetDensity: 0.760
+ActualDensity: 0.766
+RandomSeed: 2026129553
+ContainerSize: 24x16
+[001] Name: raw_meat | ItemId: raw_meat | Coordinate: (1,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[002] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (3,0) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[003] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (4,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[004] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (6,0) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[005] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (8,0) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[006] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (13,0) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[007] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (20,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[008] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (21,0) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[009] Name: c4 | ItemId: c4 | Coordinate: (9,1) | Size: 3x3 | Type: WEAPON | Orientation: 0
+[010] Name: system_module_corrupt | ItemId: system_module_corrupt | Coordinate: (12,1) | Size: 2x2 | Type: MODULE | Orientation: 0
+[011] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (14,1) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[012] Name: cat_bar | ItemId: cat_bar | Coordinate: (16,1) | Size: 2x2 | Type: TREAT | Orientation: 0
+[013] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (18,1) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[014] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (19,1) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[015] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (23,1) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[016] Name: raw_meat | ItemId: raw_meat | Coordinate: (3,2) | Size: 3x2 | Type: FOOD | Orientation: 0
+[017] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (6,2) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[018] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (8,2) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[019] Name: heavy_pistol_ammo_nl | ItemId: heavy_pistol_ammo_nl | Coordinate: (19,2) | Size: 1x1 | Type: AMMUNITION | Orientation: 0
+[020] Name: cassette2d | ItemId: cassette2d | Coordinate: (20,2) | Size: 2x2 | Type: ART | Orientation: 0
+[021] Name: cat_bar | ItemId: cat_bar | Coordinate: (22,2) | Size: 2x2 | Type: TREAT | Orientation: 0
+[022] Name: c4 | ItemId: c4 | Coordinate: (0,3) | Size: 3x3 | Type: WEAPON | Orientation: 0
+[023] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (8,3) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[024] Name: large_purple_injector | ItemId: large_purple_injector | Coordinate: (12,3) | Size: 4x1 | Type: MEDICAL | Orientation: 0
+[025] Name: c4 | ItemId: c4 | Coordinate: (17,3) | Size: 3x3 | Type: WEAPON | Orientation: 0
+[026] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (3,4) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[027] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (5,4) | Size: 4x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[028] Name: shotgun | ItemId: shotgun | Coordinate: (10,4) | Size: 7x3 | Type: WEAPON | Orientation: 2 | Status: fixed
+[029] Name: cat_bar | ItemId: cat_bar | Coordinate: (20,4) | Size: 2x2 | Type: TREAT | Orientation: 0
+[030] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (4,5) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[031] Name: screwdriver | ItemId: screwdriver | Coordinate: (5,5) | Size: 1x3 | Type: TOOL | Orientation: 0
+[032] Name: aquascan | ItemId: aquascan | Coordinate: (6,5) | Size: 3x2 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[033] Name: pink_injector | ItemId: pink_injector | Coordinate: (22,5) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[034] Name: small_pistol_ammo_p | ItemId: small_pistol_ammo_p | Coordinate: (0,6) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[035] Name: magnifier | ItemId: magnifier | Coordinate: (1,6) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[036] Name: magnifier | ItemId: magnifier | Coordinate: (19,6) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[037] Name: water_test_container | ItemId: water_test_container | Coordinate: (7,7) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[038] Name: labeler | ItemId: labeler | Coordinate: (16,7) | Size: 3x2 | Type: ~unknown | Orientation: 1 | Status: fixed
+[039] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (5,8) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[040] Name: bottled_water_premium | ItemId: bottled_water_premium | Coordinate: (7,8) | Size: 4x1 | Type: LUXURY_ITEM | Orientation: 1 | Status: fixed
+[041] Name: magnifier | ItemId: magnifier | Coordinate: (13,8) | Size: 3x3 | Type: ~unknown | Orientation: 0
+[042] Name: water_ration | ItemId: water_ration | Coordinate: (0,9) | Size: 2x2 | Type: WATER_RATION | Orientation: 0
+[043] Name: water_test_container | ItemId: water_test_container | Coordinate: (3,9) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[044] Name: cat_bar | ItemId: cat_bar | Coordinate: (8,9) | Size: 2x2 | Type: TREAT | Orientation: 0
+[045] Name: smg | ItemId: smg | Coordinate: (16,9) | Size: 3x7 | Type: CONTRABAND | Orientation: 1
+[046] Name: shotgun | ItemId: shotgun | Coordinate: (21,9) | Size: 3x7 | Type: WEAPON | Orientation: 1
+[047] Name: tazer | ItemId: tazer | Coordinate: (10,10) | Size: 3x2 | Type: WEAPON | Orientation: 1
+[048] Name: processed_meat | ItemId: processed_meat | Coordinate: (19,10) | Size: 2x2 | Type: FOOD | Orientation: 0 | Status: fixed
+[049] Name: tazer | ItemId: tazer | Coordinate: (3,11) | Size: 3x2 | Type: WEAPON | Orientation: 1
+[050] Name: c4 | ItemId: c4 | Coordinate: (6,11) | Size: 3x3 | Type: WEAPON | Orientation: 0
+[051] Name: tazer | ItemId: tazer | Coordinate: (9,12) | Size: 2x3 | Type: WEAPON | Orientation: 0 | Status: fixed
+[052] Name: tazer | ItemId: tazer | Coordinate: (12,12) | Size: 3x2 | Type: WEAPON | Orientation: 1
+[053] Name: raw_meat | ItemId: raw_meat | Coordinate: (1,13) | Size: 2x3 | Type: FOOD | Orientation: 1 | Status: fixed
+[054] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (3,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[055] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (19,13) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[056] Name: cat_bar | ItemId: cat_bar | Coordinate: (7,14) | Size: 2x2 | Type: TREAT | Orientation: 0
+[057] Name: cat_bar | ItemId: cat_bar | Coordinate: (13,14) | Size: 2x2 | Type: TREAT | Orientation: 0
+========== Result End ==========

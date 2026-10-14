@@ -1,0 +1,32 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.290
+Outcome: test-set
+TestSetId: 07
+Scenario: medium_14x10_food_drink
+LayoutMode: partial
+TargetDensity: 0.550
+ActualDensity: 0.564
+RandomSeed: 2026108364
+ContainerSize: 14x10
+[001] Name: wine_berry | ItemId: wine_berry | Coordinate: (3,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[002] Name: wine_berry | ItemId: wine_berry | Coordinate: (5,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[003] Name: wine_berry | ItemId: wine_berry | Coordinate: (12,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[004] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (1,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[005] Name: wine_berry | ItemId: wine_berry | Coordinate: (8,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[006] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (4,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[007] Name: wine_berry | ItemId: wine_berry | Coordinate: (11,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[008] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (2,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[009] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (6,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[010] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (8,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[011] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (4,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[012] Name: cat_bar | ItemId: cat_bar | Coordinate: (10,4) | Size: 2x2 | Type: TREAT | Orientation: 0
+[013] Name: morsel | ItemId: morsel | Coordinate: (0,5) | Size: 1x2 | Type: FOOD | Orientation: 1
+[014] Name: wine_berry | ItemId: wine_berry | Coordinate: (1,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[015] Name: wine_berry | ItemId: wine_berry | Coordinate: (6,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[016] Name: zerochew | ItemId: zerochew | Coordinate: (9,5) | Size: 1x1 | Type: FOOD | Orientation: 0
+[017] Name: wine_berry | ItemId: wine_berry | Coordinate: (10,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[018] Name: raw_meat | ItemId: raw_meat | Coordinate: (1,7) | Size: 2x3 | Type: FOOD | Orientation: 1
+[019] Name: morsel | ItemId: morsel | Coordinate: (6,7) | Size: 2x1 | Type: FOOD | Orientation: 0
+[020] Name: wine_berry | ItemId: wine_berry | Coordinate: (5,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[021] Name: wine_berry | ItemId: wine_berry | Coordinate: (8,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+========== Result End ==========

@@ -1,0 +1,122 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:30.688
+Outcome: test-set
+TestSetId: 176
+Scenario: independent_30x20_messy_77pct
+LayoutMode: messy
+TargetDensity: 0.770
+ActualDensity: 0.770
+RandomSeed: 20261190784
+ContainerSize: 30x20
+[001] Name: sign_household | ItemId: sign_household | Coordinate: (1,0) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[002] Name: morsel | ItemId: morsel | Coordinate: (3,0) | Size: 2x1 | Type: FOOD | Orientation: 0
+[003] Name: wine_berry | ItemId: wine_berry | Coordinate: (5,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[004] Name: red_beer | ItemId: red_beer | Coordinate: (7,0) | Size: 4x1 | Type: SUBSTANCE | Orientation: 1
+[005] Name: processed_meat | ItemId: processed_meat | Coordinate: (11,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[006] Name: morsel | ItemId: morsel | Coordinate: (14,0) | Size: 1x2 | Type: FOOD | Orientation: 1
+[007] Name: zerochew | ItemId: zerochew | Coordinate: (17,0) | Size: 1x1 | Type: FOOD | Orientation: 0
+[008] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (20,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[009] Name: pink_injector | ItemId: pink_injector | Coordinate: (22,0) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[010] Name: raw_meat | ItemId: raw_meat | Coordinate: (26,0) | Size: 3x2 | Type: FOOD | Orientation: 0
+[011] Name: pink_injector | ItemId: pink_injector | Coordinate: (8,1) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[012] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (15,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[013] Name: processed_meat | ItemId: processed_meat | Coordinate: (17,1) | Size: 2x2 | Type: FOOD | Orientation: 0
+[014] Name: mentor_contract | ItemId: mentor_contract | Coordinate: (23,1) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[015] Name: cassette2d | ItemId: cassette2d | Coordinate: (0,2) | Size: 2x2 | Type: ART | Orientation: 0
+[016] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[017] Name: wine_berry | ItemId: wine_berry | Coordinate: (4,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[018] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (6,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[019] Name: salve | ItemId: salve | Coordinate: (9,2) | Size: 2x2 | Type: MEDICAL | Orientation: 0
+[020] Name: common_electronic | ItemId: common_electronic | Coordinate: (11,2) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[021] Name: mentor_contract | ItemId: mentor_contract | Coordinate: (20,2) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[022] Name: zerochew | ItemId: zerochew | Coordinate: (27,2) | Size: 1x1 | Type: FOOD | Orientation: 0
+[023] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (28,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[024] Name: smuggler_bay_mod | ItemId: smuggler_bay_mod | Coordinate: (16,3) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[025] Name: raw_meat | ItemId: raw_meat | Coordinate: (24,3) | Size: 2x3 | Type: FOOD | Orientation: 1
+[026] Name: processed_meat | ItemId: processed_meat | Coordinate: (26,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[027] Name: raw_meat | ItemId: raw_meat | Coordinate: (1,4) | Size: 2x3 | Type: FOOD | Orientation: 1
+[028] Name: raw_meat | ItemId: raw_meat | Coordinate: (9,4) | Size: 3x2 | Type: FOOD | Orientation: 0
+[029] Name: raw_meat | ItemId: raw_meat | Coordinate: (14,4) | Size: 2x3 | Type: FOOD | Orientation: 1
+[030] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (19,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[031] Name: raw_meat | ItemId: raw_meat | Coordinate: (21,4) | Size: 3x2 | Type: FOOD | Orientation: 0
+[032] Name: salve | ItemId: salve | Coordinate: (3,5) | Size: 2x2 | Type: MEDICAL | Orientation: 0
+[033] Name: raw_meat | ItemId: raw_meat | Coordinate: (6,5) | Size: 2x3 | Type: FOOD | Orientation: 1
+[034] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (12,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[035] Name: processed_meat | ItemId: processed_meat | Coordinate: (27,5) | Size: 2x2 | Type: FOOD | Orientation: 0
+[036] Name: box_tampon | ItemId: box_tampon | Coordinate: (8,6) | Size: 3x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[037] Name: cassette2d | ItemId: cassette2d | Coordinate: (16,6) | Size: 2x2 | Type: ART | Orientation: 0
+[038] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (20,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[039] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (23,6) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[040] Name: raw_meat | ItemId: raw_meat | Coordinate: (0,7) | Size: 2x3 | Type: FOOD | Orientation: 1
+[041] Name: wine_berry | ItemId: wine_berry | Coordinate: (2,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[042] Name: zerochew | ItemId: zerochew | Coordinate: (5,7) | Size: 1x1 | Type: FOOD | Orientation: 0
+[043] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (14,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[044] Name: zerochew | ItemId: zerochew | Coordinate: (18,7) | Size: 1x1 | Type: FOOD | Orientation: 0
+[045] Name: pink_injector | ItemId: pink_injector | Coordinate: (23,7) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[046] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (28,7) | Size: 2x2 | Type: FOOD | Orientation: 0
+[047] Name: processed_meat | ItemId: processed_meat | Coordinate: (6,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[048] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (16,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[049] Name: water_pitcher | ItemId: water_pitcher | Coordinate: (18,8) | Size: 3x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[050] Name: wine_bottle | ItemId: wine_bottle | Coordinate: (23,8) | Size: 1x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[051] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (25,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[052] Name: pink_injector | ItemId: pink_injector | Coordinate: (2,9) | Size: 1x4 | Type: NARCOTIC | Orientation: 1
+[053] Name: smuggler_bay_mod | ItemId: smuggler_bay_mod | Coordinate: (3,9) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[054] Name: nudka | ItemId: nudka | Coordinate: (9,9) | Size: 4x2 | Type: ALCOHOL | Orientation: 1
+[055] Name: tazer | ItemId: tazer | Coordinate: (13,9) | Size: 3x2 | Type: WEAPON | Orientation: 1
+[056] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (21,9) | Size: 2x2 | Type: FOOD | Orientation: 0
+[057] Name: morsel | ItemId: morsel | Coordinate: (28,9) | Size: 1x2 | Type: FOOD | Orientation: 1
+[058] Name: wine_berry | ItemId: wine_berry | Coordinate: (7,10) | Size: 2x2 | Type: FOOD | Orientation: 0
+[059] Name: energy_credit | ItemId: energy_credit | Coordinate: (24,10) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[060] Name: pink_injector | ItemId: pink_injector | Coordinate: (10,11) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[061] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (14,11) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[062] Name: common_electronic | ItemId: common_electronic | Coordinate: (15,11) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[063] Name: raw_meat | ItemId: raw_meat | Coordinate: (26,11) | Size: 2x3 | Type: FOOD | Orientation: 1
+[064] Name: zerochew | ItemId: zerochew | Coordinate: (28,11) | Size: 1x1 | Type: FOOD | Orientation: 0
+[065] Name: energy_credit | ItemId: energy_credit | Coordinate: (0,12) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[066] Name: processed_meat | ItemId: processed_meat | Coordinate: (3,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[067] Name: processed_meat | ItemId: processed_meat | Coordinate: (5,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[068] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (8,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[069] Name: metal_ingot | ItemId: metal_ingot | Coordinate: (10,12) | Size: 3x2 | Type: MATERIAL | Orientation: 0
+[070] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (13,12) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[071] Name: morsel | ItemId: morsel | Coordinate: (19,12) | Size: 1x2 | Type: FOOD | Orientation: 1
+[072] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (20,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[073] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (22,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[074] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (24,12) | Size: 2x2 | Type: FOOD | Orientation: 0
+[075] Name: wine_berry | ItemId: wine_berry | Coordinate: (14,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[076] Name: cassette2d | ItemId: cassette2d | Coordinate: (16,13) | Size: 2x2 | Type: ART | Orientation: 0
+[077] Name: morsel | ItemId: morsel | Coordinate: (18,13) | Size: 1x2 | Type: FOOD | Orientation: 1
+[078] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (28,13) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[079] Name: smuggler_bay_mod | ItemId: smuggler_bay_mod | Coordinate: (0,14) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[080] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (4,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[081] Name: cassette2d | ItemId: cassette2d | Coordinate: (7,14) | Size: 2x2 | Type: ART | Orientation: 0
+[082] Name: zerochew | ItemId: zerochew | Coordinate: (9,14) | Size: 1x1 | Type: FOOD | Orientation: 0
+[083] Name: processed_meat | ItemId: processed_meat | Coordinate: (10,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[084] Name: smuggler_bay_mod | ItemId: smuggler_bay_mod | Coordinate: (19,14) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[085] Name: mentor_contract | ItemId: mentor_contract | Coordinate: (24,14) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[086] Name: processed_meat | ItemId: processed_meat | Coordinate: (28,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[087] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (9,15) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[088] Name: morsel | ItemId: morsel | Coordinate: (12,15) | Size: 2x1 | Type: FOOD | Orientation: 0
+[089] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (16,15) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[090] Name: processed_cheese | ItemId: processed_cheese | Coordinate: (26,15) | Size: 2x2 | Type: FOOD | Orientation: 0
+[091] Name: processed_meat | ItemId: processed_meat | Coordinate: (5,16) | Size: 2x2 | Type: FOOD | Orientation: 0
+[092] Name: zerochew | ItemId: zerochew | Coordinate: (10,16) | Size: 1x1 | Type: FOOD | Orientation: 0
+[093] Name: small_bottled_water | ItemId: small_bottled_water | Coordinate: (13,16) | Size: 3x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[094] Name: raw_meat | ItemId: raw_meat | Coordinate: (16,16) | Size: 3x2 | Type: FOOD | Orientation: 0
+[095] Name: crypto_module_med | ItemId: crypto_module_med | Coordinate: (22,16) | Size: 2x1 | Type: CONTRABAND | Orientation: 0
+[096] Name: zerochew | ItemId: zerochew | Coordinate: (25,16) | Size: 1x1 | Type: FOOD | Orientation: 0
+[097] Name: system_module_quality | ItemId: system_module_quality | Coordinate: (28,16) | Size: 2x2 | Type: MODULE | Orientation: 0
+[098] Name: raw_meat | ItemId: raw_meat | Coordinate: (1,17) | Size: 2x3 | Type: FOOD | Orientation: 1
+[099] Name: mentor_contract | ItemId: mentor_contract | Coordinate: (3,17) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[100] Name: smuggler_bay_mod | ItemId: smuggler_bay_mod | Coordinate: (8,17) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[101] Name: pink_injector | ItemId: pink_injector | Coordinate: (12,17) | Size: 4x1 | Type: NARCOTIC | Orientation: 0
+[102] Name: salve | ItemId: salve | Coordinate: (20,17) | Size: 2x2 | Type: MEDICAL | Orientation: 0
+[103] Name: salve | ItemId: salve | Coordinate: (22,17) | Size: 2x2 | Type: MEDICAL | Orientation: 0
+[104] Name: raw_meat | ItemId: raw_meat | Coordinate: (25,17) | Size: 2x3 | Type: FOOD | Orientation: 1
+[105] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (6,18) | Size: 2x2 | Type: FOOD | Orientation: 0
+[106] Name: wine_berry | ItemId: wine_berry | Coordinate: (12,18) | Size: 2x2 | Type: FOOD | Orientation: 0
+[107] Name: cassette2d | ItemId: cassette2d | Coordinate: (14,18) | Size: 2x2 | Type: ART | Orientation: 0
+[108] Name: processed_meat | ItemId: processed_meat | Coordinate: (16,18) | Size: 2x2 | Type: FOOD | Orientation: 0
+[109] Name: processed_meat | ItemId: processed_meat | Coordinate: (18,18) | Size: 2x2 | Type: FOOD | Orientation: 0
+[110] Name: wine_berry | ItemId: wine_berry | Coordinate: (27,18) | Size: 2x2 | Type: FOOD | Orientation: 0
+[111] Name: morsel | ItemId: morsel | Coordinate: (3,19) | Size: 2x1 | Type: FOOD | Orientation: 0
+========== Result End ==========

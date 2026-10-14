@@ -1,0 +1,25 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.223
+Outcome: test-set
+TestSetId: 03
+Scenario: small_8x8_food_grouped
+LayoutMode: ordered
+TargetDensity: 0.620
+ActualDensity: 0.641
+RandomSeed: 2026104328
+ContainerSize: 8x8
+[001] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (0,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[002] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (2,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[003] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (4,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[004] Name: processed_meat | ItemId: processed_meat | Coordinate: (6,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[005] Name: dream_dust | ItemId: dream_dust | Coordinate: (0,2) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[006] Name: wire | ItemId: wire | Coordinate: (1,2) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[007] Name: wire | ItemId: wire | Coordinate: (3,2) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[008] Name: mini_bottle | ItemId: mini_bottle | Coordinate: (5,2) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[009] Name: nutrifruit | ItemId: nutrifruit | Coordinate: (6,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[010] Name: water_test_container | ItemId: water_test_container | Coordinate: (2,4) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[011] Name: water_test_container | ItemId: water_test_container | Coordinate: (3,4) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[012] Name: water_test_container | ItemId: water_test_container | Coordinate: (4,4) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+[013] Name: morsel | ItemId: morsel | Coordinate: (6,4) | Size: 2x1 | Type: FOOD | Orientation: 0
+[014] Name: water_test_container | ItemId: water_test_container | Coordinate: (4,5) | Size: 2x1 | Type: HOUSEHOLD_GOOD | Orientation: 1
+========== Result End ==========

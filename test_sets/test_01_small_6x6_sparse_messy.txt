@@ -1,0 +1,13 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:10:50.210
+Outcome: test-set
+TestSetId: 01
+Scenario: small_6x6_sparse_messy
+LayoutMode: messy
+TargetDensity: 0.280
+ActualDensity: 0.333
+RandomSeed: 2026102310
+ContainerSize: 6x6
+[001] Name: raw_meat | ItemId: raw_meat | Coordinate: (1,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[002] Name: raw_meat | ItemId: raw_meat | Coordinate: (0,3) | Size: 2x3 | Type: FOOD | Orientation: 1
+========== Result End ==========

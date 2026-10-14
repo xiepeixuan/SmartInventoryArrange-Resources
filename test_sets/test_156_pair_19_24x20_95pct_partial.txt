@@ -1,0 +1,97 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:28:23.430
+Outcome: test-set
+TestSetId: 156
+PairGroup: pair_19_24x20_95pct
+Scenario: paired_partial
+LayoutMode: partial
+TargetDensity: 0.950
+RandomSeed: 20261020971
+ContainerSize: 24x20
+[001] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (0,0) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[002] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[003] Name: processed_meat | ItemId: processed_meat | Coordinate: (4,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[004] Name: raw_meat | ItemId: raw_meat | Coordinate: (6,0) | Size: 3x2 | Type: FOOD | Orientation: 0
+[005] Name: raw_meat | ItemId: raw_meat | Coordinate: (9,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[006] Name: raw_meat | ItemId: raw_meat | Coordinate: (11,0) | Size: 2x3 | Type: FOOD | Orientation: 1
+[007] Name: blood_bag | ItemId: blood_bag | Coordinate: (13,0) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[008] Name: common_electronic | ItemId: common_electronic | Coordinate: (15,0) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[009] Name: black_lamp | ItemId: black_lamp | Coordinate: (17,0) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[010] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (19,0) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[011] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (20,0) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[012] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (21,0) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[013] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (22,0) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[014] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (23,0) | Size: 1x2 | Type: MEDICAL | Orientation: 0
+[015] Name: common_electronic | ItemId: common_electronic | Coordinate: (0,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[016] Name: raw_meat | ItemId: raw_meat | Coordinate: (2,2) | Size: 3x2 | Type: FOOD | Orientation: 0
+[017] Name: common_electronic | ItemId: common_electronic | Coordinate: (5,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[018] Name: common_electronic | ItemId: common_electronic | Coordinate: (7,2) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[019] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (19,2) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[020] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (21,2) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+[021] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (23,2) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[022] Name: processed_meat | ItemId: processed_meat | Coordinate: (9,3) | Size: 2x2 | Type: FOOD | Orientation: 0
+[023] Name: common_ore | ItemId: common_ore | Coordinate: (11,3) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[024] Name: blood_bag | ItemId: blood_bag | Coordinate: (13,3) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[025] Name: blood_bag | ItemId: blood_bag | Coordinate: (15,3) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[026] Name: blood_bag | ItemId: blood_bag | Coordinate: (17,3) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[027] Name: blood_bag | ItemId: blood_bag | Coordinate: (19,3) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[028] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (21,3) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[029] Name: blood_bag | ItemId: blood_bag | Coordinate: (2,4) | Size: 3x2 | Type: MEDICAL | Orientation: 1
+[030] Name: morsel | ItemId: morsel | Coordinate: (0,5) | Size: 2x1 | Type: FOOD | Orientation: 0
+[031] Name: service_box | ItemId: service_box | Coordinate: (5,5) | Size: 4x6 | Type: SUPPLY_CRATE | Orientation: 1
+[032] Name: common_electronic | ItemId: common_electronic | Coordinate: (9,5) | Size: 2x3 | Type: MATERIAL | Orientation: 1
+[033] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (0,6) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[034] Name: blood_bag | ItemId: blood_bag | Coordinate: (3,6) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[035] Name: processed_meat | ItemId: processed_meat | Coordinate: (11,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[036] Name: powerblock | ItemId: powerblock | Coordinate: (13,6) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[037] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (15,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[038] Name: processed_meat | ItemId: processed_meat | Coordinate: (17,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[039] Name: powerblock | ItemId: powerblock | Coordinate: (19,6) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[040] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (21,6) | Size: 2x2 | Type: FOOD | Orientation: 0
+[041] Name: water_test_container | ItemId: water_test_container | Coordinate: (23,6) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[042] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (9,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[043] Name: machine_bay | ItemId: machine_bay | Coordinate: (12,8) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[044] Name: blood_bag | ItemId: blood_bag | Coordinate: (16,8) | Size: 2x3 | Type: MEDICAL | Orientation: 0
+[045] Name: black_lamp | ItemId: black_lamp | Coordinate: (18,8) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[046] Name: wire | ItemId: wire | Coordinate: (20,8) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[047] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (22,8) | Size: 2x2 | Type: FOOD | Orientation: 0
+[048] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (0,9) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[049] Name: powerblock | ItemId: powerblock | Coordinate: (3,9) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[050] Name: powerblock | ItemId: powerblock | Coordinate: (20,10) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[051] Name: powerblock | ItemId: powerblock | Coordinate: (22,10) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[052] Name: fridge | ItemId: fridge | Coordinate: (3,11) | Size: 3x3 | Type: MACHINE | Orientation: 0
+[053] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (6,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[054] Name: smuggler_bay | ItemId: smuggler_bay | Coordinate: (9,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[055] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (16,11) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[056] Name: water_tablet_container | ItemId: water_tablet_container | Coordinate: (17,11) | Size: 1x3 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[057] Name: black_lamp | ItemId: black_lamp | Coordinate: (18,11) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[058] Name: storage_bay_chem | ItemId: storage_bay_chem | Coordinate: (0,12) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[059] Name: machine_bay | ItemId: machine_bay | Coordinate: (12,12) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[060] Name: powerblock | ItemId: powerblock | Coordinate: (20,12) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[061] Name: powerblock | ItemId: powerblock | Coordinate: (22,12) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[062] Name: storage_bay_chem | ItemId: storage_bay_chem | Coordinate: (3,14) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[063] Name: storage_bay_chem | ItemId: storage_bay_chem | Coordinate: (6,14) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[064] Name: storage_bay_chem | ItemId: storage_bay_chem | Coordinate: (9,14) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[065] Name: black_lamp | ItemId: black_lamp | Coordinate: (16,14) | Size: 2x3 | Type: ~unknown | Orientation: 0
+[066] Name: raw_meat | ItemId: raw_meat | Coordinate: (18,14) | Size: 2x3 | Type: FOOD | Orientation: 1
+[067] Name: processed_meat | ItemId: processed_meat | Coordinate: (20,14) | Size: 2x2 | Type: FOOD | Orientation: 0
+[068] Name: powerblock | ItemId: powerblock | Coordinate: (22,14) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[069] Name: toolbox | ItemId: toolbox | Coordinate: (0,15) | Size: 3x4 | Type: STORAGE | Orientation: 1
+[070] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (12,16) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[071] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (13,16) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[072] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (14,16) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[073] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (15,16) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[074] Name: powerblock | ItemId: powerblock | Coordinate: (20,16) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[075] Name: processed_meat | ItemId: processed_meat | Coordinate: (22,16) | Size: 2x2 | Type: FOOD | Orientation: 0
+[076] Name: powerblock | ItemId: powerblock | Coordinate: (3,17) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[077] Name: powerblock | ItemId: powerblock | Coordinate: (5,17) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[078] Name: powerblock | ItemId: powerblock | Coordinate: (7,17) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[079] Name: powerblock | ItemId: powerblock | Coordinate: (9,17) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[080] Name: small_raw_meat | ItemId: small_raw_meat | Coordinate: (11,17) | Size: 2x2 | Type: FOOD | Orientation: 0
+[081] Name: powerblock | ItemId: powerblock | Coordinate: (13,17) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[082] Name: wire | ItemId: wire | Coordinate: (15,17) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[083] Name: wire | ItemId: wire | Coordinate: (17,17) | Size: 2x2 | Type: MATERIAL | Orientation: 0
+[084] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (19,17) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[085] Name: system_module_efficiancy | ItemId: system_module_efficiancy | Coordinate: (20,18) | Size: 2x2 | Type: MODULE | Orientation: 0
+[086] Name: rubbing_alcohol | ItemId: rubbing_alcohol | Coordinate: (3,19) | Size: 2x1 | Type: MEDICAL | Orientation: 1
+========== Result End ==========

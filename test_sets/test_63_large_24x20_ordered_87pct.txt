@@ -1,0 +1,84 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:17:48.889
+Outcome: test-set
+TestSetId: 63
+Scenario: large_24x20_ordered_87pct
+LayoutMode: ordered
+TargetDensity: 0.870
+ActualDensity: 0.871
+RandomSeed: 2026164937
+ContainerSize: 24x20
+[001] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (0,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[002] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (1,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[003] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (2,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[004] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (3,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[005] Name: furnace_module_blast | ItemId: furnace_module_blast | Coordinate: (4,0) | Size: 1x4 | Type: MODULE | Orientation: 0
+[006] Name: powerblock | ItemId: powerblock | Coordinate: (5,0) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[007] Name: powerblock | ItemId: powerblock | Coordinate: (7,0) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[008] Name: powerblock | ItemId: powerblock | Coordinate: (9,0) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[009] Name: powerblock | ItemId: powerblock | Coordinate: (11,0) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[010] Name: powerblock | ItemId: powerblock | Coordinate: (13,0) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[011] Name: red_beer | ItemId: red_beer | Coordinate: (15,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[012] Name: red_beer | ItemId: red_beer | Coordinate: (16,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[013] Name: red_beer | ItemId: red_beer | Coordinate: (17,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[014] Name: red_beer | ItemId: red_beer | Coordinate: (18,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[015] Name: red_beer | ItemId: red_beer | Coordinate: (19,0) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[016] Name: machine_bay_ext | ItemId: machine_bay_ext | Coordinate: (20,0) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[017] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (5,2) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[018] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (7,2) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[019] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (9,2) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[020] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (11,2) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[021] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (13,2) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[022] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (0,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[023] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (1,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[024] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (2,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[025] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (3,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[026] Name: energy_credit_ext | ItemId: energy_credit_ext | Coordinate: (4,4) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[027] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (5,4) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[028] Name: blank_keycard | ItemId: blank_keycard | Coordinate: (7,4) | Size: 2x2 | Type: ACCESS_CARD | Orientation: 0
+[029] Name: storage_bay | ItemId: storage_bay | Coordinate: (9,4) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[030] Name: machine_bay_ext | ItemId: machine_bay_ext | Coordinate: (12,4) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[031] Name: machine_bay_ext | ItemId: machine_bay_ext | Coordinate: (16,4) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[032] Name: machine_bay_ext | ItemId: machine_bay_ext | Coordinate: (20,4) | Size: 4x4 | Type: STORAGE | Orientation: 0
+[033] Name: screwdriver | ItemId: screwdriver | Coordinate: (0,6) | Size: 1x3 | Type: TOOL | Orientation: 0
+[034] Name: screwdriver | ItemId: screwdriver | Coordinate: (1,6) | Size: 1x3 | Type: TOOL | Orientation: 0
+[035] Name: screwdriver | ItemId: screwdriver | Coordinate: (2,6) | Size: 1x3 | Type: TOOL | Orientation: 0
+[036] Name: screwdriver | ItemId: screwdriver | Coordinate: (3,6) | Size: 1x3 | Type: TOOL | Orientation: 0
+[037] Name: screwdriver | ItemId: screwdriver | Coordinate: (4,6) | Size: 1x3 | Type: TOOL | Orientation: 0
+[038] Name: screwdriver | ItemId: screwdriver | Coordinate: (5,6) | Size: 1x3 | Type: TOOL | Orientation: 0
+[039] Name: storage_bay | ItemId: storage_bay | Coordinate: (6,6) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[040] Name: storage_bay | ItemId: storage_bay | Coordinate: (9,7) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[041] Name: storage_bay | ItemId: storage_bay | Coordinate: (12,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[042] Name: storage_bay | ItemId: storage_bay | Coordinate: (15,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[043] Name: storage_bay | ItemId: storage_bay | Coordinate: (18,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[044] Name: storage_bay | ItemId: storage_bay | Coordinate: (21,8) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[045] Name: recharger | ItemId: recharger | Coordinate: (0,9) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[046] Name: recharger | ItemId: recharger | Coordinate: (2,9) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[047] Name: recharger | ItemId: recharger | Coordinate: (4,9) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[048] Name: storage_bay | ItemId: storage_bay | Coordinate: (6,9) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[049] Name: storage_bay | ItemId: storage_bay | Coordinate: (9,10) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[050] Name: storage_bay | ItemId: storage_bay | Coordinate: (12,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[051] Name: storage_bay | ItemId: storage_bay | Coordinate: (15,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[052] Name: storage_bay | ItemId: storage_bay | Coordinate: (18,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[053] Name: storage_bay | ItemId: storage_bay | Coordinate: (21,11) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[054] Name: powerblock | ItemId: powerblock | Coordinate: (6,12) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[055] Name: slip | ItemId: slip | Coordinate: (8,12) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[056] Name: recharger | ItemId: recharger | Coordinate: (0,13) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[057] Name: recharger | ItemId: recharger | Coordinate: (4,13) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[058] Name: powerblock | ItemId: powerblock | Coordinate: (8,13) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[059] Name: morsel | ItemId: morsel | Coordinate: (10,13) | Size: 1x2 | Type: FOOD | Orientation: 1
+[060] Name: slip | ItemId: slip | Coordinate: (11,13) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[061] Name: powerblock | ItemId: powerblock | Coordinate: (6,14) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[062] Name: storage_bay | ItemId: storage_bay | Coordinate: (12,14) | Size: 3x3 | Type: STORAGE | Orientation: 0
+[063] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (15,14) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[064] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (17,14) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[065] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (19,14) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[066] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (21,14) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[067] Name: recharger | ItemId: recharger | Coordinate: (0,15) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[068] Name: powerblock | ItemId: powerblock | Coordinate: (8,15) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[069] Name: recharger | ItemId: recharger | Coordinate: (10,15) | Size: 2x4 | Type: MACHINE | Orientation: 1
+[070] Name: powerblock | ItemId: powerblock | Coordinate: (6,16) | Size: 2x2 | Type: MACHINE | Orientation: 0
+[071] Name: toilet_paper | ItemId: toilet_paper | Coordinate: (15,16) | Size: 2x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[072] Name: recharger | ItemId: recharger | Coordinate: (2,17) | Size: 4x2 | Type: MACHINE | Orientation: 0
+[073] Name: powerblock | ItemId: powerblock | Coordinate: (8,17) | Size: 2x2 | Type: MACHINE | Orientation: 0
+========== Result End ==========

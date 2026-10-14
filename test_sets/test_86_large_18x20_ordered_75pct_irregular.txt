@@ -1,0 +1,82 @@
+========== Smart Arrange Result ==========
+Time: 2026-10-13 06:18:00.938
+Outcome: test-set
+TestSetId: 86
+Scenario: large_18x20_ordered_75pct_irregular
+LayoutMode: ordered
+TargetDensity: 0.750
+ActualDensity: 0.750
+RandomSeed: 2026188144
+ContainerSize: 18x20
+[001] Name: aug_id_guide | ItemId: aug_id_guide | Coordinate: (0,0) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[002] Name: aug_id_guide | ItemId: aug_id_guide | Coordinate: (2,0) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[003] Name: aug_id_guide | ItemId: aug_id_guide | Coordinate: (4,0) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[004] Name: sign_household | ItemId: sign_household | Coordinate: (6,0) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[005] Name: sign_household | ItemId: sign_household | Coordinate: (8,0) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[006] Name: sign_household | ItemId: sign_household | Coordinate: (10,0) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[007] Name: sign_household | ItemId: sign_household | Coordinate: (12,0) | Size: 2x2 | Type: ~unknown | Orientation: 0
+[008] Name: wine_berry | ItemId: wine_berry | Coordinate: (14,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[009] Name: wine_berry | ItemId: wine_berry | Coordinate: (16,0) | Size: 2x2 | Type: FOOD | Orientation: 0
+[010] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (0,2) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[011] Name: slip | ItemId: slip | Coordinate: (1,2) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[012] Name: slip | ItemId: slip | Coordinate: (2,2) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[013] Name: slip | ItemId: slip | Coordinate: (3,2) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[014] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (4,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[015] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (6,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[016] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (8,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[017] Name: wine_berry | ItemId: wine_berry | Coordinate: (10,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[018] Name: wine_berry | ItemId: wine_berry | Coordinate: (12,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[019] Name: wine_berry | ItemId: wine_berry | Coordinate: (14,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[020] Name: wine_berry | ItemId: wine_berry | Coordinate: (16,2) | Size: 2x2 | Type: FOOD | Orientation: 0
+[021] Name: water_jug | ItemId: water_jug | Coordinate: (0,3) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[022] Name: water_jug | ItemId: water_jug | Coordinate: (4,4) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[023] Name: galaxy_blend | ItemId: galaxy_blend | Coordinate: (8,4) | Size: 2x2 | Type: FOOD | Orientation: 0
+[024] Name: slip | ItemId: slip | Coordinate: (10,4) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[025] Name: slip | ItemId: slip | Coordinate: (11,4) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[026] Name: ribwich | ItemId: ribwich | Coordinate: (12,4) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[027] Name: ribwich | ItemId: ribwich | Coordinate: (14,4) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[028] Name: ribwich | ItemId: ribwich | Coordinate: (16,4) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[029] Name: ribwich | ItemId: ribwich | Coordinate: (10,5) | Size: 2x3 | Type: ~unknown | Orientation: 1
+[030] Name: sec_slip | ItemId: sec_slip | Coordinate: (8,6) | Size: 1x2 | Type: DOCUMENT | Orientation: 1
+[031] Name: sec_slip | ItemId: sec_slip | Coordinate: (9,6) | Size: 1x2 | Type: DOCUMENT | Orientation: 1
+[032] Name: water_jug | ItemId: water_jug | Coordinate: (0,7) | Size: 4x4 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[033] Name: ribwich | ItemId: ribwich | Coordinate: (12,7) | Size: 3x2 | Type: ~unknown | Orientation: 0
+[034] Name: ribwich | ItemId: ribwich | Coordinate: (15,7) | Size: 3x2 | Type: ~unknown | Orientation: 0
+[035] Name: wine_yeast | ItemId: wine_yeast | Coordinate: (4,8) | Size: 1x2 | Type: HOUSEHOLD_GOOD | Orientation: 0
+[036] Name: sec_keycard | ItemId: sec_keycard | Coordinate: (5,8) | Size: 2x2 | Type: CONTRABAND | Orientation: 0
+[037] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (7,8) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[038] Name: sec_slip | ItemId: sec_slip | Coordinate: (8,8) | Size: 2x1 | Type: DOCUMENT | Orientation: 0
+[039] Name: cigarette_guide | ItemId: cigarette_guide | Coordinate: (10,8) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[040] Name: sec_slip | ItemId: sec_slip | Coordinate: (8,9) | Size: 2x1 | Type: DOCUMENT | Orientation: 0
+[041] Name: cigarette_guide | ItemId: cigarette_guide | Coordinate: (12,9) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[042] Name: sign_water | ItemId: sign_water | Coordinate: (14,9) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[043] Name: red_beer | ItemId: red_beer | Coordinate: (17,9) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[044] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (4,10) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[045] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (5,10) | Size: 1x2 | Type: ENERGY_CELL | Orientation: 0
+[046] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (6,10) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[047] Name: cigarette_guide | ItemId: cigarette_guide | Coordinate: (8,10) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[048] Name: cigarette_guide | ItemId: cigarette_guide | Coordinate: (10,10) | Size: 2x2 | Type: DOCUMENT | Orientation: 0
+[049] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[050] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,11) | Size: 2x2 | Type: FOOD | Orientation: 0
+[051] Name: energy_credit_breeder | ItemId: energy_credit_breeder | Coordinate: (6,11) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[052] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (12,11) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[053] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (13,11) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[054] Name: sign_water | ItemId: sign_water | Coordinate: (14,11) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[055] Name: crypto_module_cmd | ItemId: crypto_module_cmd | Coordinate: (4,12) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[056] Name: small_pistol_ammo | ItemId: small_pistol_ammo | Coordinate: (5,12) | Size: 1x1 | Type: CONTRABAND | Orientation: 0
+[057] Name: energy_credit | ItemId: energy_credit | Coordinate: (6,12) | Size: 2x1 | Type: ENERGY_CELL | Orientation: 1
+[058] Name: slip | ItemId: slip | Coordinate: (8,12) | Size: 1x1 | Type: DOCUMENT | Orientation: 0
+[059] Name: dream_dust | ItemId: dream_dust | Coordinate: (10,12) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[060] Name: dream_dust | ItemId: dream_dust | Coordinate: (11,12) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[061] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (12,12) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[062] Name: birth_control_pill | ItemId: birth_control_pill | Coordinate: (13,12) | Size: 1x1 | Type: MEDICAL | Orientation: 0
+[063] Name: processed_meat | ItemId: processed_meat | Coordinate: (0,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[064] Name: processed_meat | ItemId: processed_meat | Coordinate: (2,13) | Size: 2x2 | Type: FOOD | Orientation: 0
+[065] Name: crypto_module_ser | ItemId: crypto_module_ser | Coordinate: (5,13) | Size: 1x2 | Type: CONTRABAND | Orientation: 1
+[066] Name: sign_water | ItemId: sign_water | Coordinate: (14,13) | Size: 3x2 | Type: ~unknown | Orientation: 1
+[067] Name: red_beer | ItemId: red_beer | Coordinate: (17,13) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[068] Name: red_beer | ItemId: red_beer | Coordinate: (13,15) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[069] Name: red_beer | ItemId: red_beer | Coordinate: (14,15) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[070] Name: red_beer | ItemId: red_beer | Coordinate: (15,15) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+[071] Name: red_beer | ItemId: red_beer | Coordinate: (16,15) | Size: 1x4 | Type: SUBSTANCE | Orientation: 0
+========== Result End ==========
