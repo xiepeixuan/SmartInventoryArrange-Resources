@@ -2,6 +2,10 @@
 
 Probably Stolen Demo 的离线库存渲染资源、物品元数据和布局测试集。用于从 SmartInventoryArrange 日志还原仓库/背包/容器布局，离线比较排序算法，无需每次进入游戏。
 
+## 许可证与素材范围
+
+本项目可授权的原创代码采用 **[MIT License](LICENSE)**；具体文件范围见 [LICENSE_SCOPE.md](LICENSE_SCOPE.md)，第三方依赖见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。**游戏图片、游戏导出数据和第三方组件不随本项目改为 MIT。** 游戏素材再分发的明确授权仍待核实；公开仓库和标注出处不等于取得授权。
+
 ## 与智能排列算法的关系
 
 本仓库是 **[SmartInventoryArrange 智能排列 Mod](https://github.com/xiepeixuan/SmartInventoryArrange)** 的公开离线素材与测试资源库。
