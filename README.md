@@ -2,6 +2,14 @@
 
 Probably Stolen Demo 的离线库存渲染资源、物品元数据和布局测试集。用于从 SmartInventoryArrange 日志还原仓库/背包/容器布局，离线比较排序算法，无需每次进入游戏。
 
+## 与智能排列算法的关系
+
+本仓库是 **[SmartInventoryArrange 智能排列 Mod](https://github.com/xiepeixuan/SmartInventoryArrange)** 的公开离线素材与测试资源库。
+
+算法研发先利用本库的贴图、真实占格、合法方向和测试输入，在游戏外生成、校验、渲染与比较候选布局；结合人工偏好标注进行可解释偏好模型的训练、校准和离线回归，不需要每次试验都实际进入游戏。离线结果准备好后，再构建 DLL 进入游戏验证实际排列、原生 API、事务提交和回滚。
+
+本库不是排序算法或训练系统，贴图也不会自行训练装箱；候选生成和安全约束由算法代码负责。离线通过与游戏内通过分别记录，最终仍以游戏内验证为准。
+
 ## 内容
 
 | 内容 | 数量/说明 |
@@ -37,7 +45,7 @@ git clone https://github.com/xiepeixuan/SmartInventoryArrange-Resources.git
 cd SmartInventoryArrange-Resources
 ```
 
-私有仓库需要有访问权限并先完成 GitHub 身份验证。不要只下载 EXE；必须同时保留 catalog 和 sprites。
+本仓库公开，可直接下载 ZIP 或克隆，无需申请访问权限。不要只下载 EXE；必须同时保留 catalog 和 sprites。
 
 ```text
 SmartInventoryArrange-Resources/
